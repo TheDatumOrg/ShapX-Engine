@@ -5,6 +5,8 @@
 1. [Overview](#overview)
 2. [Demonstration](#start)
 3. [Evaluation](#evaluation)
+4. [Contact](#Contact)
+5. [Acknowledgements](#Acknowledgements)
    
 <h2 id="overview"> 1. Overview </h2>
 
@@ -126,3 +128,19 @@ Shapley values across varied data scenarios.
 | DeepSHAP                                  | Deep                                  | Marginal Distribution: Empirical                                 |
 | DASP                                      | Deep                                  | Predetermined Baseline: Mean                                     |
 
+<h2 id="Contact"> 📫 4. Contact </h2>
+
+If you have any questions, suggestions, or ideas for improvement, feel free to:
+
+- Open an issue on this repository
+- Start a discussion
+- Reach out via email: Suchit Gupte (gupte.31@osu.edu), John Paparrizos (paparrizos.1@osu.edu)
+
+We welcome contributions and collaboration!
+
+---
+
+<h2 id="Acknowledgements"> ⭐ 5. Acknowledgements </h2>
+
+This project is part of a broader initiative to standardize and democratize interpretability research in machine learning.
+We thank the research community for their foundational work in Shapley value approximations and their continued efforts in explainable AI. This benchmark builds on their insights and aims to further the goal of trustworthy and transparent machine learning models.
