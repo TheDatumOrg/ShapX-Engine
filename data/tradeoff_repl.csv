@@ -1,0 +1,33 @@
+Model,Replacement Category,Replacement Strategy,Accuracy,Time
+agnostic,Conditional Distribution,Separate models,98.6275252,3681.329383
+agnostic,Predtermined,Zero,79.79422588,0.00002069906194
+agnostic,Predtermined,Mean,85.43791683,0.00002087755044
+agnostic,Marginal Distribution,Uniform,79.78212669,0.0007038387366
+agnostic,Marginal Distribution,Marginal,98.61426444,0.002621493069
+agnostic,Conditional Distribution,Conditional,98.61466058,0.04815082178
+agnostic,Conditional Distribution,Gaussian,98.61381941,0.05568111881
+agnostic,Conditional Distribution,Copula,98.61444473,0.05542590099
+linear,Conditional Distribution,Conditional,96.37314661,0.02468699529
+linear,Conditional Distribution,Copula,96.31304226,0.03140564706
+linear,Conditional Distribution,Gaussian,96.31622791,0.02992897647
+linear,Conditional Distribution,Marginal,97.07679783,0.01569126013
+linear,Predtermined,Mean,97.09511665,0.00001675568934
+linear,Conditional Distribution,Separate models,99.19791921,289.1857866
+linear,Conditional Distribution,Uniform,97.37960903,0.0008485740875
+linear,Predtermined,Zero,86.4511192,0.00001593459876
+nn,Conditional Distribution,Separate models,98.88009903,35419.6637
+nn,Predtermined,Zero,75.71067494,0.00003437795127
+nn,Predtermined,Mean,90.4531381,0.0001196758034
+nn,Marginal Distribution,Uniform,75.3063638,0.004015296637
+nn,Marginal Distribution,Marginal,97.8569893,0.001492517368
+nn,Conditional Distribution,Conditional,97.85698953,0.02724001053
+nn,Conditional Distribution,Gaussian,97.84970545,0.031279
+nn,Conditional Distribution,Copula,97.85698948,0.03250841053
+tree,Conditional Distribution,Separate models,97.91985462,34294.25878
+tree,Predtermined,Zero,77.62879928,0.000111710059
+tree,Predtermined,Mean,84.15316228,0.0001064672054
+tree,Marginal Distribution,Uniform,80.69031568,0.003355383878
+tree,Marginal Distribution,Marginal,98.46360671,0.002716353
+tree,Conditional Distribution,Conditional,98.46360681,0.03495819
+tree,Conditional Distribution,Gaussian,98.46360661,0.04034111
+tree,Conditional Distribution,Copula,98.46360671,0.04276941

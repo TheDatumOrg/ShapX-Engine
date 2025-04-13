@@ -1,0 +1,12 @@
+altair
+pandas
+streamlit
+streamlit-aggrid
+matplotlib
+numpy
+seaborn
+plotly
+ipywidgets
+shap
+networkx
+xgboost

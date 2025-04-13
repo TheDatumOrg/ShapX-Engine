@@ -1,0 +1,1213 @@
+Approximation,Model,dataset,Accuracy,Time,Features
+CES,Neural network,3droad,99.40758544,2.307918832,3
+Cohort,Neural network,3droad,99.24075854,2.307918832,3
+DASP,Neural network,3droad,99.99988461,0.2503508416,3
+DeepLIFT,Neural network,3droad,98.78416249,0.0009710571983,3
+DeepSHAP,Neural network,3droad,99.9984606,0.003286538702,3
+Exhaustive,Neural network,3droad,99.99995769,1686.938297,3
+IME,Neural network,3droad,99.9000125,0.349272168,3
+KernelSHAP,Neural network,3droad,99.99799371,0.06889625896,3
+MLE,Neural network,3droad,99.89786497,0.181506594,3
+Non-parametric KernelSHAP,Neural network,3droad,97.97002424,0.008391,3
+Parametric KernelSHAP,Neural network,3droad,97.97002754,0.008962,3
+SGDShapley,Neural network,3droad,99.99799371,0.110584082,3
+CES,Neural network,abalone,1.769338145,8.447684174,10
+Cohort,Neural network,abalone,1.769338145,8.447684174,10
+DASP,Neural network,abalone,99.9689259,0.25542807,10
+DeepLIFT,Neural network,abalone,98.36952682,0.002084105355,10
+DeepSHAP,Neural network,abalone,99.99689265,0.003387467066,10
+Exhaustive,Neural network,abalone,99.76332691,527202.2796,10
+IME,Neural network,abalone,99.23240386,0.4035047928,10
+KernelSHAP,Neural network,abalone,99.54312315,0.06976284909,10
+MLE,Neural network,abalone,98.31332393,0.2082095522,10
+Non-parametric KernelSHAP,Neural network,abalone,99.50105978,0.035548,10
+Parametric KernelSHAP,Neural network,abalone,99.50106038,0.043606,10
+SGDShapley,Neural network,abalone,49.15800039,0.1196524071,10
+CES,Neural network,admission,92.24197941,2.823523893,7
+Cohort,Neural network,admission,92.22419794,2.823523893,7
+DASP,Neural network,admission,97.47595964,0.2586626732,7
+DeepLIFT,Neural network,admission,95.30991427,0.0015218533,7
+DeepSHAP,Neural network,admission,97.27596106,0.004128330404,7
+Exhaustive,Neural network,admission,93.37315159,3090.873772,7
+IME,Neural network,admission,93.10619423,0.3897617383,7
+KernelSHAP,Neural network,admission,93.37315159,0.07016589714,7
+MLE,Neural network,admission,93.34591841,0.2021624435,7
+Non-parametric KernelSHAP,Neural network,admission,93.81947741,0.008438,7
+Parametric KernelSHAP,Neural network,admission,93.81947743,0.009254,7
+SGDShapley,Neural network,admission,93.37315159,0.1155014327,7
+CES,Neural network,adult,98.24494103,12.53753119,12
+Cohort,Neural network,adult,98.2424941,12.53753119,12
+DASP,Neural network,adult,99.8324118,0.2560527657,12
+DeepLIFT,Neural network,adult,98.05057905,0.002368388031,12
+DeepSHAP,Neural network,adult,99.88323939,0.003561045907,12
+Exhaustive,Neural network,adult,99.97067548,3632658.032,12
+IME,Neural network,adult,99.79665172,0.4152148095,12
+KernelSHAP,Neural network,adult,99.8744343,0.07002708262,12
+MLE,Neural network,adult,99.6127013,0.2103791894,12
+Non-parametric KernelSHAP,Neural network,adult,99.52532903,0.111433,12
+Parametric KernelSHAP,Neural network,adult,99.52532903,0.111433,12
+SGDShapley,Neural network,adult,64.77334469,0.1215503888,12
+CES,Neural network,advertisements,94.99506059,0.6559333223,4
+Cohort,Neural network,advertisements,94.92950606,0.6559333223,4
+DASP,Neural network,advertisements,97.40712797,0.2498883876,4
+DeepLIFT,Neural network,advertisements,95.32354439,0.001140460824,4
+DeepSHAP,Neural network,advertisements,97.20712294,0.008265459176,4
+Exhaustive,Neural network,advertisements,97.9738208,132.7577143,4
+IME,Neural network,advertisements,97.8603156,0.3089433511,4
+KernelSHAP,Neural network,advertisements,97.9738208,0.06885361671,4
+MLE,Neural network,advertisements,97.92731532,0.1839940331,4
+Non-parametric KernelSHAP,Neural network,advertisements,97.38635902,0.005665,4
+Parametric KernelSHAP,Neural network,advertisements,97.3863589,0.008035,4
+SGDShapley,Neural network,advertisements,93.3976726,0.1114804492,4
+CES,Neural network,advertising,94.94998188,0.8587512175,4
+Cohort,Neural network,advertising,94.94299819,0.8587512175,4
+DASP,Neural network,advertising,98.92170717,0.2460993564,4
+DeepLIFT,Neural network,advertising,97.29480838,0.001168601441,4
+DeepSHAP,Neural network,advertising,98.91707577,0.008322379806,4
+Exhaustive,Neural network,advertising,97.9738208,167.609395,4
+IME,Neural network,advertising,97.88361104,0.3639111844,4
+KernelSHAP,Neural network,advertising,97.9738208,0.0692114252,4
+MLE,Neural network,advertising,97.83039296,0.1885405598,4
+Non-parametric KernelSHAP,Neural network,advertising,97.38635902,0.005083,4
+Parametric KernelSHAP,Neural network,advertising,97.3863589,0.005538,4
+SGDShapley,Neural network,advertising,93.3976726,0.1086449731,4
+CES,Neural network,airfoil,99.58472856,4.127985415,5
+Cohort,Neural network,airfoil,99.52847286,4.127985415,5
+DASP,Neural network,airfoil,99.87245806,0.2552449674,5
+DeepLIFT,Neural network,airfoil,98.22858571,0.001208334981,5
+DeepSHAP,Neural network,airfoil,99.72458344,0.003211411563,5
+Exhaustive,Neural network,airfoil,99.98052092,1047.121028,5
+IME,Neural network,airfoil,99.82177079,0.3501641866,5
+KernelSHAP,Neural network,airfoil,99.89110468,0.06612025824,5
+MLE,Neural network,airfoil,99.78319742,0.178751749,5
+Non-parametric KernelSHAP,Neural network,airfoil,90.38036249,0.008897,5
+Parametric KernelSHAP,Neural network,airfoil,90.38036871,0.009485,5
+SGDShapley,Neural network,airfoil,99.26741574,0.1059727293,5
+CES,Neural network,airfoil-self-noise,99.58670726,2.470938148,5
+Cohort,Neural network,airfoil-self-noise,99.58267073,2.470938148,5
+DASP,Neural network,airfoil-self-noise,99.68464291,0.2539478851,5
+DeepLIFT,Neural network,airfoil-self-noise,98.52838537,0.001500708716,5
+DeepSHAP,Neural network,airfoil-self-noise,99.88464636,0.003259351037,5
+Exhaustive,Neural network,airfoil-self-noise,99.98052092,999.896301,5
+IME,Neural network,airfoil-self-noise,99.80005089,0.3391988147,5
+KernelSHAP,Neural network,airfoil-self-noise,99.89110468,0.05947363449,5
+MLE,Neural network,airfoil-self-noise,99.79211216,0.1771482251,5
+Non-parametric KernelSHAP,Neural network,airfoil-self-noise,90.38036249,0.007618,5
+Parametric KernelSHAP,Neural network,airfoil-self-noise,90.38036871,0.009831,5
+SGDShapley,Neural network,airfoil-self-noise,99.26741574,0.103633432,5
+CES,Neural network,airline-costs,25,0.1607638359,9
+Cohort,Neural network,airline-costs,25,0.1607638359,9
+DASP,Neural network,airline-costs,69.8126695,0.2429929018,9
+DeepLIFT,Neural network,airline-costs,68.01055296,0.001849438463,9
+DeepSHAP,Neural network,airline-costs,69.82670972,0.04747409821,9
+Exhaustive,Neural network,airline-costs,25,34177.18396,9
+IME,Neural network,airline-costs,25,0.4138595104,9
+KernelSHAP,Neural network,airline-costs,25,0.0709123373,9
+MLE,Neural network,airline-costs,25,0.203145957,9
+Non-parametric KernelSHAP,Neural network,airline-costs,25,0.010776,9
+Parametric KernelSHAP,Neural network,airline-costs,25,0.013215,9
+SGDShapley,Neural network,airline-costs,25,0.1236177683,9
+CES,Neural network,airquality,82.30445873,12.46760268,12
+Cohort,Neural network,airquality,82.23044587,12.46760268,12
+DASP,Neural network,airquality,99.92139799,0.2564366911,12
+DeepLIFT,Neural network,airquality,98.38959922,0.002556109884,12
+DeepSHAP,Neural network,airquality,99.93397997,0.003540494225,12
+Exhaustive,Neural network,airquality,99.97067548,3632658.032,12
+IME,Neural network,airquality,99.72387974,0.3853593624,12
+KernelSHAP,Neural network,airquality,99.91256273,0.05969872041,12
+MLE,Neural network,airquality,99.48660372,0.2001264724,12
+Non-parametric KernelSHAP,Neural network,airquality,99.91686658,0.103211,12
+Parametric KernelSHAP,Neural network,airquality,99.91686658,0.103211,12
+SGDShapley,Neural network,airquality,99.45865845,0.1109353911,12
+CES,Neural network,apartments,97.90970785,0.2506655271,3
+Cohort,Neural network,apartments,97.29097079,0.2506655271,3
+DASP,Neural network,apartments,99.20691895,0.2448277107,3
+DeepLIFT,Neural network,apartments,97.62764342,0.00106213643,3
+DeepSHAP,Neural network,apartments,99.0691898,0.01966032615,3
+Exhaustive,Neural network,apartments,98.03603393,18.67677855,3
+IME,Neural network,apartments,97.70563129,0.3563016195,3
+KernelSHAP,Neural network,apartments,98.03603393,0.06798160993,3
+MLE,Neural network,apartments,97.76860641,0.1791558357,3
+Non-parametric KernelSHAP,Neural network,apartments,98.57011814,0.004738,3
+Parametric KernelSHAP,Neural network,apartments,98.57011789,0.005126,3
+SGDShapley,Neural network,apartments,90.86740983,0.1008836398,3
+CES,Neural network,asia_gdp,97.0583143,0.3936020647,10
+Cohort,Neural network,asia_gdp,97.02583143,0.3936020647,10
+DASP,Neural network,asia_gdp,66.20831582,0.2406088284,10
+DeepLIFT,Neural network,asia_gdp,64.18988016,0.00220719065,10
+DeepSHAP,Neural network,asia_gdp,66.08315579,0.03508656366,10
+Exhaustive,Neural network,asia_gdp,99.76332691,527202.2796,10
+IME,Neural network,asia_gdp,96.78233769,0.3561641148,10
+KernelSHAP,Neural network,asia_gdp,96.82400292,0.06807148457,10
+MLE,Neural network,asia_gdp,96.93378075,0.212447507,10
+Non-parametric KernelSHAP,Neural network,asia_gdp,96.87211305,0.01705,10
+Parametric KernelSHAP,Neural network,asia_gdp,96.87211236,0.019822,10
+SGDShapley,Neural network,asia_gdp,97.91857177,0.1205637796,10
+CES,Neural network,auto-mpg,98.86673299,2.538046885,7
+Cohort,Neural network,auto-mpg,98.8266733,2.538046885,7
+DASP,Neural network,auto-mpg,99.8920597,0.259894261,7
+DeepLIFT,Neural network,auto-mpg,97.96396384,0.001515686512,7
+DeepSHAP,Neural network,auto-mpg,99.88920582,0.004965776664,7
+Exhaustive,Neural network,auto-mpg,99.48194121,5517.625793,7
+IME,Neural network,auto-mpg,99.34727679,0.3819933249,7
+KernelSHAP,Neural network,auto-mpg,99.48194121,0.05948313016,7
+MLE,Neural network,auto-mpg,99.40915517,0.2014902353,7
+Non-parametric KernelSHAP,Neural network,auto-mpg,99.15775349,0.006866,7
+Parametric KernelSHAP,Neural network,auto-mpg,99.15775307,0.008099,7
+SGDShapley,Neural network,auto-mpg,81.71808466,0.1199628408,7
+CES,Neural network,autompg,98.87272676,0.6967891622,7
+Cohort,Neural network,autompg,98.82727268,0.6967891622,7
+DASP,Neural network,autompg,99.92147995,0.2577390451,7
+DeepLIFT,Neural network,autompg,98.50956262,0.001440836036,7
+DeepSHAP,Neural network,autompg,99.91479905,0.004860571715,7
+Exhaustive,Neural network,autompg,99.48194121,12744.99108,7
+IME,Neural network,autompg,99.39776436,0.3853248578,7
+KernelSHAP,Neural network,autompg,99.48194121,0.0692996722,7
+MLE,Neural network,autompg,99.36613702,0.1990763884,7
+Non-parametric KernelSHAP,Neural network,autompg,99.15775349,0.00791,7
+Parametric KernelSHAP,Neural network,autompg,99.15775307,0.008195,7
+SGDShapley,Neural network,autompg,81.71808466,0.1170573491,7
+CES,Neural network,bikedaily,99.46928727,2.086309445,11
+Cohort,Neural network,bikedaily,99.42692873,2.086309445,11
+DASP,Neural network,bikedaily,99.95605641,0.2492786173,11
+DeepLIFT,Neural network,bikedaily,98.21168932,0.002169617017,11
+DeepSHAP,Neural network,bikedaily,99.96056405,0.003278328368,11
+Exhaustive,Neural network,bikedaily,99.95866795,386463.4873,11
+IME,Neural network,bikedaily,99.85060876,0.402834511,11
+KernelSHAP,Neural network,bikedaily,99.95866795,0.06943443196,11
+MLE,Neural network,bikedaily,99.84311371,0.209115521,11
+Non-parametric KernelSHAP,Neural network,bikedaily,99.96474584,0.047607,11
+Parametric KernelSHAP,Neural network,bikedaily,99.96474587,0.064846,11
+SGDShapley,Neural network,bikedaily,99.92385013,0.1155329677,11
+CES,Neural network,bikehourly,99.74581418,12.50908846,12
+Cohort,Neural network,bikehourly,99.74258142,12.50908846,12
+DASP,Neural network,bikehourly,99.65793462,0.2555679473,12
+DeepLIFT,Neural network,bikehourly,97.82488561,0.002931563666,12
+DeepSHAP,Neural network,bikehourly,99.67934566,0.003431563666,12
+Exhaustive,Neural network,bikehourly,99.95798618,3047545.072,12
+IME,Neural network,bikehourly,99.81960855,0.3812650984,12
+KernelSHAP,Neural network,bikehourly,99.88776269,0.06543433016,12
+MLE,Neural network,bikehourly,99.74838795,0.198501066,12
+Non-parametric KernelSHAP,Neural network,bikehourly,99.75981596,0.106977,12
+Parametric KernelSHAP,Neural network,bikehourly,99.75981596,0.106977,12
+SGDShapley,Neural network,bikehourly,95.16422103,0.114121065,12
+CES,Neural network,blood,80.83211544,1.720983183,4
+Cohort,Neural network,blood,80.83221154,1.720983183,4
+DASP,Neural network,blood,98.95656037,0.2573415442,4
+DeepLIFT,Neural network,blood,97.82091655,0.0009910500484,4
+DeepSHAP,Neural network,blood,98.96560351,0.003533595969,4
+Exhaustive,Neural network,blood,99.93100577,28.20331383,4
+IME,Neural network,blood,99.8609737,0.2589398579,4
+KernelSHAP,Neural network,blood,99.93100577,0.05677692128,4
+MLE,Neural network,blood,99.69461485,0.1423143945,4
+Non-parametric KernelSHAP,Neural network,blood,98.41662892,0.00785,4
+Parametric KernelSHAP,Neural network,blood,98.41663303,0.008128,4
+SGDShapley,Neural network,blood,88.75084424,0.110996618,4
+CES,Neural network,boston,99.58863552,7.219912834,13
+Cohort,Neural network,boston,99.25886355,7.219912834,13
+DASP,Neural network,boston,96.45768458,0.2592198592,13
+DeepLIFT,Neural network,boston,94.65137347,0.00357675212,13
+DeepSHAP,Neural network,boston,96.47684526,0.00407675212,13
+Exhaustive,Neural network,boston,99.91245898,3118060.987,13
+IME,Neural network,boston,98.25731151,0.3916742616,13
+KernelSHAP,Neural network,boston,98.33012881,0.06866232507,13
+MLE,Neural network,boston,98.0763571,0.2115675832,13
+Non-parametric KernelSHAP,Neural network,boston,97.77701296,0.192938,13
+Parametric KernelSHAP,Neural network,boston,97.77701296,0.192938,13
+SGDShapley,Neural network,boston,79.60565872,0.1206720746,13
+CES,Neural network,brainweight,98.30784415,0.4523345398,3
+Cohort,Neural network,brainweight,98.30278442,0.4523345398,3
+DASP,Neural network,brainweight,99.85969493,0.2433070442,3
+DeepLIFT,Neural network,brainweight,98.82731287,0.00090129466,3
+DeepSHAP,Neural network,brainweight,99.89694713,0.006861894946,3
+Exhaustive,Neural network,brainweight,98.20649075,30.06845784,3
+IME,Neural network,brainweight,98.11864637,0.2913442141,3
+KernelSHAP,Neural network,brainweight,98.20649075,0.06889288938,3
+MLE,Neural network,brainweight,98.0003242,0.1549926257,3
+Non-parametric KernelSHAP,Neural network,brainweight,97.64899247,0.007437,3
+Parametric KernelSHAP,Neural network,brainweight,97.64899255,0.009188,3
+SGDShapley,Neural network,brainweight,98.20563247,0.1129500956,3
+CES,Neural network,californiahousing,99.93123354,7.795960629,8
+Cohort,Neural network,californiahousing,99.93122335,7.795960629,8
+DASP,Neural network,californiahousing,99.85309847,0.2518545302,8
+DeepLIFT,Neural network,californiahousing,97.92086553,0.00164473129,8
+DeepSHAP,Neural network,californiahousing,99.83098482,0.003040290601,8
+Exhaustive,Neural network,californiahousing,99.9999579,164241.2905,8
+IME,Neural network,californiahousing,99.81001949,0.3570714423,8
+KernelSHAP,Neural network,californiahousing,99.91486558,0.05987248782,8
+MLE,Neural network,californiahousing,99.79448303,0.186509019,8
+Non-parametric KernelSHAP,Neural network,californiahousing,99.86065968,0.0138,8
+Parametric KernelSHAP,Neural network,californiahousing,99.86066096,0.016272,8
+SGDShapley,Neural network,californiahousing,99.94515604,0.11041236,8
+CES,Neural network,cancer,99.91992919,7.952756112,9
+Cohort,Neural network,cancer,99.92199292,7.952756112,9
+DASP,Neural network,cancer,99.45111384,0.2601720242,9
+DeepLIFT,Neural network,cancer,98.0878539,0.00178314628,9
+DeepSHAP,Neural network,cancer,99.41114118,0.003811705429,9
+Exhaustive,Neural network,cancer,99.92659686,91484.35898,9
+IME,Neural network,cancer,99.69570701,0.3250644154,9
+KernelSHAP,Neural network,cancer,99.92659686,0.06687051955,9
+MLE,Neural network,cancer,99.46022203,0.1694676591,9
+Non-parametric KernelSHAP,Neural network,cancer,99.88713939,0.017224,9
+Parametric KernelSHAP,Neural network,cancer,99.88713903,0.020281,9
+SGDShapley,Neural network,cancer,97.43935558,0.1142129645,9
+CES,Neural network,casp,98.77731321,7.082113709,9
+Cohort,Neural network,casp,98.72773132,7.082113709,9
+DASP,Neural network,casp,98.58037697,0.2586961082,9
+DeepLIFT,Neural network,casp,97.76843813,0.001776058843,9
+DeepSHAP,Neural network,casp,98.80376869,0.003312594963,9
+Exhaustive,Neural network,casp,99.9104662,369460.2279,9
+IME,Neural network,casp,99.90548224,0.3741378228,9
+KernelSHAP,Neural network,casp,99.98652536,0.05820494926,9
+MLE,Neural network,casp,99.90413853,0.1903803038,9
+Non-parametric KernelSHAP,Neural network,casp,94.67331912,0.021752,9
+Parametric KernelSHAP,Neural network,casp,94.67331049,0.036709,9
+SGDShapley,Neural network,casp,99.98652536,0.1166542566,9
+CES,Neural network,challenger,25,0.0257704556,4
+Cohort,Neural network,challenger,25,0.0257704556,4
+DASP,Neural network,challenger,93.46599335,0.2503295839,4
+DeepLIFT,Neural network,challenger,92.06245482,0.001324350184,4
+DeepSHAP,Neural network,challenger,93.46994195,0.06186509132,4
+Exhaustive,Neural network,challenger,25,83.215765,4
+IME,Neural network,challenger,25,0.3056128025,4
+KernelSHAP,Neural network,challenger,25,0.06919914484,4
+MLE,Neural network,challenger,25,0.1623111963,4
+Non-parametric KernelSHAP,Neural network,challenger,25,0.005587,4
+Parametric KernelSHAP,Neural network,challenger,25,0.004822,4
+SGDShapley,Neural network,challenger,25,0.1201807559,4
+CES,Neural network,chanceadmit,97.07584139,2.568515816,7
+Cohort,Neural network,chanceadmit,97.07258414,2.568515816,7
+DASP,Neural network,chanceadmit,99.85257372,0.2591337814,7
+DeepLIFT,Neural network,chanceadmit,98.24249433,0.001521775939,7
+DeepSHAP,Neural network,chanceadmit,99.85273638,0.004876817718,7
+Exhaustive,Neural network,chanceadmit,98.28567042,2362.737417,7
+IME,Neural network,chanceadmit,98.08057175,0.3826639544,7
+KernelSHAP,Neural network,chanceadmit,98.28567042,0.07015090097,7
+MLE,Neural network,chanceadmit,98.24911773,0.2004912875,7
+Non-parametric KernelSHAP,Neural network,chanceadmit,98.55014829,0.007904,7
+Parametric KernelSHAP,Neural network,chanceadmit,98.5501483,0.008499,7
+SGDShapley,Neural network,chanceadmit,98.28567042,0.1156619029,7
+CES,Neural network,chickweight,99.79685467,0.8920817614,3
+Cohort,Neural network,chickweight,99.72968547,0.8920817614,3
+DASP,Neural network,chickweight,99.62541012,0.2565414843,3
+DeepLIFT,Neural network,chickweight,98.60694755,0.0009019849188,3
+DeepSHAP,Neural network,chickweight,99.62410246,0.003644246706,3
+Exhaustive,Neural network,chickweight,99.48640004,56.40137815,3
+IME,Neural network,chickweight,99.39075693,0.2930076222,3
+KernelSHAP,Neural network,chickweight,99.48640004,0.06767598871,3
+MLE,Neural network,chickweight,99.36019535,0.1329801182,3
+Non-parametric KernelSHAP,Neural network,chickweight,99.40789604,0.00672,3
+Parametric KernelSHAP,Neural network,chickweight,99.4078961,0.006985,3
+SGDShapley,Neural network,chickweight,99.72748604,0.1123978792,3
+CES,Neural network,cms,98.91497793,7.831970069,8
+Cohort,Neural network,cms,98.91249779,7.831970069,8
+DASP,Neural network,cms,99.95586766,0.2556348801,8
+DeepLIFT,Neural network,cms,98.74393454,0.001631960724,8
+DeepSHAP,Neural network,cms,99.9586767,0.003034155297,8
+Exhaustive,Neural network,cms,99.89842488,23480.86135,8
+IME,Neural network,cms,99.50436436,0.3856557254,8
+KernelSHAP,Neural network,cms,99.62070837,0.06008630594,8
+MLE,Neural network,cms,99.478771,0.1782562321,8
+Non-parametric KernelSHAP,Neural network,cms,99.55423341,0.014685,8
+Parametric KernelSHAP,Neural network,cms,99.55423241,0.017847,8
+SGDShapley,Neural network,cms,51.00887016,0.1167377414,8
+CES,Neural network,computer,97.26954623,0.8304980389,7
+Cohort,Neural network,computer,97.22695462,0.8304980389,7
+DASP,Neural network,computer,98.46751885,0.2436406301,7
+DeepLIFT,Neural network,computer,97.45910346,0.00157595909,7
+DeepSHAP,Neural network,computer,98.46718728,0.0077977837,7
+Exhaustive,Neural network,computer,99.29481939,11330.45416,7
+IME,Neural network,computer,99.25564183,0.3257264573,7
+KernelSHAP,Neural network,computer,99.29481939,0.06919223329,7
+MLE,Neural network,computer,99.08772945,0.1748541507,7
+Non-parametric KernelSHAP,Neural network,computer,98.62390897,0.007313,7
+Parametric KernelSHAP,Neural network,computer,98.62391166,0.010278,7
+SGDShapley,Neural network,computer,98.4675563,0.1168723625,7
+CES,Neural network,concrete,98.91352343,7.829243779,8
+Cohort,Neural network,concrete,98.91235234,7.829243779,8
+DASP,Neural network,concrete,99.92546858,0.2555681062,8
+DeepLIFT,Neural network,concrete,98.32123577,0.001619326262,8
+DeepSHAP,Neural network,concrete,99.92468551,0.003100981134,8
+Exhaustive,Neural network,concrete,99.89842488,23121.8107,8
+IME,Neural network,concrete,99.48196038,0.353766635,8
+KernelSHAP,Neural network,concrete,99.62070837,0.06482761051,8
+MLE,Neural network,concrete,99.47542447,0.1879119375,8
+Non-parametric KernelSHAP,Neural network,concrete,99.55423341,0.013037,8
+Parametric KernelSHAP,Neural network,concrete,99.55423241,0.016515,8
+SGDShapley,Neural network,concrete,51.00887016,0.1092239561,8
+CES,Neural network,const-maint,99.10265259,0.08880725774,4
+Cohort,Neural network,const-maint,99.10262526,0.08880725774,4
+DASP,Neural network,const-maint,99.75486378,0.2503662326,4
+DeepLIFT,Neural network,const-maint,98.39797595,0.001097944048,4
+DeepSHAP,Neural network,const-maint,99.74863968,0.04532309012,4
+Exhaustive,Neural network,const-maint,99.21898758,117.5059986,4
+IME,Neural network,const-maint,99.11487898,0.3674921989,4
+KernelSHAP,Neural network,const-maint,99.21898758,0.06689600511,4
+MLE,Neural network,const-maint,99.10020995,0.1913137002,4
+Non-parametric KernelSHAP,Neural network,const-maint,99.9999977,0.02119,4
+Parametric KernelSHAP,Neural network,const-maint,99.9999977,0.00521,4
+SGDShapley,Neural network,const-maint,99.14023315,0.0969387618,4
+CES,Neural network,country-data,99.66807484,1.481678784,9
+Cohort,Neural network,country-data,99.66280748,1.481678784,9
+DASP,Neural network,country-data,98.86258747,0.2458099255,9
+DeepLIFT,Neural network,country-data,97.32552927,0.001881030112,9
+DeepSHAP,Neural network,country-data,98.86287351,0.009479284286,9
+Exhaustive,Neural network,country-data,99.9104662,369460.2279,9
+IME,Neural network,country-data,99.24789129,0.4044038483,9
+KernelSHAP,Neural network,country-data,99.44265424,0.06713996189,9
+MLE,Neural network,country-data,99.35944374,0.2065210683,9
+Non-parametric KernelSHAP,Neural network,country-data,99.52630699,0.011415,9
+Parametric KernelSHAP,Neural network,country-data,99.5263086,0.017687,9
+SGDShapley,Neural network,country-data,96.90694479,0.1183345446,9
+CES,Neural network,crab,98.5344357,8.543349426,8
+Cohort,Neural network,crab,98.25344357,8.543349426,8
+DASP,Neural network,crab,99.10945325,0.2549159072,8
+DeepLIFT,Neural network,crab,97.19173661,0.001634125634,8
+DeepSHAP,Neural network,crab,99.10943213,0.003399063602,8
+Exhaustive,Neural network,crab,99.9217702,60399.25401,8
+IME,Neural network,crab,98.47605189,0.3469872879,8
+KernelSHAP,Neural network,crab,98.61515222,0.06428562367,8
+MLE,Neural network,crab,98.44285475,0.1834532355,8
+Non-parametric KernelSHAP,Neural network,crab,98.66192179,0.015187,8
+Parametric KernelSHAP,Neural network,crab,98.66192158,0.01639,8
+SGDShapley,Neural network,crab,99.6509745,0.1039495974,8
+CES,Neural network,cust,99.99713277,8.208586109,8
+Cohort,Neural network,cust,99.99271328,8.208586109,8
+DASP,Neural network,cust,99.75892562,0.2612310644,8
+DeepLIFT,Neural network,cust,98.4379149,0.001625328552,8
+DeepSHAP,Neural network,cust,99.78925696,0.003471013066,8
+Exhaustive,Neural network,cust,99.95935146,22349.11304,8
+IME,Neural network,cust,99.87069294,0.3488645325,8
+KernelSHAP,Neural network,cust,99.95935146,0.06415908447,8
+MLE,Neural network,cust,99.87065196,0.1736769897,8
+Non-parametric KernelSHAP,Neural network,cust,99.88692591,0.01428,8
+Parametric KernelSHAP,Neural network,cust,99.8869258,0.015155,8
+SGDShapley,Neural network,cust,97.60696926,0.1045956162,8
+CES,Neural network,diabetes,99.9815945,6.465423894,8
+Cohort,Neural network,diabetes,99.98125945,6.465423894,8
+DASP,Neural network,diabetes,99.98759617,0.2560978799,8
+DeepLIFT,Neural network,diabetes,98.62480271,0.001661031265,8
+DeepSHAP,Neural network,diabetes,99.98796165,0.00334600764,8
+Exhaustive,Neural network,diabetes,99.88434768,21692.54237,8
+IME,Neural network,diabetes,99.7384553,0.3615694497,8
+KernelSHAP,Neural network,diabetes,99.88434768,0.06611999189,8
+MLE,Neural network,diabetes,99.69568836,0.1873855516,8
+Non-parametric KernelSHAP,Neural network,diabetes,99.90447342,0.013035,8
+Parametric KernelSHAP,Neural network,diabetes,99.90447326,0.01641,8
+SGDShapley,Neural network,diabetes,62.92174455,0.1106934407,8
+CES,Neural network,diamond,99.1454102,2.832183318,7
+Cohort,Neural network,diamond,99.14254102,2.832183318,7
+DASP,Neural network,diamond,99.69545961,0.2542014808,7
+DeepLIFT,Neural network,diamond,97.93733183,0.001517749555,7
+DeepSHAP,Neural network,diamond,99.69549599,0.003158273119,7
+Exhaustive,Neural network,diamond,99.9990796,25130.38173,7
+IME,Neural network,diamond,99.79689726,0.3270078674,7
+KernelSHAP,Neural network,diamond,99.90996045,0.06045695579,7
+MLE,Neural network,diamond,99.78186199,0.1754083489,7
+Non-parametric KernelSHAP,Neural network,diamond,99.90468202,0.013342,7
+Parametric KernelSHAP,Neural network,diamond,99.90468208,0.01405,7
+SGDShapley,Neural network,diamond,96.05824302,0.1007469726,7
+CES,Neural network,diamonds_filter,96.96068764,2.061358078,4
+Cohort,Neural network,diamonds_filter,96.92606876,2.061358078,4
+DASP,Neural network,diamonds_filter,99.65425654,0.2586685299,4
+DeepLIFT,Neural network,diamonds_filter,98.58576589,0.001071697293,4
+DeepSHAP,Neural network,diamonds_filter,99.65426673,0.00389716842,4
+Exhaustive,Neural network,diamonds_filter,99.99574125,83.03298855,4
+IME,Neural network,diamonds_filter,99.9182048,0.3580719774,4
+KernelSHAP,Neural network,diamonds_filter,99.99574125,0.0615608945,4
+MLE,Neural network,diamonds_filter,99.86081316,0.1852063398,4
+Non-parametric KernelSHAP,Neural network,diamonds_filter,99.9864909,0.006996,4
+Parametric KernelSHAP,Neural network,diamonds_filter,99.98649091,0.00927,4
+SGDShapley,Neural network,diamonds_filter,97.22834493,0.1128515523,4
+CES,Neural network,diamonds_select,98.50376463,2.508661525,4
+Cohort,Neural network,diamonds_select,98.50237646,2.508661525,4
+DASP,Neural network,diamonds_select,99.60515646,0.2528410673,4
+DeepLIFT,Neural network,diamonds_select,98.51120258,0.001085356662,4
+DeepSHAP,Neural network,diamonds_select,99.60156224,0.00327964985,4
+Exhaustive,Neural network,diamonds_select,99.10554289,339.0641546,4
+IME,Neural network,diamonds_select,98.97895779,0.3306572668,4
+KernelSHAP,Neural network,diamonds_select,99.10554289,0.06417839021,4
+MLE,Neural network,diamonds_select,98.91839209,0.1703519698,4
+Non-parametric KernelSHAP,Neural network,diamonds_select,98.7089165,0.008585,4
+Parametric KernelSHAP,Neural network,diamonds_select,98.70891652,0.008874,4
+SGDShapley,Neural network,diamonds_select,99.95422357,0.1060352752,4
+CES,Neural network,economics,99.77854496,2.035833879,4
+Cohort,Neural network,economics,99.7278545,2.035833879,4
+DASP,Neural network,economics,99.98055571,0.2544705265,4
+DeepLIFT,Neural network,economics,98.86108581,0.001121454239,4
+DeepSHAP,Neural network,economics,99.98055688,0.004086131799,4
+Exhaustive,Neural network,economics,98.12339566,114.6577244,4
+IME,Neural network,economics,97.89967084,0.359784568,4
+KernelSHAP,Neural network,economics,98.12339566,0.07105656423,4
+MLE,Neural network,economics,98.14628797,0.1835032639,4
+Non-parametric KernelSHAP,Neural network,economics,96.14947066,0.007635,4
+Parametric KernelSHAP,Neural network,economics,96.14947022,0.00711,4
+SGDShapley,Neural network,economics,98.51597643,0.1110297015,4
+CES,Neural network,employee,90.59246124,7.11578186,9
+Cohort,Neural network,employee,90.52924612,7.11578186,9
+DASP,Neural network,employee,99.62582191,0.2583469131,9
+DeepLIFT,Neural network,employee,98.38369407,0.001881334144,9
+DeepSHAP,Neural network,employee,99.62821922,0.00327454119,9
+Exhaustive,Neural network,employee,99.8893456,71006.70045,9
+IME,Neural network,employee,96.419748,0.3566279736,9
+KernelSHAP,Neural network,employee,96.60885711,0.06478085301,9
+MLE,Neural network,employee,96.61359649,0.1827623165,9
+Non-parametric KernelSHAP,Neural network,employee,97.24429431,0.026293,9
+Parametric KernelSHAP,Neural network,employee,97.24429407,0.026044,9
+SGDShapley,Neural network,employee,97.01777309,0.1102018754,9
+CES,Neural network,energy,99.73651506,8.334869409,9
+Cohort,Neural network,energy,99.72365151,8.334869409,9
+DASP,Neural network,energy,99.70450302,0.2576497061,9
+DeepLIFT,Neural network,energy,97.81738305,0.001840201291,9
+DeepSHAP,Neural network,energy,99.70403056,0.003662297106,9
+Exhaustive,Neural network,energy,99.8893456,71006.70045,9
+IME,Neural network,energy,99.77950394,0.3979317307,9
+KernelSHAP,Neural network,energy,99.8893456,0.06958119606,9
+MLE,Neural network,energy,99.7774721,0.2093009432,9
+Non-parametric KernelSHAP,Neural network,energy,99.89008028,0.018985,9
+Parametric KernelSHAP,Neural network,energy,99.89008025,0.022054,9
+SGDShapley,Neural network,energy,98.75364483,0.1179538599,9
+CES,Neural network,energy_cool,95.08973209,7.96691278,8
+Cohort,Neural network,energy_cool,95.08297321,7.96691278,8
+DASP,Neural network,energy_cool,99.75851885,0.2583612532,8
+DeepLIFT,Neural network,energy_cool,98.08408303,0.001687129339,8
+DeepSHAP,Neural network,energy_cool,99.7581903,0.003646095907,8
+Exhaustive,Neural network,energy_cool,99.63248529,19165.9227,8
+IME,Neural network,energy_cool,99.52881798,0.326338906,8
+KernelSHAP,Neural network,energy_cool,99.63248529,0.06027119836,8
+MLE,Neural network,energy_cool,99.43320877,0.1711707857,8
+Non-parametric KernelSHAP,Neural network,energy_cool,99.59621259,0.011548,8
+Parametric KernelSHAP,Neural network,energy_cool,99.59621252,0.014313,8
+SGDShapley,Neural network,energy_cool,88.20177802,0.09827661045,8
+CES,Neural network,energy_heat,96.07946415,7.959060576,8
+Cohort,Neural network,energy_heat,96.07294642,7.959060576,8
+DASP,Neural network,energy_heat,99.85850997,0.2591343902,8
+DeepLIFT,Neural network,energy_heat,98.66274636,0.001650403485,8
+DeepSHAP,Neural network,energy_heat,99.88509924,0.003528038348,8
+Exhaustive,Neural network,energy_heat,99.69915198,38510.56429,8
+IME,Neural network,energy_heat,99.59848331,0.3491136643,8
+KernelSHAP,Neural network,energy_heat,99.69915198,0.05949039816,8
+MLE,Neural network,energy_heat,99.60075286,0.1861105106,8
+Non-parametric KernelSHAP,Neural network,energy_heat,99.68929454,0.012855,8
+Parametric KernelSHAP,Neural network,energy_heat,99.68929449,0.014965,8
+SGDShapley,Neural network,energy_heat,92.33225654,0.1102783445,8
+CES,Neural network,forest,91.35691046,2.93713171,12
+Cohort,Neural network,forest,91.32569105,2.93713171,12
+DASP,Neural network,forest,99.58085153,0.2542076167,12
+DeepLIFT,Neural network,forest,98.20938617,0.003477644513,12
+DeepSHAP,Neural network,forest,99.5808147,0.003977644513,12
+Exhaustive,Neural network,forest,99.95476991,1009828.589,12
+IME,Neural network,forest,99.80814205,0.4078586032,12
+KernelSHAP,Neural network,forest,99.95476991,0.06090156098,12
+MLE,Neural network,forest,98.87522056,0.212929893,12
+Non-parametric KernelSHAP,Neural network,forest,98.60786285,0.075405,12
+Parametric KernelSHAP,Neural network,forest,98.60786285,0.075405,12
+SGDShapley,Neural network,forest,98.60536059,0.1072849572,12
+CES,Neural network,forestfire,97.78023028,8.398755636,12
+Cohort,Neural network,forestfire,97.72802303,8.398755636,12
+DASP,Neural network,forestfire,99.82252335,0.2587670429,12
+DeepLIFT,Neural network,forestfire,97.958345,0.003710018972,12
+DeepSHAP,Neural network,forestfire,99.82223408,0.004210018972,12
+Exhaustive,Neural network,forestfire,99.99775298,2759912.559,12
+IME,Neural network,forestfire,99.60068156,0.4258678294,12
+KernelSHAP,Neural network,forestfire,99.72541619,0.06970737273,12
+MLE,Neural network,forestfire,99.3735428,0.2160259743,12
+Non-parametric KernelSHAP,Neural network,forestfire,99.25223921,0.091132,12
+Parametric KernelSHAP,Neural network,forestfire,99.25223921,0.091132,12
+SGDShapley,Neural network,forestfire,99.99376048,0.1055546699,12
+CES,Neural network,france,99.89718829,2.832878482,7
+Cohort,Neural network,france,99.82971883,2.832878482,7
+DASP,Neural network,france,99.77519831,0.2542007836,7
+DeepLIFT,Neural network,france,98.23425333,0.001539509471,7
+DeepSHAP,Neural network,france,99.77198258,0.003123424992,7
+Exhaustive,Neural network,france,99.97368419,36743.9217,7
+IME,Neural network,france,99.8633703,0.3403160514,7
+KernelSHAP,Neural network,france,99.98683049,0.06430380561,7
+MLE,Neural network,france,99.83816345,0.1781385183,7
+Non-parametric KernelSHAP,Neural network,france,99.97949568,0.011377,7
+Parametric KernelSHAP,Neural network,france,99.97949569,0.013506,7
+SGDShapley,Neural network,france,99.98683049,0.1046430768,7
+CES,Neural network,friedman,99.13591511,7.116019318,9
+Cohort,Neural network,friedman,99.13259151,7.116019318,9
+DASP,Neural network,friedman,99.53557579,0.2541516434,9
+DeepLIFT,Neural network,friedman,98.10720667,0.002103584153,9
+DeepSHAP,Neural network,friedman,99.53575989,0.003340523893,9
+Exhaustive,Neural network,friedman,99.99069981,32239.36624,9
+IME,Neural network,friedman,99.22149831,0.3537201961,9
+KernelSHAP,Neural network,friedman,99.33455247,0.06360673471,9
+MLE,Neural network,friedman,99.18504933,0.1867739605,9
+Non-parametric KernelSHAP,Neural network,friedman,99.39424202,0.018362,9
+Parametric KernelSHAP,Neural network,friedman,99.39424192,0.027257,9
+SGDShapley,Neural network,friedman,96.06198449,0.1090521451,9
+CES,Neural network,germany,97.88832002,2.831861691,7
+Cohort,Neural network,germany,97.882832,2.831861691,7
+DASP,Neural network,germany,98.53651513,0.254982996,7
+DeepLIFT,Neural network,germany,96.69852868,0.001570835346,7
+DeepSHAP,Neural network,germany,98.53615004,0.003136751869,7
+Exhaustive,Neural network,germany,99.98389426,23378.68982,7
+IME,Neural network,germany,99.58854248,0.3601617307,7
+KernelSHAP,Neural network,germany,99.65364858,0.06761466445,7
+MLE,Neural network,germany,99.59733655,0.1773822813,7
+Non-parametric KernelSHAP,Neural network,germany,99.99317961,0.012113,7
+Parametric KernelSHAP,Neural network,germany,99.99317962,0.014001,7
+SGDShapley,Neural network,germany,99.97133224,0.1167089824,7
+CES,Neural network,glass,99.09672705,2.790579245,9
+Cohort,Neural network,glass,99.09267271,2.790579245,9
+DASP,Neural network,glass,95.97588681,0.246497396,9
+DeepLIFT,Neural network,glass,94.16880998,0.001812673338,9
+DeepSHAP,Neural network,glass,95.9788627,0.007549450431,9
+Exhaustive,Neural network,glass,99.07069981,32239.36624,9
+IME,Neural network,glass,99.02561229,0.4097004676,9
+KernelSHAP,Neural network,glass,99.07069981,0.06826070329,9
+MLE,Neural network,glass,98.68798881,0.207608458,9
+Non-parametric KernelSHAP,Neural network,glass,99.06712743,0.012394,9
+Parametric KernelSHAP,Neural network,glass,99.06712819,0.014367,9
+SGDShapley,Neural network,glass,99.07069981,0.1195261478,9
+CES,Neural network,heart_disease,99.97812794,4.692787046,13
+Cohort,Neural network,heart_disease,99.92781279,4.692787046,13
+DASP,Neural network,heart_disease,89.27511204,0.2626304176,13
+DeepLIFT,Neural network,heart_disease,87.61259547,0.005684289191,13
+DeepSHAP,Neural network,heart_disease,89.27109874,0.006184289191,13
+Exhaustive,Neural network,heart_disease,99.91245898,3118060.987,13
+IME,Neural network,heart_disease,99.82637737,0.3819471651,13
+KernelSHAP,Neural network,heart_disease,99.91245898,0.07068498929,13
+MLE,Neural network,heart_disease,99.83029018,0.2283661286,13
+Non-parametric KernelSHAP,Neural network,heart_disease,99.91377814,0.15394,13
+Parametric KernelSHAP,Neural network,heart_disease,99.91377814,0.15394,13
+SGDShapley,Neural network,heart_disease,99.68748615,0.1259884728,13
+CES,Neural network,heartfailure,96.23918214,4.58967493,12
+Cohort,Neural network,heartfailure,96.22391821,4.58967493,12
+DASP,Neural network,heartfailure,92.00565236,0.2658700245,12
+DeepLIFT,Neural network,heartfailure,91.00608833,0.005274779753,12
+DeepSHAP,Neural network,heartfailure,92.0065116,0.005774779753,12
+Exhaustive,Neural network,heartfailure,99.99775298,2759912.559,12
+IME,Neural network,heartfailure,98.8051845,0.4108234487,12
+KernelSHAP,Neural network,heartfailure,98.89929133,0.07000164071,12
+MLE,Neural network,heartfailure,98.09430141,0.2091645833,12
+Non-parametric KernelSHAP,Neural network,heartfailure,99.30426496,0.082274,12
+Parametric KernelSHAP,Neural network,heartfailure,99.30426496,0.082274,12
+SGDShapley,Neural network,heartfailure,98.89929133,0.121045705,12
+CES,Neural network,housing,99.87643924,7.216534429,13
+Cohort,Neural network,housing,99.82764392,7.216534429,13
+DASP,Neural network,housing,95.75186368,0.2602035443,13
+DeepLIFT,Neural network,housing,93.81115081,0.003507425137,13
+DeepSHAP,Neural network,housing,95.71863429,0.004007425137,13
+Exhaustive,Neural network,housing,99.91245898,3118060.987,13
+IME,Neural network,housing,97.55000096,0.4277319223,13
+KernelSHAP,Neural network,housing,97.65843442,0.07088824089,13
+MLE,Neural network,housing,97.51871532,0.2174419886,13
+Non-parametric KernelSHAP,Neural network,housing,96.93934533,0.19826,13
+Parametric KernelSHAP,Neural network,housing,96.93934533,0.19826,13
+SGDShapley,Neural network,housing,94.17882622,0.1243231325,13
+CES,Neural network,htwtindex,97.47840065,0.8540279627,3
+Cohort,Neural network,htwtindex,97.42784007,0.8540279627,3
+DASP,Neural network,htwtindex,95.96085061,0.2559449066,3
+DeepLIFT,Neural network,htwtindex,94.57311117,0.0008973540682,3
+DeepSHAP,Neural network,htwtindex,95.96080669,0.003947021022,3
+Exhaustive,Neural network,htwtindex,99.7725822,29.31373858,3
+IME,Neural network,htwtindex,99.6436031,0.3008596912,3
+KernelSHAP,Neural network,htwtindex,99.7725822,0.06491121379,3
+MLE,Neural network,htwtindex,99.70049994,0.1588307077,3
+Non-parametric KernelSHAP,Neural network,htwtindex,99.77241982,0.006541,3
+Parametric KernelSHAP,Neural network,htwtindex,99.77241982,0.006841,3
+SGDShapley,Neural network,htwtindex,99.78924694,0.113655479,3
+CES,Neural network,hybrid,97.24601207,0.5447605077,11
+Cohort,Neural network,hybrid,97.24260121,0.5447605077,11
+DASP,Neural network,hybrid,98.79259288,0.2357550556,11
+DeepLIFT,Neural network,hybrid,96.98682176,0.002161593148,11
+DeepSHAP,Neural network,hybrid,98.79292954,0.009846547071,11
+Exhaustive,Neural network,hybrid,99.8502563,226099.2586,11
+IME,Neural network,hybrid,99.67549108,0.4200446045,11
+KernelSHAP,Neural network,hybrid,99.8502563,0.07005087535,11
+MLE,Neural network,hybrid,99.66913875,0.2076258379,11
+Non-parametric KernelSHAP,Neural network,hybrid,99.97749326,0.03364,11
+Parametric KernelSHAP,Neural network,hybrid,99.97749329,0.035887,11
+SGDShapley,Neural network,hybrid,85.21026152,0.1188044595,11
+CES,Neural network,income,90.46679444,10.10828786,13
+Cohort,Neural network,income,90.46267944,10.10828786,13
+DASP,Neural network,income,99.93581739,0.2540172548,13
+DeepLIFT,Neural network,income,98.29262686,0.002704559557,13
+DeepSHAP,Neural network,income,99.93817454,0.003204559557,13
+Exhaustive,Neural network,income,99.91245898,3118060.987,13
+IME,Neural network,income,99.86881829,0.3764359763,13
+KernelSHAP,Neural network,income,99.95870068,0.06968538689,13
+MLE,Neural network,income,95.49821734,0.1918067708,13
+Non-parametric KernelSHAP,Neural network,income,99.89054951,0.245574,13
+Parametric KernelSHAP,Neural network,income,99.89054951,0.245574,13
+SGDShapley,Neural network,income,25,0.1237413594,13
+CES,Neural network,insurance,98.50883412,4.541410942,6
+Cohort,Neural network,insurance,98.50288341,4.541410942,6
+DASP,Neural network,insurance,99.83454268,0.2580974629,6
+DeepLIFT,Neural network,insurance,98.32041486,0.001433438966,6
+DeepSHAP,Neural network,insurance,99.83442677,0.003267425479,6
+Exhaustive,Neural network,insurance,99.98672087,4904.397873,6
+IME,Neural network,insurance,99.54761788,0.3479503762,6
+KernelSHAP,Neural network,insurance,99.67106209,0.0592895963,6
+MLE,Neural network,insurance,99.59412774,0.1847580975,6
+Non-parametric KernelSHAP,Neural network,insurance,99.55721628,0.009641,6
+Parametric KernelSHAP,Neural network,insurance,99.55721597,0.012174,6
+SGDShapley,Neural network,insurance,81.18158925,0.1075192553,6
+CES,Neural network,iris,69.98996838,0.5218571186,4
+Cohort,Neural network,iris,69.92899684,0.5218571186,4
+DASP,Neural network,iris,98.79159578,0.2466725969,4
+DeepLIFT,Neural network,iris,97.08674138,0.001190468669,4
+DeepSHAP,Neural network,iris,98.79194793,0.01058974743,4
+Exhaustive,Neural network,iris,99.99244966,277.7986517,4
+IME,Neural network,iris,99.81007846,0.3642034721,4
+KernelSHAP,Neural network,iris,99.99244966,0.0677115202,4
+MLE,Neural network,iris,99.6902881,0.193484273,4
+Non-parametric KernelSHAP,Neural network,iris,99.99822402,0.004944,4
+Parametric KernelSHAP,Neural network,iris,99.99822402,0.007332,4
+SGDShapley,Neural network,iris,96.06461567,0.1157365322,4
+CES,Neural network,japanemg,90.38795573,0.1114420096,5
+Cohort,Neural network,japanemg,90.32879557,0.1114420096,5
+DASP,Neural network,japanemg,83.12544041,0.2465467135,5
+DeepLIFT,Neural network,japanemg,81.92968433,0.001219353119,5
+DeepSHAP,Neural network,japanemg,83.12440848,0.03418750763,5
+Exhaustive,Neural network,japanemg,89.83191851,325.4002643,5
+IME,Neural network,japanemg,89.36549377,0.3792177359,5
+KernelSHAP,Neural network,japanemg,89.83191851,0.05843095779,5
+MLE,Neural network,japanemg,90.08346923,0.1871268908,5
+Non-parametric KernelSHAP,Neural network,japanemg,92.1263506,0.005059,5
+Parametric KernelSHAP,Neural network,japanemg,92.12634939,0.005479,5
+SGDShapley,Neural network,japanemg,41.4091774,0.1173493544,5
+CES,Neural network,jewellery,99.78485495,0.8537140131,3
+Cohort,Neural network,jewellery,99.7284855,0.8537140131,3
+DASP,Neural network,jewellery,99.94657071,0.256947623,3
+DeepLIFT,Neural network,jewellery,98.09497389,0.0009781172176,3
+DeepSHAP,Neural network,jewellery,99.94670622,0.003895038616,3
+Exhaustive,Neural network,jewellery,99.98911321,25.04517031,3
+IME,Neural network,jewellery,99.8969214,0.3448913611,3
+KernelSHAP,Neural network,jewellery,99.98911321,0.06846827233,3
+MLE,Neural network,jewellery,99.88858993,0.1784458503,3
+Non-parametric KernelSHAP,Neural network,jewellery,99.46325567,0.005398,3
+Parametric KernelSHAP,Neural network,jewellery,99.46325566,0.007412,3
+SGDShapley,Neural network,jewellery,99.9990796,0.1100944188,3
+CES,Neural network,kiva,99.55333494,3.854198229,6
+Cohort,Neural network,kiva,99.52533349,3.854198229,6
+DASP,Neural network,kiva,99.64506041,0.2516174743,6
+DeepLIFT,Neural network,kiva,98.46348945,0.001417934031,6
+DeepSHAP,Neural network,kiva,99.64060543,0.003136189779,6
+Exhaustive,Neural network,kiva,99.95777286,8714.400119,6
+IME,Neural network,kiva,99.17923445,0.2747228897,6
+KernelSHAP,Neural network,kiva,99.32622515,0.05943061077,6
+MLE,Neural network,kiva,99.16100019,0.1414435914,6
+Non-parametric KernelSHAP,Neural network,kiva,93.23518983,0.008811,6
+Parametric KernelSHAP,Neural network,kiva,93.23519106,0.010603,6
+SGDShapley,Neural network,kiva,99.23620381,0.09659983462,6
+CES,Neural network,linnerud,99.26357361,0.01628800801,5
+Cohort,Neural network,linnerud,99.26235736,0.01628800801,5
+DASP,Neural network,linnerud,98.18154073,0.2505586829,5
+DeepLIFT,Neural network,linnerud,97.09133055,0.001216184009,5
+DeepSHAP,Neural network,linnerud,98.18141529,0.0750819615,5
+Exhaustive,Neural network,linnerud,98.16149215,351.5370166,5
+IME,Neural network,linnerud,97.67560744,0.3731919016,5
+KernelSHAP,Neural network,linnerud,98.16149215,0.07159437452,5
+MLE,Neural network,linnerud,98.09356208,0.1956261907,5
+Non-parametric KernelSHAP,Neural network,linnerud,98.93455269,0.005339,5
+Parametric KernelSHAP,Neural network,linnerud,98.93455323,0.00524,5
+SGDShapley,Neural network,linnerud,85.44143146,0.1169866834,5
+CES,Neural network,mba,98.49523575,6.945257792,13
+Cohort,Neural network,mba,98.49252358,6.945257792,13
+DASP,Neural network,mba,99.28325271,0.2605144765,13
+DeepLIFT,Neural network,mba,97.63546757,0.003698133566,13
+DeepSHAP,Neural network,mba,99.28322828,0.004198133566,13
+Exhaustive,Neural network,mba,99.91245898,3118060.987,13
+IME,Neural network,mba,99.83672129,0.4342041517,13
+KernelSHAP,Neural network,mba,99.95373327,0.0596281085,13
+MLE,Neural network,mba,99.7833344,0.2192667852,13
+Non-parametric KernelSHAP,Neural network,mba,99.99643427,0.190815,13
+Parametric KernelSHAP,Neural network,mba,99.99643427,0.190815,13
+SGDShapley,Neural network,mba,99.96676269,0.1255400986,13
+CES,Neural network,migration,99.07066651,2.861845586,11
+Cohort,Neural network,migration,99.07206665,2.861845586,11
+DASP,Neural network,migration,96.09151261,0.2471018705,11
+DeepLIFT,Neural network,migration,94.29433142,0.002131281477,11
+DeepSHAP,Neural network,migration,96.09112617,0.007118658586,11
+Exhaustive,Neural network,migration,94.45969632,462250.4876,11
+IME,Neural network,migration,94.14069498,0.3177313805,11
+KernelSHAP,Neural network,migration,94.45969632,0.06995496193,11
+MLE,Neural network,migration,94.36312583,0.1906533644,11
+Non-parametric KernelSHAP,Neural network,migration,94.27606247,0.036133,11
+Parametric KernelSHAP,Neural network,migration,94.27606314,0.03977,11
+SGDShapley,Neural network,migration,96.00132581,0.1176416812,11
+CES,Neural network,mtcars,25,0.1626867381,11
+Cohort,Neural network,mtcars,25,0.1626867381,11
+DASP,Neural network,mtcars,83.97065855,0.2390745987,11
+DeepLIFT,Neural network,mtcars,82.74287055,0.002106549523,11
+DeepSHAP,Neural network,mtcars,83.97065387,0.04470961744,11
+Exhaustive,Neural network,mtcars,99.95631388,550398.1285,11
+IME,Neural network,mtcars,78.43255103,0.4203729196,11
+KernelSHAP,Neural network,mtcars,76.53931808,0.0705249743,11
+MLE,Neural network,mtcars,80.89325631,0.2193206657,11
+Non-parametric KernelSHAP,Neural network,mtcars,60.18552672,0.029812,11
+Parametric KernelSHAP,Neural network,mtcars,60.18552484,0.033095,11
+SGDShapley,Neural network,mtcars,92.36276289,0.1220367388,11
+CES,Neural network,ozone,99.9908495,3.664457552,12
+Cohort,Neural network,ozone,99.92908495,3.664457552,12
+DASP,Neural network,ozone,99.14635442,0.2489134127,12
+DeepLIFT,Neural network,ozone,97.24485722,0.007375207645,12
+DeepSHAP,Neural network,ozone,99.14634656,0.007875207645,12
+Exhaustive,Neural network,ozone,99.99775298,2759912.559,12
+IME,Neural network,ozone,99.72463008,0.4186502108,12
+KernelSHAP,Neural network,ozone,99.84907152,0.07021105823,12
+MLE,Neural network,ozone,99.75776071,0.217870545,12
+Non-parametric KernelSHAP,Neural network,ozone,99.40967249,0.075346,12
+Parametric KernelSHAP,Neural network,ozone,99.40967249,0.075346,12
+SGDShapley,Neural network,ozone,63.31625351,0.1213785855,12
+CES,Neural network,petrol,62.40887721,0.1831053942,4
+Cohort,Neural network,petrol,62.42088772,0.1831053942,4
+DASP,Neural network,petrol,71.35856377,0.2406704724,4
+DeepLIFT,Neural network,petrol,69.72086993,0.001068257563,4
+DeepSHAP,Neural network,petrol,71.35866574,0.03120031953,4
+Exhaustive,Neural network,petrol,65.81668566,178.2336588,4
+IME,Neural network,petrol,66.73167513,0.3703537285,4
+KernelSHAP,Neural network,petrol,65.81668566,0.06526851654,4
+MLE,Neural network,petrol,66.67911702,0.178335622,4
+Non-parametric KernelSHAP,Neural network,petrol,60.23286627,0.004276,4
+Parametric KernelSHAP,Neural network,petrol,60.23286336,0.006609,4
+SGDShapley,Neural network,petrol,25,0.1142575592,4
+CES,Neural network,poker,97.79336386,8.447709639,10
+Cohort,Neural network,poker,97.27933639,8.447709639,10
+DASP,Neural network,poker,99.97545387,0.2569611138,10
+DeepLIFT,Neural network,poker,98.45599091,0.001940590685,10
+DeepSHAP,Neural network,poker,99.97453925,0.00335309072,10
+Exhaustive,Neural network,poker,99.98260927,125025.1352,10
+IME,Neural network,poker,99.74218043,0.3334103281,10
+KernelSHAP,Neural network,poker,99.98785053,0.06752319914,10
+MLE,Neural network,poker,99.48535965,0.1696513465,10
+Non-parametric KernelSHAP,Neural network,poker,99.87564049,0.035667,10
+Parametric KernelSHAP,Neural network,poker,99.87564062,0.039596,10
+SGDShapley,Neural network,poker,95.3290673,0.1193157673,10
+CES,Neural network,possumbelly,97.27254462,1.146133259,10
+Cohort,Neural network,possumbelly,97.27225446,1.146133259,10
+DASP,Neural network,possumbelly,95.59515288,0.2442120075,10
+DeepLIFT,Neural network,possumbelly,94.02495282,0.002196176978,10
+DeepSHAP,Neural network,possumbelly,95.9515326,0.01442988259,10
+Exhaustive,Neural network,possumbelly,99.61958261,125025.1352,10
+IME,Neural network,possumbelly,99.58141642,0.400136682,10
+KernelSHAP,Neural network,possumbelly,99.61958261,0.07014566149,10
+MLE,Neural network,possumbelly,99.55907913,0.2173599788,10
+Non-parametric KernelSHAP,Neural network,possumbelly,99.95432337,0.018182,10
+Parametric KernelSHAP,Neural network,possumbelly,99.95432332,0.019981,10
+SGDShapley,Neural network,possumbelly,91.27040745,0.1208727973,10
+CES,Neural network,possumchest,99.31725741,1.148128326,10
+Cohort,Neural network,possumchest,99.31272574,1.148128326,10
+DASP,Neural network,possumchest,98.75823263,0.2434843268,10
+DeepLIFT,Neural network,possumchest,96.99577549,0.00216886109,10
+DeepSHAP,Neural network,possumchest,98.78233205,0.01442915371,10
+Exhaustive,Neural network,possumchest,99.95566313,90904.31955,10
+IME,Neural network,possumchest,99.87085972,0.4164443493,10
+KernelSHAP,Neural network,possumchest,99.95566313,0.06239026615,10
+MLE,Neural network,possumchest,99.86918229,0.2128997666,10
+Non-parametric KernelSHAP,Neural network,possumchest,99.49973499,0.018014,10
+Parametric KernelSHAP,Neural network,possumchest,99.49973521,0.020434,10
+SGDShapley,Neural network,possumchest,90.17510661,0.1187789236,10
+CES,Neural network,power,94.76479089,2.185800087,4
+Cohort,Neural network,power,94.76427909,2.185800087,4
+DASP,Neural network,power,99.19572335,0.2559704773,4
+DeepLIFT,Neural network,power,98.18359247,0.001358438941,4
+DeepSHAP,Neural network,power,99.19723549,0.003228785052,4
+Exhaustive,Neural network,power,99.99999454,118210.1272,4
+IME,Neural network,power,99.14663258,0.3092723687,4
+KernelSHAP,Neural network,power,99.242538,0.06586704904,4
+MLE,Neural network,power,99.1370225,0.1723154205,4
+Non-parametric KernelSHAP,Neural network,power,99.48918021,0.008971,4
+Parametric KernelSHAP,Neural network,power,99.48918026,0.009032,4
+SGDShapley,Neural network,power,98.83184623,0.112175763,4
+CES,Neural network,powerlifting,99.21158357,4.540187168,6
+Cohort,Neural network,powerlifting,99.21125836,4.540187168,6
+DASP,Neural network,powerlifting,98.59852887,0.2574906031,6
+DeepLIFT,Neural network,powerlifting,97.20904718,0.001318734342,6
+DeepSHAP,Neural network,powerlifting,98.59828657,0.003201931173,6
+Exhaustive,Neural network,powerlifting,99.91180532,27130.9015,6
+IME,Neural network,powerlifting,98.96189786,0.3534814336,6
+KernelSHAP,Neural network,powerlifting,99.0917457,0.06796208006,6
+MLE,Neural network,powerlifting,98.99116553,0.184651455,6
+Non-parametric KernelSHAP,Neural network,powerlifting,99.57362534,0.009669,6
+Parametric KernelSHAP,Neural network,powerlifting,99.57362519,0.010763,6
+SGDShapley,Neural network,powerlifting,99.3146616,0.09726745649,6
+CES,Neural network,precip,99.97016884,7.103553572,9
+Cohort,Neural network,precip,99.97012688,7.103553572,9
+DASP,Neural network,precip,99.81725202,0.2549082084,9
+DeepLIFT,Neural network,precip,98.69417287,0.002042034694,9
+DeepSHAP,Neural network,precip,99.81722029,0.00327352177,9
+Exhaustive,Neural network,precip,99.61775321,469452.25,9
+IME,Neural network,precip,99.3690951,0.3745973139,9
+KernelSHAP,Neural network,precip,99.4463151,0.0601569602,9
+MLE,Neural network,precip,99.30696621,0.1804991072,9
+Non-parametric KernelSHAP,Neural network,precip,99.42209505,0.021985,9
+Parametric KernelSHAP,Neural network,precip,99.42209502,0.023795,9
+SGDShapley,Neural network,precip,99.99423591,0.1182043357,9
+CES,Neural network,prostate,93.2675763,0.9399878617,8
+Cohort,Neural network,prostate,93.26275763,0.9399878617,8
+DASP,Neural network,prostate,98.37835214,0.2336609942,8
+DeepLIFT,Neural network,prostate,96.96703981,0.001691617388,8
+DeepSHAP,Neural network,prostate,98.37831615,0.01498835015,8
+Exhaustive,Neural network,prostate,95.46614774,25987.59749,8
+IME,Neural network,prostate,95.38387508,0.3991318544,8
+KernelSHAP,Neural network,prostate,95.46614774,0.07163171335,8
+MLE,Neural network,prostate,95.908526,0.2022391088,8
+Non-parametric KernelSHAP,Neural network,prostate,95.4411398,0.009031,8
+Parametric KernelSHAP,Neural network,prostate,95.44114104,0.009061,8
+SGDShapley,Neural network,prostate,97.3420824,0.1183207324,8
+CES,Neural network,pumpkinseed,99.99775298,12.52899257,12
+Cohort,Neural network,pumpkinseed,99.9972753,12.52899257,12
+DASP,Neural network,pumpkinseed,99.9582842,0.2553073529,12
+DeepLIFT,Neural network,pumpkinseed,98.62393612,0.003041274504,12
+DeepSHAP,Neural network,pumpkinseed,99.98284186,0.003541274504,12
+Exhaustive,Neural network,pumpkinseed,99.44717398,2759912.559,12
+IME,Neural network,pumpkinseed,99.88241967,0.4163689938,12
+KernelSHAP,Neural network,pumpkinseed,99.98572975,0.07152888847,12
+MLE,Neural network,pumpkinseed,99.8943255,0.2136405266,12
+Non-parametric KernelSHAP,Neural network,pumpkinseed,99.98568351,0.10758,12
+Parametric KernelSHAP,Neural network,pumpkinseed,99.98568351,0.10758,12
+SGDShapley,Neural network,pumpkinseed,99.98923235,0.1050890446,12
+CES,Neural network,questions,99.76619436,0.8528288078,3
+Cohort,Neural network,questions,99.76261944,0.8528288078,3
+DASP,Neural network,questions,99.82503482,0.2545825814,3
+DeepLIFT,Neural network,questions,98.50875538,0.0009642124176,3
+DeepSHAP,Neural network,questions,99.82034669,0.003936367324,3
+Exhaustive,Neural network,questions,99.68780406,25.96812987,3
+IME,Neural network,questions,99.59311437,0.3451643192,3
+KernelSHAP,Neural network,questions,99.68780406,0.06999431668,3
+MLE,Neural network,questions,99.54830762,0.1820531874,3
+Non-parametric KernelSHAP,Neural network,questions,99.69213247,0.006334,3
+Parametric KernelSHAP,Neural network,questions,99.69213245,0.007712,3
+SGDShapley,Neural network,questions,99.40633884,0.1114846793,3
+CES,Neural network,raotbl6,46.5013033,1.11873404,7
+Cohort,Neural network,raotbl6,46.25013033,1.11873404,7
+DASP,Neural network,raotbl6,99.60515827,0.246195892,7
+DeepLIFT,Neural network,raotbl6,97.65762166,0.00149469306,7
+DeepSHAP,Neural network,raotbl6,99.60518431,0.01271602584,7
+Exhaustive,Neural network,raotbl6,99.93664036,6013.96256,7
+IME,Neural network,raotbl6,99.77468281,0.3887807916,7
+KernelSHAP,Neural network,raotbl6,99.93664036,0.07020115852,7
+MLE,Neural network,raotbl6,99.74438898,0.1968755722,7
+Non-parametric KernelSHAP,Neural network,raotbl6,99.96247125,0.007327,7
+Parametric KernelSHAP,Neural network,raotbl6,99.96247122,0.006362,7
+SGDShapley,Neural network,raotbl6,99.51283701,0.09980518062,7
+CES,Neural network,raotbl7,99.58259282,1.121998112,7
+Cohort,Neural network,raotbl7,99.58225928,1.121998112,7
+DASP,Neural network,raotbl7,99.80869253,0.2325164283,7
+DeepLIFT,Neural network,raotbl7,98.26961585,0.001639590544,7
+DeepSHAP,Neural network,raotbl7,99.80869314,0.01201429018,7
+Exhaustive,Neural network,raotbl7,99.4660166,3819.654227,7
+IME,Neural network,raotbl7,99.19583821,0.3240803974,7
+KernelSHAP,Neural network,raotbl7,99.4660166,0.06111217127,7
+MLE,Neural network,raotbl7,99.45799277,0.1698713535,7
+Non-parametric KernelSHAP,Neural network,raotbl7,99.51948537,0.00635,7
+Parametric KernelSHAP,Neural network,raotbl7,99.5194853,0.007847,7
+SGDShapley,Neural network,raotbl7,99.42682118,0.09593394908,7
+CES,Neural network,realestate,99.76444719,3.214750845,7
+Cohort,Neural network,realestate,99.72644472,3.214750845,7
+DASP,Neural network,realestate,99.99959759,0.2509683988,7
+DeepLIFT,Neural network,realestate,98.02598291,0.001553346129,7
+DeepSHAP,Neural network,realestate,99.99959792,0.004231959364,7
+Exhaustive,Neural network,realestate,99.98033136,5349.12061,7
+IME,Neural network,realestate,99.84868556,0.3548415664,7
+KernelSHAP,Neural network,realestate,99.98033136,0.06813020254,7
+MLE,Neural network,realestate,99.86704826,0.1904039644,7
+Non-parametric KernelSHAP,Neural network,realestate,99.99927071,0.009269,7
+Parametric KernelSHAP,Neural network,realestate,99.99927075,0.009861,7
+SGDShapley,Neural network,realestate,25,0.113660165,7
+CES,Neural network,rentals,99.92967357,7.832008369,8
+Cohort,Neural network,rentals,99.92296736,7.832008369,8
+DASP,Neural network,rentals,99.88254877,0.2558592775,8
+DeepLIFT,Neural network,rentals,98.26702641,0.001647481876,8
+DeepSHAP,Neural network,rentals,99.88248697,0.003246493773,8
+Exhaustive,Neural network,rentals,99.98340873,101483.332,8
+IME,Neural network,rentals,99.85079521,0.3570881815,8
+KernelSHAP,Neural network,rentals,99.95617321,0.06522395322,8
+MLE,Neural network,rentals,99.85833846,0.1889407382,8
+Non-parametric KernelSHAP,Neural network,rentals,99.95642912,0.013629,8
+Parametric KernelSHAP,Neural network,rentals,99.95642911,0.016718,8
+SGDShapley,Neural network,rentals,99.95432453,0.1105182525,8
+CES,Neural network,sacramento,99.9175784,4.01078572,5
+Cohort,Neural network,sacramento,99.91275784,4.01078572,5
+DASP,Neural network,sacramento,98.66565882,0.2571922781,5
+DeepLIFT,Neural network,sacramento,97.12122591,0.001333630446,5
+DeepSHAP,Neural network,sacramento,98.6665864,0.003201586085,5
+Exhaustive,Neural network,sacramento,99.8687604,478.0284107,5
+IME,Neural network,sacramento,99.7658047,0.3650180094,5
+KernelSHAP,Neural network,sacramento,99.8687604,0.06937034409,5
+MLE,Neural network,sacramento,99.78552469,0.1677470215,5
+Non-parametric KernelSHAP,Neural network,sacramento,99.91662135,0.008862,5
+Parametric KernelSHAP,Neural network,sacramento,99.91662135,0.014608,5
+SGDShapley,Neural network,sacramento,99.86882909,0.1152289285,5
+CES,Neural network,seeds,97.76716705,1.51587848,6
+Cohort,Neural network,seeds,97.72671671,1.51587848,6
+DASP,Neural network,seeds,95.63581842,0.2407589062,6
+DeepLIFT,Neural network,seeds,93.87949649,0.001365572798,6
+DeepSHAP,Neural network,seeds,95.63818805,0.008048579313,6
+Exhaustive,Neural network,seeds,99.2047185,1666.83837,6
+IME,Neural network,seeds,99.07757175,0.3789771363,6
+KernelSHAP,Neural network,seeds,99.2047185,0.07048308331,6
+MLE,Neural network,seeds,99.17318593,0.1982891214,6
+Non-parametric KernelSHAP,Neural network,seeds,99.25775341,0.007449,6
+Parametric KernelSHAP,Neural network,seeds,99.25775332,0.006107,6
+SGDShapley,Neural network,seeds,90.46485367,0.1114299919,6
+CES,Neural network,seoulbike,98.98220939,12.53482334,12
+Cohort,Neural network,seoulbike,98.92822094,12.53482334,12
+DASP,Neural network,seoulbike,99.92549169,0.2556111422,12
+DeepLIFT,Neural network,seoulbike,98.55020068,0.002959818435,12
+DeepSHAP,Neural network,seoulbike,99.92491688,0.003459818435,12
+Exhaustive,Neural network,seoulbike,99.9987174,2759912.559,12
+IME,Neural network,seoulbike,99.46076808,0.4196371729,12
+KernelSHAP,Neural network,seoulbike,99.51855929,0.05976502895,12
+MLE,Neural network,seoulbike,99.34045139,0.2147320646,12
+Non-parametric KernelSHAP,Neural network,seoulbike,99.39855864,0.126336,12
+Parametric KernelSHAP,Neural network,seoulbike,99.39855864,0.126336,12
+SGDShapley,Neural network,seoulbike,87.82532638,0.1048706358,12
+CES,Neural network,servo,88.49406681,2.823641864,12
+Cohort,Neural network,servo,88.42940668,2.823641864,12
+DASP,Neural network,servo,99.19501895,0.2451740265,12
+DeepLIFT,Neural network,servo,97.29385804,0.008971217069,12
+DeepSHAP,Neural network,servo,99.19019297,0.009471217069,12
+Exhaustive,Neural network,servo,99.99809276,1076558.801,12
+IME,Neural network,servo,98.62609707,0.4304260081,12
+KernelSHAP,Neural network,servo,98.91156799,0.0697921883,12
+MLE,Neural network,servo,98.63492453,0.2262097662,12
+Non-parametric KernelSHAP,Neural network,servo,99.10240662,0.068249,12
+Parametric KernelSHAP,Neural network,servo,99.10240631,0.068434,12
+SGDShapley,Neural network,servo,25,0.1230186419,12
+CES,Neural network,slump,90.07980325,0.3962325068,7
+Cohort,Neural network,slump,90.07298033,0.3962325068,7
+DASP,Neural network,slump,98.44539602,0.2448296056,7
+DeepLIFT,Neural network,slump,96.66516326,0.001583891756,7
+DeepSHAP,Neural network,slump,98.44395832,0.01486769143,7
+Exhaustive,Neural network,slump,99.68278456,3888.740474,7
+IME,Neural network,slump,99.58213887,0.3956902728,7
+KernelSHAP,Neural network,slump,99.68278456,0.06999052272,7
+MLE,Neural network,slump,99.39989813,0.2046738162,7
+Non-parametric KernelSHAP,Neural network,slump,99.39251468,0.007174,7
+Parametric KernelSHAP,Neural network,slump,99.39251448,0.00784,7
+SGDShapley,Neural network,slump,83.19790341,0.1012933044,7
+CES,Neural network,slump-flow,86.91331116,0.1908433578,7
+Cohort,Neural network,slump-flow,86.92133112,0.1908433578,7
+DASP,Neural network,slump-flow,99.42519133,0.2508004273,7
+DeepLIFT,Neural network,slump-flow,97.98158421,0.001419686291,7
+DeepSHAP,Neural network,slump-flow,99.42191654,0.01607236441,7
+Exhaustive,Neural network,slump-flow,98.51604861,7011.284552,7
+IME,Neural network,slump-flow,98.45149249,0.3917406938,7
+KernelSHAP,Neural network,slump-flow,98.51604861,0.06879458007,7
+MLE,Neural network,slump-flow,98.29974009,0.1727205234,7
+Non-parametric KernelSHAP,Neural network,slump-flow,98.35801498,0.006303,7
+Parametric KernelSHAP,Neural network,slump-flow,98.35801489,0.006129,7
+SGDShapley,Neural network,slump-flow,98.19023518,0.1176240374,7
+CES,Neural network,slump-mpa,97.91919409,0.9086734898,7
+Cohort,Neural network,slump-mpa,97.92191941,0.9086734898,7
+DASP,Neural network,slump-mpa,99.57530839,0.245772516,7
+DeepLIFT,Neural network,slump-mpa,97.87265524,0.001701594844,7
+DeepSHAP,Neural network,slump-mpa,99.57308891,0.01577976872,7
+Exhaustive,Neural network,slump-mpa,99.96671753,3546.115546,7
+IME,Neural network,slump-mpa,99.86517764,0.331003133,7
+KernelSHAP,Neural network,slump-mpa,99.96671753,0.06250589034,7
+MLE,Neural network,slump-mpa,99.92061273,0.1756377781,7
+Non-parametric KernelSHAP,Neural network,slump-mpa,99.94850601,0.008338,7
+Parametric KernelSHAP,Neural network,slump-mpa,99.94850596,0.006107,7
+SGDShapley,Neural network,slump-mpa,98.63724559,0.1076054994,7
+CES,Neural network,spending,99.30793819,1.167502533,10
+Cohort,Neural network,spending,99.23079382,1.167502533,10
+DASP,Neural network,spending,99.28750693,0.2426752159,10
+DeepLIFT,Neural network,spending,97.31180306,0.00200994603,10
+DeepSHAP,Neural network,spending,99.28706674,0.01432890892,10
+Exhaustive,Neural network,spending,99.95566313,90904.31955,10
+IME,Neural network,spending,99.85176465,0.3469200952,10
+KernelSHAP,Neural network,spending,99.95566313,0.06076456479,10
+MLE,Neural network,spending,99.83858016,0.2136377471,10
+Non-parametric KernelSHAP,Neural network,spending,99.49973499,0.034291,10
+Parametric KernelSHAP,Neural network,spending,99.49973521,0.023157,10
+SGDShapley,Neural network,spending,90.17510661,0.1199826922,10
+CES,Neural network,spx,99.96590264,1.083558607,3
+Cohort,Neural network,spx,99.96259026,1.083558607,3
+DASP,Neural network,spx,99.99662575,0.2523263722,3
+DeepLIFT,Neural network,spx,98.75623527,0.0009713073915,3
+DeepSHAP,Neural network,spx,99.99662789,0.003112184135,3
+Exhaustive,Neural network,spx,99.9828349,51.51853395,3
+IME,Neural network,spx,99.8831964,0.2984890682,3
+KernelSHAP,Neural network,spx,99.9828349,0.06363649269,3
+MLE,Neural network,spx,99.89670237,0.169734709,3
+Non-parametric KernelSHAP,Neural network,spx,99.99984651,0.008716,3
+Parametric KernelSHAP,Neural network,spx,99.9998465,0.008412,3
+SGDShapley,Neural network,spx,99.73538238,0.1046314479,3
+CES,Neural network,startups,86.56298548,0.3024536862,4
+Cohort,Neural network,startups,86.56292855,0.3024536862,4
+DASP,Neural network,startups,64.88525865,0.259118543,4
+DeepLIFT,Neural network,startups,63.73239368,0.001096610019,4
+DeepSHAP,Neural network,startups,64.88257825,0.0309929988,4
+Exhaustive,Neural network,startups,93.70038094,231.0035009,4
+IME,Neural network,startups,93.03528265,0.3587730352,4
+KernelSHAP,Neural network,startups,93.70038094,0.06716906323,4
+MLE,Neural network,startups,94.15284715,0.1897519757,4
+Non-parametric KernelSHAP,Neural network,startups,94.69805442,0.004601,4
+Parametric KernelSHAP,Neural network,startups,94.69805456,0.005122,4
+SGDShapley,Neural network,startups,99.74715525,0.1150531488,4
+CES,Neural network,stockreturn,99.4973641,5.617660275,12
+Cohort,Neural network,stockreturn,99.49273641,5.617660275,12
+DASP,Neural network,stockreturn,99.45510673,0.2599030962,12
+DeepLIFT,Neural network,stockreturn,98.31344354,0.005076475308,12
+DeepSHAP,Neural network,stockreturn,99.45106859,0.005576475308,12
+Exhaustive,Neural network,stockreturn,99.99809276,1076558.801,12
+IME,Neural network,stockreturn,99.87446452,0.4252807544,12
+KernelSHAP,Neural network,stockreturn,99.99809276,0.06001216861,12
+MLE,Neural network,stockreturn,99.74997202,0.2173290734,12
+Non-parametric KernelSHAP,Neural network,stockreturn,99.99730185,0.065362,12
+Parametric KernelSHAP,Neural network,stockreturn,99.99730185,0.065362,12
+SGDShapley,Neural network,stockreturn,24.42273133,0.1234865212,12
+CES,Neural network,stockrisk,97.64260553,1.763479209,12
+Cohort,Neural network,stockrisk,97.62426055,1.763479209,12
+DASP,Neural network,stockrisk,98.23523598,0.2546167878,12
+DeepLIFT,Neural network,stockrisk,97.08288737,0.005101862302,12
+DeepSHAP,Neural network,stockrisk,98.23235859,0.005601862302,12
+Exhaustive,Neural network,stockrisk,97.65974927,1177099.844,12
+IME,Neural network,stockrisk,97.57473228,0.4281408535,12
+KernelSHAP,Neural network,stockrisk,97.65974927,0.06037152272,12
+MLE,Neural network,stockrisk,97.79284586,0.2225582256,12
+Non-parametric KernelSHAP,Neural network,stockrisk,97.81099697,0.063547,12
+Parametric KernelSHAP,Neural network,stockrisk,97.81099697,0.063547,12
+SGDShapley,Neural network,stockrisk,82.96957578,0.1236545994,12
+CES,Neural network,telecom,99.95127533,8.823627644,11
+Cohort,Neural network,telecom,99.92512753,8.823627644,11
+DASP,Neural network,telecom,99.9554562,0.2546568329,11
+DeepLIFT,Neural network,telecom,98.24100596,0.002314619585,11
+DeepSHAP,Neural network,telecom,99.95456097,0.003311714982,11
+Exhaustive,Neural network,telecom,99.95631388,550398.1285,11
+IME,Neural network,telecom,99.83545964,0.3814235044,11
+KernelSHAP,Neural network,telecom,99.95631388,0.06848161076,11
+MLE,Neural network,telecom,99.8398868,0.2010678573,11
+Non-parametric KernelSHAP,Neural network,telecom,99.89012396,0.054322,11
+Parametric KernelSHAP,Neural network,telecom,99.89012556,0.068757,11
+SGDShapley,Neural network,telecom,99.90452008,0.1112866149,11
+CES,Neural network,telescope,99.30484628,8.447642956,10
+Cohort,Neural network,telescope,99.30248463,8.447642956,10
+DASP,Neural network,telescope,99.0656954,0.2553418268,10
+DeepLIFT,Neural network,telescope,97.37783481,0.002325014635,10
+DeepSHAP,Neural network,telescope,99.06569536,0.003355518254,10
+Exhaustive,Neural network,telescope,99.31531301,612697.8921,10
+IME,Neural network,telescope,98.64601145,0.382057398,10
+KernelSHAP,Neural network,telescope,98.74910359,0.06783497767,10
+MLE,Neural network,telescope,98.60876476,0.1966050271,10
+Non-parametric KernelSHAP,Neural network,telescope,98.7235866,0.03149,10
+Parametric KernelSHAP,Neural network,telescope,98.72358704,0.04358,10
+SGDShapley,Neural network,telescope,59.79220899,0.1127638188,10
+CES,Neural network,uber,37.71306991,4.128040879,5
+Cohort,Neural network,uber,37.27130699,4.128040879,5
+DASP,Neural network,uber,99.56151146,0.2569865191,5
+DeepLIFT,Neural network,uber,98.44636385,0.001259720687,5
+DeepSHAP,Neural network,uber,99.56111139,0.003238775513,5
+Exhaustive,Neural network,uber,99.99881313,85663.22128,5
+IME,Neural network,uber,93.96540597,0.3669583588,5
+KernelSHAP,Neural network,uber,99.84224395,0.06991427089,5
+MLE,Neural network,uber,79.69590442,0.1916186477,5
+Non-parametric KernelSHAP,Neural network,uber,99.91788425,0.009178,5
+Parametric KernelSHAP,Neural network,uber,99.91788429,0.009493,5
+SGDShapley,Neural network,uber,99.99119407,0.1139592626,5
+CES,Neural network,unemploy,99.7799626,2.035688252,4
+Cohort,Neural network,unemploy,99.72799626,2.035688252,4
+DASP,Neural network,unemploy,99.88454247,0.2537122839,4
+DeepLIFT,Neural network,unemploy,98.67061222,0.001230867704,4
+DeepSHAP,Neural network,unemploy,99.88442565,0.003978721719,4
+Exhaustive,Neural network,unemploy,98.12339566,271.8706465,4
+IME,Neural network,unemploy,98.05874812,0.348681426,4
+KernelSHAP,Neural network,unemploy,98.12339566,0.06776172362,4
+MLE,Neural network,unemploy,97.97319671,0.1846371073,4
+Non-parametric KernelSHAP,Neural network,unemploy,96.14947066,0.007074,4
+Parametric KernelSHAP,Neural network,unemploy,96.14947022,0.007013,4
+SGDShapley,Neural network,unemploy,98.51597643,0.1109558545,4
+CES,Neural network,wage,99.98141104,8.543504786,8
+Cohort,Neural network,wage,99.9281411,8.543504786,8
+DASP,Neural network,wage,99.99996753,0.2553744287,8
+DeepLIFT,Neural network,wage,98.58777238,0.001917341984,8
+DeepSHAP,Neural network,wage,99.99996729,0.003423251528,8
+Exhaustive,Neural network,wage,99.97631159,37328.95497,8
+IME,Neural network,wage,99.50175906,0.3632359425,8
+KernelSHAP,Neural network,wage,99.62019559,0.06749780395,8
+MLE,Neural network,wage,99.4905959,0.1856925899,8
+Non-parametric KernelSHAP,Neural network,wage,99.64335401,0.015097,8
+Parametric KernelSHAP,Neural network,wage,99.64335408,0.016449,8
+SGDShapley,Neural network,wage,99.15636483,0.1144381285,8
+CES,Neural network,walmart,99.69902892,4.540806637,6
+Cohort,Neural network,walmart,99.69290289,4.540806637,6
+DASP,Neural network,walmart,99.99227506,0.255189244,6
+DeepLIFT,Neural network,walmart,98.98954149,0.001565145724,6
+DeepSHAP,Neural network,walmart,99.99227059,0.003235324224,6
+Exhaustive,Neural network,walmart,99.93361608,16204.1419,6
+IME,Neural network,walmart,99.41858275,0.3475302768,6
+KernelSHAP,Neural network,walmart,99.46936807,0.06570738662,6
+MLE,Neural network,walmart,99.3380165,0.1802583196,6
+Non-parametric KernelSHAP,Neural network,walmart,97.65455941,0.010634,6
+Parametric KernelSHAP,Neural network,walmart,97.66265293,0.01075,6
+SGDShapley,Neural network,walmart,99.46936807,0.1082984809,6
+CES,Neural network,wholesale,99.1362102,1.454007845,7
+Cohort,Neural network,wholesale,99.13262102,1.454007845,7
+DASP,Neural network,wholesale,99.99996596,0.2602480323,7
+DeepLIFT,Neural network,wholesale,98.57562,0.001632937518,7
+DeepSHAP,Neural network,wholesale,99.99996963,0.004376707012,7
+Exhaustive,Neural network,wholesale,98.5960733,6760.462098,7
+IME,Neural network,wholesale,97.97156769,0.3182973339,7
+KernelSHAP,Neural network,wholesale,98.5960733,0.05885620803,7
+MLE,Neural network,wholesale,97.27694028,0.1630028454,7
+Non-parametric KernelSHAP,Neural network,wholesale,98.05573804,0.008095,7
+Parametric KernelSHAP,Neural network,wholesale,98.05573951,0.009926,7
+SGDShapley,Neural network,wholesale,69.30936438,0.1126354606,7
+CES,Neural network,wine,99.7878929,12.52200473,12
+Cohort,Neural network,wine,99.72878929,12.52200473,12
+DASP,Neural network,wine,99.9998654,0.257378709,12
+DeepLIFT,Neural network,wine,98.0750909,0.003024728255,12
+DeepSHAP,Neural network,wine,99.99986415,0.003524728255,12
+Exhaustive,Neural network,wine,99.99986403,1177099.844,12
+IME,Neural network,wine,99.67882918,0.3904257738,12
+KernelSHAP,Neural network,wine,99.76874626,0.06821069573,12
+MLE,Neural network,wine,99.6791572,0.2060079437,12
+Non-parametric KernelSHAP,Neural network,wine,99.79610815,0.103698,12
+Parametric KernelSHAP,Neural network,wine,99.79610815,0.103698,12
+SGDShapley,Neural network,wine,99.9752881,0.1132697178,12
+CES,Neural network,winequality,94.49615781,4.435457196,11
+Cohort,Neural network,winequality,94.42961578,4.435457196,11
+DASP,Neural network,winequality,99.9585651,0.2515797969,11
+DeepLIFT,Neural network,winequality,98.53457878,0.002364721443,11
+DeepSHAP,Neural network,winequality,99.98565103,0.003046529221,11
+Exhaustive,Neural network,winequality,99.97376503,900519.0022,11
+IME,Neural network,winequality,99.7218263,0.3862715042,11
+KernelSHAP,Neural network,winequality,99.78954582,0.06578008189,11
+MLE,Neural network,winequality,99.63091428,0.1960014791,11
+Non-parametric KernelSHAP,Neural network,winequality,99.8254273,0.065077,11
+Parametric KernelSHAP,Neural network,winequality,99.8254273,0.065077,11
+SGDShapley,Neural network,winequality,99.99167362,0.1180218148,11
+CES,Neural network,winequality-red,99.97956438,8.82348412,11
+Cohort,Neural network,winequality-red,99.97295644,8.82348412,11
+DASP,Neural network,winequality-red,99.754159,0.2547157938,11
+DeepLIFT,Neural network,winequality-red,98.40085664,0.00232585199,11
+DeepSHAP,Neural network,winequality-red,99.54158858,0.003471011826,11
+Exhaustive,Neural network,winequality-red,99.97376503,900519.0022,11
+IME,Neural network,winequality-red,99.58539374,0.3763785102,11
+KernelSHAP,Neural network,winequality-red,99.67248588,0.06483954733,11
+MLE,Neural network,winequality-red,99.56349551,0.1992474773,11
+Non-parametric KernelSHAP,Neural network,winequality-red,99.65887913,0.063919,11
+Parametric KernelSHAP,Neural network,winequality-red,99.65888122,0.07378,11
+SGDShapley,Neural network,winequality-red,99.33086397,0.1025401354,11
+CES,Neural network,winequality-white,99.51665562,4.435467439,11
+Cohort,Neural network,winequality-white,99.25166556,4.435467439,11
+DASP,Neural network,winequality-white,99.99865489,0.2516725251,11
+DeepLIFT,Neural network,winequality-white,98.07011874,0.002424122994,11
+DeepSHAP,Neural network,winequality-white,99.99864868,0.003106317376,11
+Exhaustive,Neural network,winequality-white,99.97376503,900519.0022,11
+IME,Neural network,winequality-white,99.8568201,0.3646770904,11
+KernelSHAP,Neural network,winequality-white,99.99990007,0.06546375463,11
+MLE,Neural network,winequality-white,99.7616593,0.1930490732,11
+Non-parametric KernelSHAP,Neural network,winequality-white,99.95227352,0.064926,11
+Parametric KernelSHAP,Neural network,winequality-white,99.95227352,0.064926,11
+SGDShapley,Neural network,winequality-white,99.9856823,0.109677452,11
+CES,Neural network,yatch,98.27969625,1.815959568,6
+Cohort,Neural network,yatch,98.27926963,1.815959568,6
+DASP,Neural network,yatch,99.85075491,0.2579355287,6
+DeepLIFT,Neural network,yatch,97.85869057,0.001547644689,6
+DeepSHAP,Neural network,yatch,99.80754891,0.005733747108,6
+Exhaustive,Neural network,yatch,98.58984277,1475.987253,6
+IME,Neural network,yatch,98.50684879,0.3685490033,6
+KernelSHAP,Neural network,yatch,98.58984277,0.06825297019,6
+MLE,Neural network,yatch,98.47932311,0.1900745981,6
+Non-parametric KernelSHAP,Neural network,yatch,98.47937315,0.006618,6
+Parametric KernelSHAP,Neural network,yatch,98.47937336,0.006792,6
+SGDShapley,Neural network,yatch,68.86365697,0.1138239538,6

@@ -1,0 +1,910 @@
+Approximation,Model,dataset,Accuracy,Time,Features
+Parametric KernelSHAP,agnostic,glass,5.00E+01,0.013125,9
+Non-parametric KernelSHAP,agnostic,glass,5.00E+01,0.012579,9
+Non-parametric KernelSHAP,agnostic,hybrid,5.00E+01,0.034521,11
+Parametric KernelSHAP,agnostic,hybrid,5.00E+01,0.036143,11
+Parametric KernelSHAP,agnostic,migration,5.00E+01,0.040566,11
+Non-parametric KernelSHAP,agnostic,migration,5.00E+01,0.035906,11
+Parametric KernelSHAP,agnostic,precip,5.00E+01,0.025267,9
+Non-parametric KernelSHAP,agnostic,precip,5.00E+01,0.021925,9
+Parametric KernelSHAP,agnostic,country-data,5.00E+01,0.012484,9
+Non-parametric KernelSHAP,agnostic,country-data,5.00E+01,0.011738,9
+Parametric KernelSHAP,agnostic,sacramento,5.00E+01,0.009008,5
+Non-parametric KernelSHAP,agnostic,sacramento,5.00E+01,0.008601,5
+Parametric KernelSHAP,agnostic,diamond,5.00E+01,0.012565,7
+Non-parametric KernelSHAP,agnostic,diamond,5.00E+01,0.01815,7
+Non-parametric KernelSHAP,agnostic,airline-costs,5.00E+01,0.010952,9
+Parametric KernelSHAP,agnostic,airline-costs,5.00E+01,0.010431,9
+Parametric KernelSHAP,agnostic,pumpkinseed,5.00E+01,0.514956,12
+Non-parametric KernelSHAP,agnostic,pumpkinseed,5.00E+01,0.104296,12
+Non-parametric KernelSHAP,agnostic,yatch,5.00E+01,0.006555,6
+Parametric KernelSHAP,agnostic,yatch,5.00E+01,0.006312,6
+Parametric KernelSHAP,agnostic,jewellery,5.00E+01,0.005609,3
+Non-parametric KernelSHAP,agnostic,jewellery,5.00E+01,0.006746,3
+Non-parametric KernelSHAP,agnostic,startups,5.00E+01,0.005507,4
+Parametric KernelSHAP,agnostic,startups,5.00E+01,0.004398,4
+Non-parametric KernelSHAP,agnostic,insurance,5.00E+01,0.01025,6
+Parametric KernelSHAP,agnostic,insurance,5.00E+01,0.009199,6
+Parametric KernelSHAP,agnostic,wholesale,5.00E+01,0.007908,7
+Non-parametric KernelSHAP,agnostic,wholesale,5.00E+01,0.00821,7
+Parametric KernelSHAP,agnostic,forest,5.00E+01,0.127631,12
+Non-parametric KernelSHAP,agnostic,forest,5.00E+01,0.074732,12
+Parametric KernelSHAP,agnostic,forestfire,5.00E+01,0.128828,12
+Non-parametric KernelSHAP,agnostic,forestfire,5.00E+01,0.075222,12
+Parametric KernelSHAP,agnostic,japanemg,5.00E+01,0.004553,5
+Non-parametric KernelSHAP,agnostic,japanemg,5.00E+01,0.006803,5
+Parametric KernelSHAP,agnostic,economics,5.00E+01,0.006988,4
+Parametric KernelSHAP,agnostic,unemploy,5.00E+01,0.00693,4
+Non-parametric KernelSHAP,agnostic,unemploy,5.00E+01,0.006736,4
+Non-parametric KernelSHAP,agnostic,economics,5.00E+01,0.006625,4
+Non-parametric KernelSHAP,agnostic,france,5.00E+01,0.011811,7
+Parametric KernelSHAP,agnostic,france,5.00E+01,0.010658,7
+Parametric KernelSHAP,agnostic,spx,5.00E+01,0.007886,3
+Non-parametric KernelSHAP,agnostic,spx,5.00E+01,0.00781,3
+Parametric KernelSHAP,agnostic,petrol,5.00E+01,0.004617,4
+Non-parametric KernelSHAP,agnostic,petrol,5.00E+01,0.004244,4
+Non-parametric KernelSHAP,agnostic,uber,5.00E+01,0.009045,5
+Parametric KernelSHAP,agnostic,uber,5.00E+01,0.00894,5
+Parametric KernelSHAP,agnostic,kiva,5.00E+01,0.008804,6
+Non-parametric KernelSHAP,agnostic,kiva,5.00E+01,0.009446,6
+Non-parametric KernelSHAP,agnostic,germany,5.00E+01,0.011828,7
+Parametric KernelSHAP,agnostic,germany,5.00E+01,0.010361,7
+Non-parametric KernelSHAP,agnostic,challenger,5.00E+01,0.00408,4
+Parametric KernelSHAP,agnostic,challenger,5.00E+01,0.004778,4
+Non-parametric KernelSHAP,agnostic,raotbl7,5.00E+01,0.005193,7
+Parametric KernelSHAP,agnostic,raotbl7,5.00E+01,0.006306,7
+Parametric KernelSHAP,agnostic,slump-flow,5.00E+01,0.005999,7
+Non-parametric KernelSHAP,agnostic,slump-flow,5.00E+01,0.008452,7
+Parametric KernelSHAP,agnostic,slump,5.00E+01,0.006188,7
+Non-parametric KernelSHAP,agnostic,slump,5.00E+01,0.006722,7
+Parametric KernelSHAP,agnostic,apartments,5.00E+01,0.005375,3
+Non-parametric KernelSHAP,agnostic,apartments,5.00E+01,0.005948,3
+CES,agnostic,airline-costs,5.00E+01,0.1579295635,9
+Cohort,agnostic,airline-costs,5.00E+01,0.1579295635,9
+SGDShapley,agnostic,uber,5.00E+01,4.959110178,5
+Exhaustive,agnostic,uber,5.00E+01,459.7398925,5
+Non-parametric KernelSHAP,agnostic,cust,5.00E+01,0.013915,8
+Parametric KernelSHAP,agnostic,cust,5.00E+01,0.015583,8
+Parametric KernelSHAP,agnostic,rentals,5.00E+01,0.017215,8
+Non-parametric KernelSHAP,agnostic,rentals,5.00E+01,0.015362,8
+Parametric KernelSHAP,agnostic,linnerud,5.00E+01,0.00482,5
+Non-parametric KernelSHAP,agnostic,linnerud,5.00E+01,0.005085,5
+Non-parametric KernelSHAP,agnostic,casp,5.00E+01,0.019816,9
+Parametric KernelSHAP,agnostic,casp,5.00E+01,0.025819,9
+Non-parametric KernelSHAP,agnostic,bikedaily,5.00E+01,0.055466,11
+Parametric KernelSHAP,agnostic,bikedaily,5.00E+01,0.06054,11
+Parametric KernelSHAP,agnostic,computer,5.00E+01,0.005914,7
+Non-parametric KernelSHAP,agnostic,computer,5.00E+01,0.00679,7
+SGDShapley,agnostic,walmart,5.00E+01,0.2988391688,6
+Non-parametric KernelSHAP,agnostic,slump-mpa,5.00E+01,0.006312,7
+Parametric KernelSHAP,agnostic,slump-mpa,5.00E+01,0.006192,7
+Parametric KernelSHAP,agnostic,airquality,5.00E+01,0.225842,12
+Non-parametric KernelSHAP,agnostic,airquality,5.00E+01,0.123646,12
+Parametric KernelSHAP,agnostic,raotbl6,5.00E+01,0.006206,7
+Non-parametric KernelSHAP,agnostic,raotbl6,5.00E+01,0.006553,7
+Parametric KernelSHAP,agnostic,wage,5.00E+01,0.017409,8
+Non-parametric KernelSHAP,agnostic,wage,5.00E+01,0.0152,8
+Parametric KernelSHAP,agnostic,adult,5.00E+01,0.462719,12
+Non-parametric KernelSHAP,agnostic,adult,5.00E+01,0.118645,12
+SGDShapley,agnostic,seoulbike,5.00E+01,0.2431804787,12
+Non-parametric KernelSHAP,agnostic,wine,5.00E+01,0.106334,12
+Parametric KernelSHAP,agnostic,wine,5.00E+01,0.533692,12
+Non-parametric KernelSHAP,agnostic,winequality,5.00E+01,0.056859,11
+Parametric KernelSHAP,agnostic,winequality,5.00E+01,0.080029,11
+SGDShapley,agnostic,employee,5.00E+01,0.1948398503,9
+SGDShapley,agnostic,challenger,5.00E+01,0.137998879,4
+SGDShapley,agnostic,htwtindex,5.00E+01,0.1510086132,3
+Parametric KernelSHAP,agnostic,seoulbike,5.00E+01,0.534673,12
+Non-parametric KernelSHAP,agnostic,seoulbike,5.00E+01,0.122979,12
+Parametric KernelSHAP,agnostic,htwtindex,5.00E+01,0.005199,3
+Non-parametric KernelSHAP,agnostic,htwtindex,5.00E+01,0.006294,3
+Non-parametric KernelSHAP,agnostic,winequality-red,5.00E+01,0.058158,11
+Parametric KernelSHAP,agnostic,winequality-red,5.00E+01,0.083317,11
+Parametric KernelSHAP,agnostic,diamonds_filter,5.00E+01,0.006886,4
+Non-parametric KernelSHAP,agnostic,diamonds_filter,5.00E+01,0.006667,4
+Non-parametric KernelSHAP,agnostic,3droad,5.00E+01,0.00836,3
+Parametric KernelSHAP,agnostic,3droad,5.00E+01,0.008344,3
+IME,agnostic,glass,0,0.1362570239,9
+SGDShapley,agnostic,glass,0,0.1274108887,9
+SGDShapley,agnostic,3droad,8.905525559,0.2247204073,3
+CES,agnostic,precip,11.5269459,6.948227917,9
+Cohort,agnostic,precip,11.5269459,6.948227917,9
+Non-parametric KernelSHAP,agnostic,servo,15.36841804,0.066145,12
+Parametric KernelSHAP,agnostic,servo,15.36842327,0.068257,12
+Non-parametric KernelSHAP,agnostic,brainweight,22.79975328,0.005412,3
+Parametric KernelSHAP,agnostic,brainweight,22.79975367,0.007773,3
+SGDShapley,agnostic,bikehourly,34.06801371,0.2337013671,12
+Parametric KernelSHAP,agnostic,diamonds_select,42.4642245,0.008794,4
+Non-parametric KernelSHAP,agnostic,diamonds_select,42.46422485,0.008496,4
+Parametric KernelSHAP,agnostic,possumchest,48.11262183,0.019376,10
+Parametric KernelSHAP,agnostic,spending,48.11262183,0.018922,10
+Non-parametric KernelSHAP,agnostic,spending,48.11262211,0.018524,10
+Non-parametric KernelSHAP,agnostic,possumchest,48.11262211,0.018261,10
+Non-parametric KernelSHAP,agnostic,californiahousing,50.72868748,0.015643,8
+Parametric KernelSHAP,agnostic,californiahousing,50.72869225,0.017495,8
+Parametric KernelSHAP,agnostic,bikehourly,53.26230867,0.489318,12
+Non-parametric KernelSHAP,agnostic,bikehourly,53.26231052,0.107695,12
+Cohort,agnostic,crab,53.76108919,6.796341661,8
+CES,agnostic,crab,53.76108919,6.796341661,8
+Non-parametric KernelSHAP,agnostic,boston,53.85020711,0.20166,13
+Parametric KernelSHAP,agnostic,boston,53.85020998,0.314111,13
+Non-parametric KernelSHAP,agnostic,housing,57.34610623,0.195726,13
+Parametric KernelSHAP,agnostic,housing,57.34610886,0.263225,13
+Cohort,agnostic,challenger,63.15312102,0.02095603943,4
+CES,agnostic,challenger,63.15312102,0.02095603943,4
+Parametric KernelSHAP,agnostic,mtcars,64.26466461,0.030157,11
+Non-parametric KernelSHAP,agnostic,mtcars,64.26466489,0.029405,11
+SGDShapley,agnostic,servo,64.35805712,0.1508041165,12
+IME,agnostic,mtcars,65.08807998,0.1670636697,11
+SGDShapley,agnostic,casp,65.322221,0.2270964702,9
+CES,agnostic,casp,65.46728573,7.179346416,9
+Cohort,agnostic,casp,65.46728573,7.179346416,9
+Cohort,agnostic,power,66.32162247,3.307469117,4
+CES,agnostic,power,66.32162247,3.307469117,4
+Non-parametric KernelSHAP,agnostic,blood,66.37405431,0.007391,4
+Parametric KernelSHAP,agnostic,blood,66.37405756,0.007749,4
+Exhaustive,agnostic,challenger,67.79774796,0.1281900406,4
+KernelSHAP,agnostic,challenger,67.79774796,0.07067918777,4
+SGDShapley,agnostic,telescope,68.37196805,0.2289103819,10
+Exhaustive,agnostic,mtcars,68.75728242,129.6414053,11
+KernelSHAP,agnostic,mtcars,68.75728242,0.07080472599,11
+IME,agnostic,challenger,68.89838839,0.1574730277,4
+MLE,agnostic,challenger,69.89838839,0.1574730277,4
+SGDShapley,agnostic,bikedaily,72.46856169,0.1645142372,11
+SGDShapley,agnostic,forest,73.03815215,0.1609806861,12
+SGDShapley,agnostic,wage,73.23225644,0.2162642652,8
+SGDShapley,agnostic,forestfire,73.32221668,0.1608750513,12
+Non-parametric KernelSHAP,agnostic,concrete,74.7126961,0.015465,8
+Non-parametric KernelSHAP,agnostic,cms,74.7126961,0.014873,8
+Parametric KernelSHAP,agnostic,concrete,74.71269648,0.017561,8
+Parametric KernelSHAP,agnostic,cms,74.71269648,0.016696,8
+Exhaustive,agnostic,glass,75,26.90657115,9
+KernelSHAP,agnostic,glass,75,0.0812403014,9
+SGDShapley,agnostic,startups,75.55694881,0.1412016223,4
+CES,agnostic,uber,76.8735777,3.817157792,5
+Cohort,agnostic,uber,76.8735777,3.817157792,5
+Cohort,agnostic,france,78.33386527,5.179792927,7
+CES,agnostic,france,78.33386527,5.179792927,7
+SGDShapley,agnostic,advertisements,79.31402903,0.1444646445,4
+SGDShapley,agnostic,advertising,79.31402903,0.1391540477,4
+Exhaustive,agnostic,startups,79.47960385,0.1372852325,4
+KernelSHAP,agnostic,startups,79.47960385,0.07175710622,4
+SGDShapley,agnostic,petrol,79.68981296,0.1373791546,4
+IME,agnostic,startups,79.9920614,0.1510114249,4
+SGDShapley,agnostic,heartfailure,81.39444043,0.1602236502,12
+SGDShapley,agnostic,diabetes,81.5976458,0.1591659315,8
+Non-parametric KernelSHAP,agnostic,diabetes,82.04539841,0.013854,8
+Parametric KernelSHAP,agnostic,diabetes,82.04539855,0.014272,8
+CES,agnostic,abalone,83.66306193,8.39078832,10
+Cohort,agnostic,abalone,83.66306193,8.39078832,10
+IME,agnostic,apartments,84.8592343,0.1540246193,3
+Non-parametric KernelSHAP,agnostic,heart_disease,85.48268814,0.16479,13
+Parametric KernelSHAP,agnostic,heart_disease,85.48268851,0.17357,13
+KernelSHAP,agnostic,apartments,85.6678236,0.0904386502,3
+Exhaustive,agnostic,apartments,85.6678236,0.04728484154,3
+CES,agnostic,servo,85.7580361,1.057413106,12
+Cohort,agnostic,servo,85.7580361,1.057413106,12
+Parametric KernelSHAP,agnostic,chickweight,85.9763113,0.006922,3
+Non-parametric KernelSHAP,agnostic,chickweight,85.9763114,0.006961,3
+SGDShapley,agnostic,migration,86.30918462,0.158616806,11
+SGDShapley,agnostic,iris,86.45106303,0.1434573555,4
+SGDShapley,agnostic,jewellery,86.66234381,0.1499600725,3
+SGDShapley,agnostic,telecom,86.68108115,0.1704171918,11
+SGDShapley,agnostic,blood,87.11063878,0.1560357901,4
+MLE,agnostic,mtcars,87.56444521,0.4080631516,11
+SGDShapley,agnostic,prostate,87.96142447,0.1416482564,8
+SGDShapley,agnostic,poker,88.00452469,0.2345333251,10
+IME,agnostic,linnerud,88.42606211,0.1552205426,5
+Exhaustive,agnostic,linnerud,88.47015449,0.3874003887,5
+KernelSHAP,agnostic,linnerud,88.47015449,0.06969629015,5
+SGDShapley,agnostic,linnerud,88.89422498,0.140773092,5
+CES,agnostic,mtcars,88.90265554,0.1561844782,11
+Cohort,agnostic,mtcars,88.90265554,0.1561844782,11
+SGDShapley,agnostic,stockreturn,89.76214625,0.1468600608,12
+SGDShapley,agnostic,seeds,89.899858,0.145145437,6
+Cohort,agnostic,hybrid,90.03699147,1.388740759,11
+CES,agnostic,hybrid,90.03699147,1.388740759,11
+SGDShapley,agnostic,stockrisk,90.20066866,0.1467473255,12
+MLE,agnostic,startups,90.97208072,0.37646382,4
+Non-parametric KernelSHAP,agnostic,walmart,91.0425867,0.010078,6
+Parametric KernelSHAP,agnostic,walmart,91.04258923,0.008895,6
+SGDShapley,agnostic,realestate,91.16464819,0.1512015649,7
+MLE,agnostic,servo,91.34647491,0.4096955776,12
+Cohort,agnostic,startups,91.75001776,0.18301048,4
+CES,agnostic,startups,91.75001776,0.18301048,4
+CES,agnostic,cust,91.77822262,5.361572181,8
+Cohort,agnostic,cust,91.77822262,5.361572181,8
+SGDShapley,agnostic,computer,91.79633922,0.1467823879,7
+IME,agnostic,possumbelly,92.09155243,0.1832723822,10
+Parametric KernelSHAP,agnostic,stockrisk,92.36923512,0.080815,12
+Non-parametric KernelSHAP,agnostic,stockrisk,92.36923521,0.07295,12
+Parametric KernelSHAP,agnostic,admission,92.37026186,0.0091,7
+Non-parametric KernelSHAP,agnostic,admission,92.37026187,0.0086,7
+Exhaustive,agnostic,possumbelly,92.38284019,239.6029878,10
+KernelSHAP,agnostic,possumbelly,92.38284019,0.1102223396,10
+SGDShapley,agnostic,apartments,92.38942998,0.1386299683,3
+Exhaustive,agnostic,airline-costs,92.45318091,21.10025167,9
+KernelSHAP,agnostic,airline-costs,92.45318091,0.1054726124,9
+Non-parametric KernelSHAP,agnostic,poker,92.48033718,0.034161,10
+Parametric KernelSHAP,agnostic,poker,92.48033756,0.043876,10
+MLE,agnostic,uber,92.70294598,28.60046116,5
+CES,agnostic,japanemg,92.80251981,0.1403224786,5
+Cohort,agnostic,japanemg,92.80251981,0.1403224786,5
+IME,agnostic,airline-costs,92.8469249,0.1643926382,9
+CES,agnostic,winequality-white,92.89733389,8.5926377,11
+Cohort,agnostic,winequality-white,92.89733389,8.5926377,11
+MLE,agnostic,japanemg,93.02597829,0.389909935,5
+MLE,agnostic,hybrid,93.05484426,0.4124002737,11
+SGDShapley,agnostic,country-data,93.06691534,0.1476386232,9
+MLE,agnostic,airline-costs,93.0973542,0.2558299541,9
+CES,agnostic,migration,93.46151699,2.05291086,11
+Cohort,agnostic,migration,93.46151699,2.05291086,11
+Non-parametric KernelSHAP,agnostic,autompg,93.48863097,0.008344,7
+Non-parametric KernelSHAP,agnostic,auto-mpg,93.48863097,0.008019,7
+Parametric KernelSHAP,agnostic,auto-mpg,93.48863114,0.007478,7
+Parametric KernelSHAP,agnostic,autompg,93.48863114,0.006879,7
+SGDShapley,agnostic,possumbelly,93.5918152,0.1491768701,10
+IME,agnostic,petrol,93.84011468,0.1553658694,4
+CES,agnostic,housing,94.46414261,4.607876819,13
+Cohort,agnostic,housing,94.46414261,4.607876819,13
+SGDShapley,agnostic,winequality-red,94.61516331,0.1927382173,11
+SGDShapley,agnostic,airline-costs,94.617226,0.1443571091,9
+Exhaustive,agnostic,petrol,94.64983069,0.1426305771,4
+KernelSHAP,agnostic,petrol,94.64983069,0.1133853644,4
+Cohort,agnostic,advertisements,94.96021243,0.5541246624,4
+MLE,agnostic,france,95.14409351,0.371086052,7
+Non-parametric KernelSHAP,agnostic,employee,95.24385814,0.022571,9
+Parametric KernelSHAP,agnostic,employee,95.24385952,0.025712,9
+SGDShapley,agnostic,spending,95.31285347,0.1500365325,10
+SGDShapley,agnostic,possumchest,95.31285347,0.1465072427,10
+Parametric KernelSHAP,agnostic,crab,95.34137429,0.017481,8
+Non-parametric KernelSHAP,agnostic,crab,95.34137434,0.015092,8
+MLE,agnostic,advertisements,95.49676794,0.3682443301,4
+SGDShapley,agnostic,winequality-white,95.60438059,0.2241618084,11
+MLE,agnostic,advertising,95.69967141,0.3651483926,4
+Cohort,agnostic,boston,95.71350836,4.477637865,13
+CES,agnostic,boston,95.71350836,4.477637865,13
+Cohort,agnostic,income,95.73663662,9.678174075,13
+CES,agnostic,income,95.73663662,9.678174075,13
+SGDShapley,agnostic,crab,95.76647582,0.237858544,8
+Parametric KernelSHAP,agnostic,winequality-white,95.81963661,0.079974,11
+Non-parametric KernelSHAP,agnostic,winequality-white,95.819637,0.085737,11
+Parametric KernelSHAP,agnostic,advertising,96.05710112,0.005839,4
+Parametric KernelSHAP,agnostic,advertisements,96.05710112,0.004929,4
+Non-parametric KernelSHAP,agnostic,advertising,96.05710142,0.005391,4
+Non-parametric KernelSHAP,agnostic,advertisements,96.05710142,0.005386,4
+MLE,agnostic,linnerud,96.2751652,0.4173610551,5
+SGDShapley,agnostic,airquality,96.34940845,0.2000738368,12
+SGDShapley,agnostic,abalone,96.60885791,0.2320203752,10
+Cohort,agnostic,germany,96.62043837,5.226346504,7
+CES,agnostic,germany,96.62043837,5.226346504,7
+MLE,agnostic,poker,96.68815057,1.143279214,10
+IME,agnostic,poker,96.75260299,1.080720673,10
+IME,agnostic,advertising,96.80609208,0.164342407,4
+Cohort,agnostic,prostate,96.82240282,0.3865089922,8
+CES,agnostic,prostate,96.82240282,0.3865089922,8
+CES,agnostic,iris,96.83971543,0.6667425394,4
+Cohort,agnostic,iris,96.83971543,0.6667425394,4
+KernelSHAP,agnostic,poker,96.88047142,0.2044174917,10
+SGDShapley,agnostic,californiahousing,96.88648344,0.6104199756,8
+CES,agnostic,seoulbike,96.91467379,9.306391838,12
+Cohort,agnostic,seoulbike,96.91467379,9.306391838,12
+Parametric KernelSHAP,agnostic,energy_cool,96.95239369,0.014661,8
+Non-parametric KernelSHAP,agnostic,energy_cool,96.9523938,0.011379,8
+Cohort,agnostic,heartfailure,96.99386641,2.853133084,12
+CES,agnostic,heartfailure,96.99386641,2.853133084,12
+Cohort,agnostic,seeds,97.01026962,1.64777801,6
+CES,agnostic,seeds,97.01026962,1.64777801,6
+MLE,agnostic,asia_gdp,97.04433589,0.4123427187,10
+SGDShapley,agnostic,mtcars,97.09239246,0.1465043371,11
+Non-parametric KernelSHAP,agnostic,energy,97.1552035,0.019285,9
+Parametric KernelSHAP,agnostic,energy,97.15520355,0.022087,9
+Parametric KernelSHAP,agnostic,abalone,97.16709068,0.042745,10
+Non-parametric KernelSHAP,agnostic,abalone,97.16709097,0.033732,10
+SGDShapley,agnostic,power,97.17671454,48.29765082,4
+IME,agnostic,spending,97.22672603,0.1831843785,10
+CES,agnostic,advertising,97.23340548,1.579495954,4
+Cohort,agnostic,advertising,97.23340548,1.579495954,4
+IME,agnostic,advertisements,97.24033243,0.1649910139,4
+IME,agnostic,possumchest,97.24903219,0.1840146269,10
+MLE,agnostic,heartfailure,97.26162778,0.4121264063,12
+Parametric KernelSHAP,agnostic,prostate,97.27092847,0.008046,8
+Non-parametric KernelSHAP,agnostic,prostate,97.27092951,0.008114,8
+Exhaustive,agnostic,advertising,97.27439883,0.5704498291,4
+Exhaustive,agnostic,advertisements,97.27439883,0.3693475723,4
+KernelSHAP,agnostic,advertising,97.27439883,0.1010478843,4
+KernelSHAP,agnostic,advertisements,97.27439883,0.07571330576,4
+CES,agnostic,advertisements,97.28442814,1.567364122,4
+Parametric KernelSHAP,agnostic,heartfailure,97.39482845,0.107321,12
+Non-parametric KernelSHAP,agnostic,heartfailure,97.39483834,0.076957,12
+MLE,agnostic,economics,97.42052574,0.292005426,4
+IME,agnostic,economics,97.45203823,0.1972048057,4
+MLE,agnostic,unemploy,97.54397093,0.2953372842,4
+IME,agnostic,unemploy,97.57545764,0.1997014234,4
+Exhaustive,agnostic,spending,97.64111384,80.97994566,10
+Exhaustive,agnostic,possumchest,97.64111384,79.9120903,10
+KernelSHAP,agnostic,possumchest,97.64111384,0.09005978448,10
+KernelSHAP,agnostic,spending,97.64111384,0.07405353955,10
+CES,agnostic,economics,97.71088976,13.35527594,4
+Cohort,agnostic,economics,97.71088976,13.35527594,4
+CES,agnostic,unemploy,97.71141586,13.29319621,4
+Cohort,agnostic,unemploy,97.71141586,13.29319621,4
+Exhaustive,agnostic,unemploy,97.71703779,5.152873993,4
+Exhaustive,agnostic,economics,97.71703779,2.100087166,4
+KernelSHAP,agnostic,unemploy,97.71703779,0.1080946082,4
+KernelSHAP,agnostic,economics,97.71703779,0.1050087314,4
+Parametric KernelSHAP,agnostic,chanceadmit,97.74345336,0.007973,7
+Non-parametric KernelSHAP,agnostic,chanceadmit,97.74345338,0.008626,7
+CES,agnostic,employee,97.75776254,16.94709132,9
+Cohort,agnostic,employee,97.75776254,6.947091316,9
+IME,agnostic,mba,97.75877223,0.3578898603,13
+MLE,agnostic,mba,97.80664306,0.4235509004,13
+Parametric KernelSHAP,agnostic,income,97.80664306,0.217315,13
+Non-parametric KernelSHAP,agnostic,income,97.80664306,0.217315,13
+SGDShapley,agnostic,economics,97.82044154,0.1567536806,4
+SGDShapley,agnostic,unemploy,97.82044154,0.1504084851,4
+IME,agnostic,htwtindex,97.84729105,0.184985431,3
+MLE,agnostic,casp,97.85317532,0.398520638,9
+Exhaustive,agnostic,mba,97.9426085,8177.639182,13
+KernelSHAP,agnostic,mba,97.9426085,0.0863296606,13
+MLE,agnostic,possumbelly,97.95620371,0.3979393142,10
+Cohort,agnostic,htwtindex,98.00084357,8.814801287,3
+CES,agnostic,htwtindex,98.00084357,8.814801287,3
+CES,agnostic,possumbelly,98.04972793,0.600800269,10
+Cohort,agnostic,possumbelly,98.04972793,0.600800269,10
+MLE,agnostic,admission,98.09062173,0.3812323541,7
+Exhaustive,agnostic,htwtindex,98.11590826,1.466921568,3
+KernelSHAP,agnostic,htwtindex,98.11590826,0.1376297922,3
+IME,agnostic,winequality-white,98.11700813,0.9598177036,11
+IME,agnostic,employee,98.14454717,0.590109172,9
+IME,agnostic,uber,98.15609815,21.73971541,5
+Parametric KernelSHAP,agnostic,power,98.15609815,0.008952,4
+Non-parametric KernelSHAP,agnostic,power,98.15609815,0.008579,4
+CES,agnostic,asia_gdp,98.17080824,0.167370694,10
+Cohort,agnostic,asia_gdp,98.17080824,0.167370694,10
+MLE,agnostic,power,98.17671454,174.9312365,4
+IME,agnostic,seeds,98.2138269,0.1896468764,6
+IME,agnostic,brainweight,98.22646391,0.1655144963,3
+Parametric KernelSHAP,agnostic,seeds,98.27171442,0.005733,6
+Non-parametric KernelSHAP,agnostic,seeds,98.27171447,0.006113,6
+Exhaustive,agnostic,hybrid,98.28336915,277.0725262,11
+KernelSHAP,agnostic,hybrid,98.28336915,0.09397495962,11
+MLE,agnostic,boston,98.28458895,0.3915111348,13
+SGDShapley,agnostic,hybrid,98.29310678,0.1520359656,11
+Parametric KernelSHAP,agnostic,questions,98.30057008,0.005392,3
+Non-parametric KernelSHAP,agnostic,questions,98.3005701,0.006305,3
+Exhaustive,agnostic,seeds,98.32455259,6.107432842,6
+KernelSHAP,agnostic,seeds,98.32455259,0.07340824431,6
+SGDShapley,agnostic,const-maint,98.33035366,0.1405373053,4
+IME,agnostic,hybrid,98.35107385,0.2046204408,11
+MLE,agnostic,slump,98.36310124,0.3834305581,7
+IME,agnostic,admission,98.36490096,0.1715739077,7
+MLE,agnostic,brainweight,98.37378968,0.2525574588,3
+SGDShapley,agnostic,brainweight,98.37494183,0.1432669978,3
+KernelSHAP,agnostic,winequality-white,98.38232755,0.196766677,11
+KernelSHAP,agnostic,employee,98.38637224,0.1543257352,9
+CES,agnostic,brainweight,98.41592786,1.986941398,3
+Cohort,agnostic,brainweight,98.41592786,1.986941398,3
+CES,agnostic,apartments,98.42658452,0.2061381523,3
+Cohort,agnostic,apartments,98.42658452,0.2061381523,3
+Exhaustive,agnostic,brainweight,98.42908244,0.473856926,3
+KernelSHAP,agnostic,brainweight,98.42908244,0.09630195099,3
+MLE,agnostic,raotbl7,98.43435132,0.3768617351,7
+IME,agnostic,powerlifting,98.45088609,2.701363716,6
+SGDShapley,agnostic,admission,98.45771581,0.1447342714,7
+CES,agnostic,admission,98.4942961,3.635482042,7
+Parametric KernelSHAP,agnostic,mba,98.49581923,0.229694,13
+Non-parametric KernelSHAP,agnostic,mba,98.49581933,0.179991,13
+CES,agnostic,raotbl7,98.50089958,0.674265059,7
+Cohort,agnostic,raotbl7,98.50089958,0.674265059,7
+MLE,agnostic,stockrisk,98.50856699,0.2635086591,12
+Exhaustive,agnostic,admission,98.51149137,19.03886533,7
+KernelSHAP,agnostic,admission,98.51149137,0.09066128586,7
+Cohort,agnostic,3droad,98.51484108,96.25023642,3
+CES,agnostic,3droad,98.51484108,96.25023642,3
+Parametric KernelSHAP,agnostic,energy_heat,98.5611119,0.015284,8
+Non-parametric KernelSHAP,agnostic,energy_heat,98.56111198,0.013336,8
+SGDShapley,agnostic,asia_gdp,98.56585325,0.1504741056,10
+IME,agnostic,stockrisk,98.5668695,0.1748684989,12
+MLE,agnostic,powerlifting,98.57599388,3.424901828,6
+IME,agnostic,diamonds_filter,98.59428737,0.1938367962,4
+SGDShapley,agnostic,sacramento,98.60992626,0.1590546439,5
+MLE,agnostic,friedman,98.61172319,0.3856628541,9
+KernelSHAP,agnostic,uber,98.64263601,8.56921798,5
+Exhaustive,agnostic,stockrisk,98.6446397,1281.759876,12
+KernelSHAP,agnostic,stockrisk,98.6446397,0.08966795069,12
+MLE,agnostic,forest,98.64979165,0.4160085477,12
+MLE,agnostic,yatch,98.68906945,0.3799128906,6
+KernelSHAP,agnostic,powerlifting,98.7103557,1.029698631,6
+MLE,agnostic,germany,98.72605121,0.3878784172,7
+IME,agnostic,walmart,98.73277824,0.9751996719,6
+Cohort,agnostic,ozone,98.76671029,2.205187986,12
+CES,agnostic,ozone,98.76671029,2.205187986,12
+MLE,agnostic,diamonds_filter,98.77508215,0.2865250159,4
+IME,agnostic,country-data,98.78318334,0.192886923,9
+SGDShapley,agnostic,diamond,98.81327702,0.2944662542,7
+SGDShapley,agnostic,income,98.82335082,0.236120992,13
+SGDShapley,agnostic,adult,98.82341592,0.232832012,12
+MLE,agnostic,forestfire,98.82644677,0.4215975812,12
+MLE,agnostic,walmart,98.8311536,1.272707776,6
+Exhaustive,agnostic,winequality-red,98.87339015,14852.68454,11
+KernelSHAP,agnostic,walmart,98.8853947,0.3961918643,6
+CES,agnostic,diamonds_filter,98.88834122,12.11997794,4
+Cohort,agnostic,diamonds_filter,98.88834122,12.11997794,4
+Exhaustive,agnostic,diamonds_filter,98.889784,3.978970528,4
+KernelSHAP,agnostic,diamonds_filter,98.889784,0.101112444,4
+MLE,agnostic,winequality-white,98.8953023,0.4115837661,11
+Cohort,agnostic,yatch,98.90943922,1.191213914,6
+SGDShapley,agnostic,diamonds_filter,98.91159814,0.1487985163,4
+IME,agnostic,auto-mpg,98.92074859,0.2193688631,7
+Non-parametric KernelSHAP,agnostic,cancer,98.96207336,0.024,9
+Parametric KernelSHAP,agnostic,cancer,98.96207433,0.020622,9
+MLE,agnostic,crab,98.97267652,0.3862714406,8
+IME,agnostic,autompg,98.98475895,0.2436575559,7
+Exhaustive,agnostic,country-data,98.99831089,51.37403584,9
+KernelSHAP,agnostic,country-data,98.99831089,0.07540223428,9
+MLE,agnostic,auto-mpg,99.02036027,0.3204558299,7
+Cohort,agnostic,const-maint,99.02671389,0.06238447536,4
+CES,agnostic,const-maint,99.02671389,0.06238447536,4
+Parametric KernelSHAP,agnostic,telescope,99.05337922,0.039423,10
+Non-parametric KernelSHAP,agnostic,telescope,99.05337925,0.03629,10
+IME,agnostic,forest,99.05691096,0.3207052786,12
+MLE,agnostic,winequality-red,99.06177471,0.7038572774,11
+MLE,agnostic,autompg,99.06802456,0.3158220254,7
+Cohort,agnostic,californiahousing,99.07695884,6.136128637,8
+CES,agnostic,californiahousing,99.07695884,6.136128637,8
+IME,agnostic,boston,99.07833432,0.3307375237,13
+IME,agnostic,chickweight,99.09226928,0.1923354371,3
+MLE,agnostic,const-maint,99.10020995,0.1913137002,4
+IME,agnostic,heartfailure,99.1039169,0.2516690481,12
+Non-parametric KernelSHAP,agnostic,ozone,99.1039169,0.076255,12
+Parametric KernelSHAP,agnostic,ozone,99.1039169,0.07396,12
+Cohort,agnostic,linnerud,99.10476073,0.04380955015,5
+CES,agnostic,linnerud,99.10476073,0.04380955015,5
+SGDShapley,agnostic,cust,99.10824579,0.1631449847,8
+Cohort,agnostic,adult,99.11259922,9.114465394,12
+CES,agnostic,adult,99.11259922,9.114465394,12
+Exhaustive,agnostic,autompg,99.11773553,52.97605562,7
+Exhaustive,agnostic,auto-mpg,99.11773553,42.60018563,7
+KernelSHAP,agnostic,auto-mpg,99.11773553,0.1058411873,7
+KernelSHAP,agnostic,autompg,99.11773553,0.08242854155,7
+CES,agnostic,slump,99.12099466,0.4485236687,7
+Cohort,agnostic,slump,99.12099466,0.4485236687,7
+IME,agnostic,servo,99.12307131,0.2265795708,12
+Cohort,agnostic,auto-mpg,99.14245789,10.55801497,7
+CES,agnostic,auto-mpg,99.14245789,10.55801497,7
+CES,agnostic,autompg,99.15000703,10.52012001,7
+Cohort,agnostic,autompg,99.15000703,10.52012001,7
+IME,agnostic,crab,99.15623191,0.8276288126,8
+Parametric KernelSHAP,agnostic,friedman,99.16371285,0.025309,9
+Non-parametric KernelSHAP,agnostic,friedman,99.16371288,0.021469,9
+SGDShapley,agnostic,heart_disease,99.16388723,0.1557641612,13
+IME,agnostic,forestfire,99.16621178,0.3586309598,12
+Cohort,agnostic,winequality-red,99.16746297,8.184328142,11
+CES,agnostic,winequality-red,99.16746297,8.184328142,11
+SGDShapley,agnostic,japanemg,99.17413573,0.1415984631,5
+MLE,agnostic,apartments,99.17826561,0.3681683265,3
+Cohort,agnostic,slump-flow,99.20363306,0.4826519419,7
+IME,agnostic,friedman,99.20483797,0.824984091,9
+SGDShapley,agnostic,rentals,99.22074396,0.3885921052,8
+MLE,agnostic,cancer,99.22801072,0.4090138705,9
+CES,agnostic,friedman,99.23382245,6.724173508,9
+Cohort,agnostic,friedman,99.23382245,6.724173508,9
+MLE,agnostic,chickweight,99.23471175,0.2856471464,3
+CES,agnostic,petrol,99.24797085,0.1361144334,4
+Cohort,agnostic,petrol,99.24797085,0.1361144334,4
+MLE,agnostic,employee,99.24902818,0.3908775944,9
+IME,agnostic,winequality-red,99.24957511,0.5608813741,11
+KernelSHAP,agnostic,crab,99.26813508,0.2166026932,8
+MLE,agnostic,ozone,99.26863092,0.4229469244,12
+MLE,agnostic,blood,99.27183711,0.3681531174,4
+IME,agnostic,cancer,99.27643065,0.2979321828,9
+MLE,agnostic,glass,99.27729668,0.3815841138,9
+MLE,agnostic,kiva,99.28364669,0.3680492777,6
+Non-parametric KernelSHAP,agnostic,realestate,99.29234689,0.008117,7
+Parametric KernelSHAP,agnostic,realestate,99.29234764,0.010071,7
+Exhaustive,agnostic,boston,99.2944611,10002.85772,13
+KernelSHAP,agnostic,boston,99.2944611,0.08916525213,13
+Exhaustive,agnostic,heartfailure,99.29558672,1668.187881,12
+KernelSHAP,agnostic,heartfailure,99.29558672,0.07765066503,12
+MLE,agnostic,stockreturn,99.29630537,0.4050597548,12
+IME,agnostic,bikehourly,99.29657903,1.137417012,12
+MLE,agnostic,bikehourly,99.30693722,1.355314714,12
+IME,agnostic,telescope,99.30920913,0.9377763488,10
+SGDShapley,agnostic,mba,99.31317193,0.160448902,13
+SGDShapley,agnostic,winequality,99.31355425,0.1854424383,11
+IME,agnostic,realestate,99.31504055,0.2235773288,7
+MLE,agnostic,heart_disease,99.31672843,0.4281339513,13
+IME,agnostic,diamond,99.32089472,1.134246588,7
+IME,agnostic,france,99.32582955,1.531441228,7
+SGDShapley,agnostic,yatch,99.33258294,0.1566225547,6
+KernelSHAP,agnostic,friedman,99.33940435,0.197010567,9
+CES,agnostic,chickweight,99.34282089,11.76334617,3
+Cohort,agnostic,chickweight,99.34282089,11.76334617,3
+Exhaustive,agnostic,chickweight,99.34464458,1.813171148,3
+KernelSHAP,agnostic,chickweight,99.34464458,0.111471462,3
+MLE,agnostic,telescope,99.34625994,1.143253244,10
+Exhaustive,agnostic,forest,99.35631327,4620.276252,12
+KernelSHAP,agnostic,forest,99.35631327,0.1020687881,12
+Cohort,agnostic,realestate,99.35759513,2.270537505,7
+CES,agnostic,realestate,99.35759513,2.270537505,7
+SGDShapley,agnostic,cancer,99.36096234,0.1603637976,9
+Exhaustive,agnostic,forestfire,99.36816794,4208.940731,12
+KernelSHAP,agnostic,forestfire,99.36816794,0.0866095727,12
+IME,agnostic,prostate,99.37677554,0.1731802622,8
+IME,agnostic,energy,99.39639345,0.3166397744,9
+IME,agnostic,energy_cool,99.40269483,0.2940087741,8
+IME,agnostic,3droad,99.40435645,0.3628097404,3
+SGDShapley,agnostic,friedman,99.40624583,0.223006372,9
+MLE,agnostic,adult,99.40979233,0.4226080504,12
+Exhaustive,agnostic,servo,99.40985313,700.6378355,12
+KernelSHAP,agnostic,servo,99.40985313,0.07571099455,12
+IME,agnostic,yatch,99.41267272,0.1953048355,6
+IME,agnostic,power,99.4362,174.9312365,4
+Exhaustive,agnostic,winequality,99.43685581,14720.48715,11
+SGDShapley,agnostic,france,99.43922949,0.3587190859,7
+Cohort,agnostic,airquality,99.43952731,9.24248628,12
+CES,agnostic,airquality,99.43952731,9.24248628,12
+IME,agnostic,sacramento,99.43979633,0.2526134013,5
+KernelSHAP,agnostic,bikehourly,99.43996391,0.2620361241,12
+IME,agnostic,energy_heat,99.44247909,0.2929798008,8
+MLE,agnostic,seeds,99.44417563,0.3836250443,6
+KernelSHAP,agnostic,winequality-red,99.45344891,0.1639980208,11
+Exhaustive,agnostic,pumpkinseed,99.45363576,93582.09947,12
+Exhaustive,agnostic,cancer,99.45649072,621.6557143,9
+KernelSHAP,agnostic,cancer,99.45649072,0.1152082977,9
+IME,agnostic,blood,99.46040575,0.239435666,4
+Non-parametric KernelSHAP,agnostic,const-maint,99.46040575,0.005189,4
+Parametric KernelSHAP,agnostic,const-maint,99.46040575,0.004269,4
+IME,agnostic,iris,99.46316829,0.1596975374,4
+MLE,agnostic,3droad,99.46354017,0.5648854248,3
+IME,agnostic,bikedaily,99.46457759,0.3574728788,11
+KernelSHAP,agnostic,telescope,99.46795362,0.2566024556,10
+Exhaustive,agnostic,telescope,99.47746061,26604.49543,10
+Cohort,agnostic,stockrisk,99.48611432,1.669632689,12
+CES,agnostic,stockrisk,99.48611432,1.669632689,12
+IME,agnostic,casp,99.50509447,1.090801995,9
+Exhaustive,agnostic,prostate,99.51084325,29.03359222,8
+KernelSHAP,agnostic,prostate,99.51084325,0.09234674049,8
+IME,agnostic,jewellery,99.51250685,0.1841921507,3
+Cohort,agnostic,spending,99.5136495,0.6073024137,10
+CES,agnostic,spending,99.5136495,0.6073024137,10
+Cohort,agnostic,possumchest,99.51495467,0.6164151532,10
+CES,agnostic,possumchest,99.51495467,0.6164151532,10
+Exhaustive,agnostic,japanemg,99.5253268,0.4367411137,5
+KernelSHAP,agnostic,japanemg,99.5253268,0.0867363294,5
+SGDShapley,agnostic,diamonds_select,99.52673666,0.1558936134,4
+MLE,agnostic,diamonds_select,99.53112651,0.3720809662,4
+IME,agnostic,wholesale,99.53529155,0.2331662358,7
+Exhaustive,agnostic,realestate,99.53756969,28.69033456,7
+KernelSHAP,agnostic,realestate,99.53756969,0.08307379006,7
+MLE,agnostic,sacramento,99.54041978,0.3718411009,5
+MLE,agnostic,energy,99.54058865,0.4291370722,9
+IME,agnostic,cms,99.5418573,0.3474337419,8
+KernelSHAP,agnostic,diamond,99.55291112,0.3177322294,7
+IME,agnostic,diamonds_select,99.5562916,0.2210448749,4
+IME,agnostic,raotbl6,99.55924522,0.174394561,7
+KernelSHAP,agnostic,3droad,99.56001866,0.2462739417,3
+MLE,agnostic,wholesale,99.56115122,0.3851169576,7
+IME,agnostic,concrete,99.56173483,0.3461482886,8
+MLE,agnostic,cust,99.57025359,0.3812160119,8
+MLE,agnostic,bikedaily,99.58095364,0.46836136,11
+IME,agnostic,seoulbike,99.58462107,1.140343873,12
+MLE,agnostic,computer,99.58594453,0.3903495402,7
+IME,agnostic,diabetes,99.58774774,0.2962846033,8
+Exhaustive,agnostic,insurance,99.58776259,190.6318846,6
+KernelSHAP,agnostic,france,99.59676225,0.4243895827,7
+SGDShapley,agnostic,kiva,99.59676892,0.3109162764,6
+IME,agnostic,kiva,99.59785493,1.077023089,6
+MLE,agnostic,chanceadmit,99.60383627,0.3780965661,7
+MLE,agnostic,iris,99.60756415,0.3755097818,4
+MLE,agnostic,slump-flow,99.60955948,0.385267426,7
+Exhaustive,agnostic,energy_cool,99.61198568,239.9374104,8
+KernelSHAP,agnostic,energy_cool,99.61198568,0.09792656035,8
+Exhaustive,agnostic,energy,99.61656099,619.4662485,9
+KernelSHAP,agnostic,energy,99.61656099,0.1313017231,9
+IME,agnostic,slump-mpa,99.62582022,0.1689899318,7
+IME,agnostic,germany,99.62710406,2.044165792,7
+MLE,agnostic,possumchest,99.62952692,0.3989641394,10
+MLE,agnostic,winequality,99.63185498,0.7096547806,11
+CES,agnostic,blood,99.63384614,22.18414441,4
+Cohort,agnostic,blood,99.63384614,22.18414441,4
+Exhaustive,agnostic,yatch,99.6361385,6.521088123,6
+KernelSHAP,agnostic,yatch,99.6361385,0.07810133579,6
+IME,agnostic,heart_disease,99.63765532,0.2576791445,13
+MLE,agnostic,slump-mpa,99.63803642,0.3784871452,7
+Exhaustive,agnostic,energy_heat,99.6421672,238.8337326,8
+KernelSHAP,agnostic,energy_heat,99.6421672,0.09807727187,8
+IME,agnostic,raotbl7,99.64434602,0.1740314146,7
+Non-parametric KernelSHAP,agnostic,airfoil,99.6448266,0.009132,5
+Non-parametric KernelSHAP,agnostic,airfoil-self-noise,99.6448266,0.008959,5
+Parametric KernelSHAP,agnostic,airfoil,99.64482719,0.008702,5
+Parametric KernelSHAP,agnostic,airfoil-self-noise,99.64482719,0.00867,5
+IME,agnostic,japanemg,99.64779627,0.1556911786,5
+Exhaustive,agnostic,casp,99.64896746,10618.38776,9
+CES,agnostic,country-data,99.65299481,1.204889242,9
+Cohort,agnostic,country-data,99.65299481,1.204889242,9
+IME,agnostic,slump-flow,99.65315378,0.1730600876,7
+Exhaustive,agnostic,blood,99.65495854,3.494425774,4
+KernelSHAP,agnostic,blood,99.65495854,0.09563426836,4
+IME,agnostic,housing,99.65904012,0.3717741652,13
+MLE,agnostic,cms,99.66374282,0.4615773533,8
+Exhaustive,agnostic,precip,99.66777115,9083.37924,9
+MLE,agnostic,seoulbike,99.6689921,1.354735872,12
+SGDShapley,agnostic,energy_heat,99.67149303,0.1757699702,8
+MLE,agnostic,spx,99.67199171,0.366129414,3
+CES,agnostic,energy,99.67212066,5.479260713,9
+Cohort,agnostic,energy,99.67212066,5.479260713,9
+CES,agnostic,yatch,99.67219067,5.515925319,6
+IME,agnostic,stockreturn,99.67243783,0.1877332697,12
+IME,agnostic,cust,99.67777561,0.3134607734,8
+MLE,agnostic,spending,99.67808036,0.4082037653,10
+MLE,agnostic,concrete,99.67938562,0.4632111217,8
+IME,agnostic,slump,99.68107867,0.1723233321,7
+IME,agnostic,adult,99.68222835,1.120385966,12
+IME,agnostic,income,99.6824825,1.227410584,13
+SGDShapley,agnostic,raotbl6,99.68282597,0.1475165007,7
+MLE,agnostic,diabetes,99.68306084,0.4055058656,8
+Cohort,agnostic,bikehourly,99.68414189,9.309311164,12
+CES,agnostic,bikehourly,99.68414189,9.309311164,12
+MLE,agnostic,country-data,99.68760028,0.396409618,9
+Exhaustive,agnostic,bikedaily,99.68775198,3404.601707,11
+KernelSHAP,agnostic,bikedaily,99.68775198,0.1198193948,11
+MLE,agnostic,californiahousing,99.6882301,0.3909748207,8
+SGDShapley,agnostic,insurance,99.69212605,0.1735746861,6
+KernelSHAP,agnostic,power,99.69322772,78.24446115,4
+Cohort,agnostic,sacramento,99.6933871,42.48150714,5
+CES,agnostic,sacramento,99.6933871,42.48150714,5
+MLE,agnostic,petrol,99.69355481,0.3763704449,4
+Exhaustive,agnostic,sacramento,99.69502381,16.60026312,5
+KernelSHAP,agnostic,sacramento,99.69502381,0.1463067385,5
+IME,agnostic,rentals,99.69726751,1.973264498,8
+Exhaustive,agnostic,wholesale,99.69869688,31.43970323,7
+KernelSHAP,agnostic,wholesale,99.69869688,0.08344049976,7
+MLE,agnostic,prostate,99.70597645,0.3821017164,8
+Exhaustive,agnostic,abalone,99.70609141,25542.49285,10
+Cohort,agnostic,wholesale,99.70710097,2.384701432,7
+CES,agnostic,wholesale,99.70710097,2.384701432,7
+Cohort,agnostic,raotbl6,99.70727183,1.109483981,7
+CES,agnostic,raotbl6,99.70727183,1.109483981,7
+IME,agnostic,questions,99.70732218,0.1478453,3
+SGDShapley,agnostic,concrete,99.71193444,0.1682204947,8
+SGDShapley,agnostic,cms,99.71193444,0.1654639446,8
+IME,agnostic,chanceadmit,99.71470622,0.167468481,7
+MLE,agnostic,jewellery,99.71646816,0.3639248245,3
+CES,agnostic,walmart,99.71729509,300.1371824,6
+Cohort,agnostic,walmart,99.71729509,300.1371824,6
+CES,agnostic,mba,99.71739708,4.543289699,13
+Cohort,agnostic,mba,99.71739708,4.543289699,13
+IME,agnostic,const-maint,99.71840481,0.1529077833,4
+MLE,agnostic,airquality,99.72137517,0.8770735546,12
+MLE,agnostic,htwtindex,99.72220921,0.3671029929,3
+SGDShapley,agnostic,housing,99.72434312,0.1622991519,13
+SGDShapley,agnostic,energy,99.72627893,0.1635163581,9
+SGDShapley,agnostic,energy_cool,99.72785499,0.1578367761,8
+IME,agnostic,precip,99.72852982,0.8074771599,9
+Cohort,agnostic,jewellery,99.7301917,8.974011844,3
+CES,agnostic,jewellery,99.7301917,8.974011844,3
+Exhaustive,agnostic,jewellery,99.7303376,1.454095602,3
+KernelSHAP,agnostic,jewellery,99.7303376,0.1037544219,3
+IME,agnostic,telecom,99.73119667,0.432925587,11
+IME,agnostic,airquality,99.74027522,0.7159648505,12
+MLE,agnostic,housing,99.74037453,0.4411320529,13
+Exhaustive,agnostic,heart_disease,99.74060952,3219.24188,13
+KernelSHAP,agnostic,heart_disease,99.74060952,0.0957401673,13
+KernelSHAP,agnostic,casp,99.74116623,0.2009769194,9
+IME,agnostic,spx,99.74229428,0.2068891385,3
+Cohort,agnostic,diamonds_select,99.74286959,34.16041244,4
+CES,agnostic,diamonds_select,99.74286959,34.16041244,4
+Exhaustive,agnostic,diamonds_select,99.74960887,12.78181839,4
+KernelSHAP,agnostic,diamonds_select,99.74960887,0.1265717116,4
+Exhaustive,agnostic,raotbl6,99.75208021,5.550896406,7
+KernelSHAP,agnostic,raotbl6,99.75208021,0.0964059946,7
+IME,agnostic,wine,99.75726146,1.069780475,12
+KernelSHAP,agnostic,kiva,99.7573018,0.3470881614,6
+KernelSHAP,agnostic,concrete,99.75921997,0.2126879345,8
+KernelSHAP,agnostic,cms,99.75921997,0.1381424694,8
+KernelSHAP,agnostic,seoulbike,99.76561335,0.303465042,12
+SGDShapley,agnostic,airfoil-self-noise,99.76805979,0.1807290641,5
+SGDShapley,agnostic,airfoil,99.76805979,0.1777219245,5
+Non-parametric KernelSHAP,agnostic,asia_gdp,99.76858831,0.01705,10
+Parametric KernelSHAP,agnostic,asia_gdp,99.76858841,0.017231,10
+IME,agnostic,abalone,99.76981094,0.9082426945,10
+IME,agnostic,ozone,99.77179728,0.2239210001,12
+IME,agnostic,pumpkinseed,99.77187793,0.9099617113,12
+MLE,agnostic,migration,99.77293625,0.3248877928,11
+MLE,agnostic,airfoil-self-noise,99.77522252,0.369170988,5
+SGDShapley,agnostic,questions,99.77600574,0.1351999774,3
+MLE,agnostic,realestate,99.77609364,0.3678137682,7
+IME,agnostic,winequality,99.77737133,0.6396135858,11
+MLE,agnostic,rentals,99.77827791,2.416340256,8
+Parametric KernelSHAP,agnostic,stockreturn,99.78037833,0.085284,12
+Non-parametric KernelSHAP,agnostic,stockreturn,99.78037833,0.072752,12
+IME,agnostic,computer,99.79244127,0.2101885098,7
+CES,agnostic,kiva,99.79307086,341.8754837,6
+Cohort,agnostic,kiva,99.79307086,341.8754837,6
+MLE,agnostic,income,99.79388538,1.450185986,13
+MLE,agnostic,precip,99.7942489,0.8851398685,9
+IME,agnostic,insurance,99.79674631,0.3397147952,6
+MLE,agnostic,telecom,99.79894297,0.5543411724,11
+IME,agnostic,migration,99.79908858,0.2316045792,11
+MLE,agnostic,questions,99.79978137,0.3516044198,3
+SGDShapley,agnostic,wholesale,99.80257767,0.1528503193,7
+IME,agnostic,airfoil,99.80267173,0.3138144406,5
+MLE,agnostic,diamond,99.80272402,0.3731346015,7
+IME,agnostic,californiahousing,99.80472057,3.567549799,8
+MLE,agnostic,wine,99.80844657,0.413477777,12
+Cohort,agnostic,diamond,99.81179939,5.238638452,7
+CES,agnostic,diamond,99.81179939,5.238638452,7
+IME,agnostic,airfoil-self-noise,99.81940601,0.3167089513,5
+SGDShapley,agnostic,ozone,99.83163545,0.1530651584,12
+IME,agnostic,wage,99.83291343,0.8071241379,8
+CES,agnostic,questions,99.83347457,0.897767801,3
+Cohort,agnostic,questions,99.83347457,0.897767801,3
+CES,agnostic,diabetes,99.83473616,4.826967833,8
+Cohort,agnostic,diabetes,99.83473616,4.826967833,8
+Exhaustive,agnostic,diabetes,99.83643386,460.7456112,8
+KernelSHAP,agnostic,diabetes,99.83643386,0.1161074122,8
+Exhaustive,agnostic,slump-mpa,99.83747756,16.44379926,7
+KernelSHAP,agnostic,slump-mpa,99.83747756,0.09344470501,7
+KernelSHAP,agnostic,germany,99.83878394,0.4659011378,7
+SGDShapley,agnostic,raotbl7,99.83905771,0.1440794817,7
+SGDShapley,agnostic,powerlifting,99.84300287,0.6055776069,6
+Cohort,agnostic,glass,99.84666802,0.5217672234,9
+CES,agnostic,glass,99.84666802,0.5217672234,9
+Exhaustive,agnostic,stockreturn,99.85503998,1052.716012,12
+KernelSHAP,agnostic,stockreturn,99.85503998,0.08796079342,12
+Exhaustive,agnostic,housing,99.85662469,9593.26056,13
+KernelSHAP,agnostic,housing,99.85662469,0.08751633638,13
+MLE,agnostic,energy_heat,99.86080352,0.396110209,8
+MLE,agnostic,wage,99.86205136,0.3932002877,8
+SGDShapley,agnostic,spx,99.86426856,0.1610246422,3
+Cohort,agnostic,forestfire,99.86886231,4.837329425,12
+CES,agnostic,forestfire,99.86886231,4.837329425,12
+Exhaustive,agnostic,cust,99.87047198,562.4782276,8
+KernelSHAP,agnostic,cust,99.87047198,0.1010434992,8
+CES,agnostic,wine,99.87126957,9.287044365,12
+Cohort,agnostic,wine,99.87126957,9.287044365,12
+CES,agnostic,winequality,99.87197375,8.484760122,11
+Cohort,agnostic,winequality,99.87197375,8.484760122,11
+MLE,agnostic,energy_cool,99.87228406,0.3842076082,8
+Exhaustive,agnostic,raotbl7,99.87507427,11.13356924,7
+KernelSHAP,agnostic,raotbl7,99.87507427,0.0734110053,7
+MLE,agnostic,pumpkinseed,99.88004616,1.089150901,12
+Exhaustive,agnostic,iris,99.88059872,0.2483444214,4
+KernelSHAP,agnostic,iris,99.88059872,0.07321610928,4
+MLE,agnostic,insurance,99.88087028,0.4682273894,6
+KernelSHAP,agnostic,income,99.88110367,0.4984548179,13
+KernelSHAP,agnostic,adult,99.88116825,0.2599776701,12
+Exhaustive,agnostic,wage,99.88500767,7189.769356,8
+Cohort,agnostic,admission,99.88553153,2.202542519,7
+MLE,agnostic,raotbl6,99.88811684,0.389163058,7
+Exhaustive,agnostic,powerlifting,99.89021252,29203.8163,6
+Cohort,agnostic,telecom,99.89211402,8.357201985,11
+CES,agnostic,telecom,99.89211402,8.357201985,11
+MLE,agnostic,abalone,99.89230995,1.103290552,10
+Cohort,agnostic,slump-mpa,99.89423849,0.7644935776,7
+CES,agnostic,slump-mpa,99.89423849,0.7644935776,7
+Non-parametric KernelSHAP,agnostic,powerlifting,99.89467931,0.009632,6
+Parametric KernelSHAP,agnostic,powerlifting,99.89467933,0.008766,6
+Cohort,agnostic,poker,99.8980368,7.396674803,10
+CES,agnostic,poker,99.8980368,7.396674803,10
+SGDShapley,agnostic,germany,99.89884764,0.3816418583,7
+KernelSHAP,agnostic,rentals,99.89910763,0.5888081659,8
+SGDShapley,agnostic,boston,99.89926952,0.1685708854,13
+KernelSHAP,agnostic,precip,99.90260517,0.1759708238,9
+SGDShapley,agnostic,wine,99.90284641,0.2298574375,12
+Exhaustive,agnostic,slump,99.9029475,4.685025454,7
+KernelSHAP,agnostic,slump,99.9029475,0.07327579751,7
+Cohort,agnostic,cancer,99.90436132,5.00041035,9
+CES,agnostic,cancer,99.90436132,5.00041035,9
+MLE,agnostic,airfoil,99.90743911,0.442648116,5
+Exhaustive,agnostic,wine,99.90831106,144727.6963,12
+CES,agnostic,rentals,99.90970364,6.047631516,8
+Cohort,agnostic,rentals,99.90970364,6.047631516,8
+Cohort,agnostic,heart_disease,99.91510957,2.792890562,13
+CES,agnostic,heart_disease,99.91510957,2.792890562,13
+CES,agnostic,forest,99.91676379,4.873423132,12
+Cohort,agnostic,forest,99.91676379,4.873423132,12
+Exhaustive,agnostic,slump-flow,99.91948044,11.44378328,7
+KernelSHAP,agnostic,slump-flow,99.91948044,0.08711145906,7
+Exhaustive,agnostic,questions,99.92447809,0.9075980186,3
+KernelSHAP,agnostic,questions,99.92447809,0.08999158108,3
+CES,agnostic,slump-flow,99.92471447,0.7686309253,7
+Exhaustive,agnostic,telecom,99.9250514,6472.892293,11
+KernelSHAP,agnostic,telecom,99.9250514,0.1334962086,11
+Non-parametric KernelSHAP,agnostic,iris,99.92606851,0.00536,4
+Parametric KernelSHAP,agnostic,iris,99.92606857,0.004686,4
+Exhaustive,agnostic,const-maint,99.92734662,0.1272478104,4
+KernelSHAP,agnostic,const-maint,99.92734662,0.07010416551,4
+CES,agnostic,pumpkinseed,99.92836617,9.570840492,12
+Cohort,agnostic,pumpkinseed,99.92836617,9.570840492,12
+Cohort,agnostic,computer,99.92929555,1.222978865,7
+CES,agnostic,computer,99.92929555,1.222978865,7
+KernelSHAP,agnostic,airquality,99.92939862,0.1988696503,12
+Exhaustive,agnostic,bikehourly,99.93288553,156772.3744,12
+IME,agnostic,asia_gdp,99.9345941,0.1716204371,10
+SGDShapley,agnostic,pumpkinseed,99.93557237,0.2121139628,12
+SGDShapley,agnostic,chickweight,99.93820909,0.1513044472,3
+Exhaustive,agnostic,computer,99.93843671,20.56032038,7
+KernelSHAP,agnostic,computer,99.93843671,0.07583688999,7
+Cohort,agnostic,cms,99.93999115,6.086574677,8
+CES,agnostic,cms,99.93999115,6.086574677,8
+CES,agnostic,concrete,99.94000196,6.062549226,8
+Cohort,agnostic,concrete,99.94000196,6.062549226,8
+Exhaustive,agnostic,kiva,99.9433216,2498.436117,6
+Exhaustive,agnostic,power,99.94362,1727.671873,4
+Exhaustive,agnostic,crab,99.94801938,5577.959091,8
+Cohort,agnostic,bikedaily,99.94845348,6.10433176,11
+CES,agnostic,bikedaily,99.94845348,6.10433176,11
+Exhaustive,agnostic,winequality-white,99.95050966,59924.28114,11
+Exhaustive,agnostic,seoulbike,99.95124397,154552.0449,12
+Exhaustive,agnostic,walmart,99.95143244,2092.079495,6
+Non-parametric KernelSHAP,agnostic,possumbelly,99.95845506,0.018717,10
+Parametric KernelSHAP,agnostic,possumbelly,99.9584551,0.018691,10
+SGDShapley,agnostic,autompg,99.95907248,0.1531887678,7
+SGDShapley,agnostic,auto-mpg,99.95907248,0.1518350528,7
+Cohort,agnostic,spx,99.95981085,26.77209896,3
+CES,agnostic,spx,99.95981085,26.77209896,3
+Exhaustive,agnostic,spx,99.96026403,4.229765654,3
+KernelSHAP,agnostic,spx,99.96026403,0.1374100789,3
+Exhaustive,agnostic,chanceadmit,99.96081788,9.565268993,7
+KernelSHAP,agnostic,chanceadmit,99.96081788,0.09165902752,7
+CES,agnostic,chanceadmit,99.96125724,2.528634442,7
+SGDShapley,agnostic,slump,99.96219201,0.1440415593,7
+SGDShapley,agnostic,chanceadmit,99.96530474,0.1439374306,7
+Exhaustive,agnostic,airquality,99.96577742,110776.9868,12
+Exhaustive,agnostic,germany,99.96757523,12878.44107,7
+SGDShapley,agnostic,slump-flow,99.96764827,0.1501217379,7
+Exhaustive,agnostic,ozone,99.9736624,943.6302023,12
+KernelSHAP,agnostic,ozone,99.9736624,0.07687447676,12
+Cohort,agnostic,chanceadmit,99.97529495,1.685932147,7
+Parametric KernelSHAP,agnostic,telecom,99.98097411,0.080027,11
+Non-parametric KernelSHAP,agnostic,telecom,99.98097434,0.05467,11
+Exhaustive,agnostic,airfoil-self-noise,99.98188165,77.93238044,5
+Exhaustive,agnostic,airfoil,99.98188165,75.35091639,5
+KernelSHAP,agnostic,pumpkinseed,99.9827585,0.2177204883,12
+Exhaustive,agnostic,asia_gdp,99.98332608,56.4803791,10
+KernelSHAP,agnostic,asia_gdp,99.98332608,0.07208819049,10
+KernelSHAP,agnostic,californiahousing,99.98357803,1.106982724,8
+KernelSHAP,agnostic,insurance,99.98619127,0.1498054042,6
+Exhaustive,agnostic,friedman,99.986198,10304.72688,9
+Cohort,agnostic,insurance,99.98726659,66.719075,6
+CES,agnostic,insurance,99.98726659,66.719075,6
+Exhaustive,agnostic,diamond,99.98853305,5404.944514,7
+CES,agnostic,stockreturn,99.98855309,1.889029276,12
+Cohort,agnostic,stockreturn,99.98855309,1.889029276,12
+Exhaustive,agnostic,poker,99.98905875,26004.55296,10
+Exhaustive,agnostic,concrete,99.98977023,420.0980568,8
+Exhaustive,agnostic,cms,99.98977023,410.6637135,8
+Exhaustive,agnostic,france,99.99309986,18178.01859,7
+CES,agnostic,telescope,99.9941321,7.573556105,10
+Cohort,agnostic,telescope,99.9941321,7.573556105,10
+Exhaustive,agnostic,3droad,99.99571939,17.83948231,3
+Exhaustive,agnostic,rentals,99.99591548,51705.38714,8
+CES,agnostic,energy_heat,99.99646998,4.917195789,8
+Cohort,agnostic,energy_heat,99.99646998,4.917195789,8
+Exhaustive,agnostic,employee,99.99661606,7193.874066,9
+CES,agnostic,airfoil,99.99699669,71.70130533,5
+Cohort,agnostic,airfoil,99.99699669,71.70130533,5
+CES,agnostic,powerlifting,99.99703711,4.433329694,6
+Cohort,agnostic,powerlifting,99.99703711,4.433329694,6
+KernelSHAP,agnostic,abalone,99.99708369,0.2443399617,10
+CES,agnostic,airfoil-self-noise,99.99710873,68.99779035,5
+Cohort,agnostic,airfoil-self-noise,99.99710873,68.99779035,5
+KernelSHAP,agnostic,airfoil-self-noise,99.99726666,0.1609123259,5
+KernelSHAP,agnostic,airfoil,99.99726666,0.1582773317,5
+KernelSHAP,agnostic,wine,99.99730881,0.2501303319,12
+SGDShapley,agnostic,precip,99.99820213,0.2111200347,9
+CES,agnostic,wage,99.9988892,6.081456814,8
+Cohort,agnostic,wage,99.9988892,6.081456814,8
+KernelSHAP,agnostic,winequality,99.9991244,0.1323470997,11
+CES,agnostic,energy_cool,99.99920621,4.855265974,8
+Cohort,agnostic,energy_cool,99.99920621,4.855265974,8
+Exhaustive,agnostic,californiahousing,99.99946372,157956.0191,8
+Exhaustive,agnostic,income,99.99958864,358636.4671,13
+Exhaustive,agnostic,adult,99.99958927,153236.7634,12
+SGDShapley,agnostic,slump-mpa,99.99998737,0.1437394619,7
+Exhaustive,agnostic,migration,99.99998946,489.5670915,11
+KernelSHAP,agnostic,migration,99.99998946,0.1000330572,11
+KernelSHAP,agnostic,wage,99.99999985,0.1897101366,8

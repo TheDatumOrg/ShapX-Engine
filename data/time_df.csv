@@ -1,0 +1,193 @@
+Model,Replacement Strategy,Features,Time
+linear,Conditional,2,0.006226
+linear,Conditional,4,0.0064048
+linear,Conditional,6,0.0078725
+linear,Conditional,8,0.0083412
+linear,Conditional,10,0.0134695
+linear,Conditional,12,0.02524785714
+linear,Conditional,14,0.0798855
+linear,Conditional,16,0.18554175
+linear,Copula,2,0.00722
+linear,Copula,4,0.0061726
+linear,Copula,6,0.0081085
+linear,Copula,8,0.0086934
+linear,Copula,10,0.0154385
+linear,Copula,12,0.02945485714
+linear,Copula,14,0.17335525
+linear,Copula,16,0.21915125
+linear,Gaussian,2,0.006695666667
+linear,Gaussian,4,0.0063994
+linear,Gaussian,6,0.0072495
+linear,Gaussian,8,0.0083002
+linear,Gaussian,10,0.015187
+linear,Gaussian,12,0.02860914286
+linear,Gaussian,14,0.1809185
+linear,Gaussian,16,0.24515
+linear,Marginal,2,0.006536333333
+linear,Marginal,4,0.0066198
+linear,Marginal,6,0.0137585
+linear,Marginal,8,0.0126402
+linear,Marginal,10,0.016719625
+linear,Marginal,12,0.04036857143
+linear,Marginal,14,0.11072525
+linear,Marginal,16,0.2997115
+linear,Mean,2,0.01624930421
+linear,Mean,4,0.02631845089
+linear,Mean,6,0.7318337768
+linear,Mean,8,0.0309116268
+linear,Mean,10,0.3280968197
+linear,Mean,12,0.1984532161
+linear,Mean,14,0.1356664117
+linear,Mean,16,0.08276286993
+linear,Separate models,2,0.3549584548
+linear,Separate models,4,1.8732192992
+linear,Separate models,6,4.160311
+linear,Separate models,8,34.367734575
+linear,Separate models,10,283.332661
+linear,Separate models,12,1122.978809
+linear,Separate models,14,3329.322668
+linear,Separate models,16,11200.50637
+linear,Uniform,2,4.696652496
+linear,Uniform,4,12.02737435
+linear,Uniform,6,1.013101696
+linear,Uniform,8,5.435547577
+linear,Uniform,10,0.9597225989
+linear,Uniform,12,0.8127146837
+linear,Uniform,14,0.7259967306
+linear,Uniform,16,0.864396343
+linear,Zero,2,0.01581548871
+linear,Zero,4,0.02700223446
+linear,Zero,6,0.8217025872
+linear,Zero,8,0.0305399874
+linear,Zero,10,0.3661161109
+linear,Zero,12,0.1983701394
+linear,Zero,14,0.1518459413
+linear,Zero,16,0.08288094718
+tree,Conditional,2,0.007229
+tree,Conditional,4,0.0062415
+tree,Conditional,6,0.008641666667
+tree,Conditional,8,0.01419845455
+tree,Conditional,10,0.02663842857
+tree,Conditional,12,0.04727925
+tree,Conditional,14,0.09338033333
+tree,Conditional,16,0.1356315
+tree,Copula,2,0.01010825
+tree,Copula,4,0.01082016667
+tree,Copula,6,0.01496283333
+tree,Copula,8,0.01810345455
+tree,Copula,10,0.03775585714
+tree,Copula,12,0.096195375
+tree,Copula,14,0.1586075556
+tree,Copula,16,41.30479165
+tree,Gaussian,2,0.006736625
+tree,Gaussian,4,0.007362666667
+tree,Gaussian,6,0.008833666667
+tree,Gaussian,8,0.01646554545
+tree,Gaussian,10,0.082554
+tree,Gaussian,12,0.080598625
+tree,Gaussian,14,0.1513314444
+tree,Gaussian,16,0.43596658
+tree,Marginal,2,0.007434625
+tree,Marginal,4,0.006339666667
+tree,Marginal,6,0.008262166667
+tree,Marginal,8,0.01505109091
+tree,Marginal,10,0.02758385714
+tree,Marginal,12,0.0540775
+tree,Marginal,14,0.09592477778
+tree,Marginal,16,0.1768455
+tree,Mean,2,0.1745114767
+tree,Mean,4,0.2168140848
+tree,Mean,6,0.3273545795
+tree,Mean,8,0.3956081476
+tree,Mean,10,0.4917662091
+tree,Mean,12,0.5402205595
+tree,Mean,14,0.5649835049
+tree,Mean,16,0.592069398
+tree,Separate models,2,8.850672
+tree,Separate models,4,92.01921083
+tree,Separate models,6,3197.460228
+tree,Separate models,8,15607.42486
+tree,Separate models,10,34390.60658
+tree,Separate models,12,54925.32761
+tree,Separate models,14,102936.7205
+tree,Separate models,16,103893.6235
+tree,Uniform,2,16.48954558
+tree,Uniform,4,15.47231684
+tree,Uniform,6,43.37775438
+tree,Uniform,8,54.39487978
+tree,Uniform,10,45.9029855
+tree,Uniform,12,54.78577069
+tree,Uniform,14,54.42444309
+tree,Uniform,16,21.51180932
+tree,Zero,2,0.165204701
+tree,Zero,4,0.2043252505
+tree,Zero,6,0.3183456847
+tree,Zero,8,0.3904059292
+tree,Zero,10,0.4517439544
+tree,Zero,12,0.50735911
+tree,Zero,14,0.5564082176
+tree,Zero,16,0.5229735004
+nn,Conditional,2,0.006784375
+nn,Conditional,4,0.007739166667
+nn,Conditional,6,0.008803666667
+nn,Conditional,8,0.01328945455
+nn,Conditional,10,0.02717742857
+nn,Conditional,12,0.0494295
+nn,Conditional,14,0.09081153846
+nn,Conditional,16,0.15394
+nn,Copula,2,0.007179375
+nn,Copula,4,0.006547666667
+nn,Copula,6,0.009745166667
+nn,Copula,8,0.01625754545
+nn,Copula,10,0.03353985714
+nn,Copula,12,0.061380375
+nn,Copula,14,0.1112622308
+nn,Copula,16,0.171902
+nn,Gaussian,2,0.00757975
+nn,Gaussian,4,0.00727275
+nn,Gaussian,6,0.0095315
+nn,Gaussian,8,0.01546318182
+nn,Gaussian,10,0.03002514286
+nn,Gaussian,12,0.061067125
+nn,Gaussian,14,0.1071854615
+nn,Gaussian,16,0.121902
+nn,Marginal,2,0.006661875
+nn,Marginal,4,0.006481833333
+nn,Marginal,6,0.01188433333
+nn,Marginal,8,0.016654
+nn,Marginal,10,0.03289485714
+nn,Marginal,12,0.053686875
+nn,Marginal,14,0.09806930769
+nn,Marginal,16,0.178091
+nn,Mean,2,0.01707812207
+nn,Mean,4,0.00780786571
+nn,Mean,6,0.006905336219
+nn,Mean,8,0.0175544066
+nn,Mean,10,0.02429956511
+nn,Mean,12,0.004274103128
+nn,Mean,14,0.01391061044
+nn,Mean,16,0.005047037866
+nn,Separate models,2,80.16377017
+nn,Separate models,4,2503.163853
+nn,Separate models,6,1669.351861
+nn,Separate models,8,6110.92322
+nn,Separate models,10,34959.1215
+nn,Separate models,12,48430.66882
+nn,Separate models,14,163824.6276
+nn,Separate models,16,239850.8452
+nn,Uniform,2,0.9408124389
+nn,Uniform,4,1.49191083
+nn,Uniform,6,3.535697196
+nn,Uniform,8,7.146424944
+nn,Uniform,10,4.094297098
+nn,Uniform,12,3.835243229
+nn,Uniform,14,7.903287855
+nn,Uniform,16,4.607092574
+nn,Zero,2,0.001966153749
+nn,Zero,4,0.002113819054
+nn,Zero,6,0.002781153921
+nn,Zero,8,0.003421279609
+nn,Zero,10,0.004740843805
+nn,Zero,12,0.004766694725
+nn,Zero,14,0.004806495195
+nn,Zero,16,0.005233769947

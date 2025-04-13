@@ -1,0 +1,1156 @@
+Approximation,Model,dataset,Accuracy,Time,Features
+CES,linear,3droad,99.99964129,0.1862473464,3
+Cohort,linear,3droad,99.24075854,0.1862473464,3
+Exhaustive,linear,3droad,99.99983514,5.561249256,3
+IME,linear,3droad,99.79495738,0.09779863791,3
+KernelSHAP,linear,3droad,99.999926,0.08057418592,3
+Linear (correlated),linear,3droad,99.999926,0.000138168624,3
+Linear (independent),linear,3droad,98.80014393,8.97E-06,3
+MLE,linear,3droad,99.8900212,0.1475304885,3
+Non-parametric KernelSHAP,linear,3droad,51.87075457,0.008225,3
+Parametric KernelSHAP,linear,3droad,51.87075501,0.011315,3
+SGDShapley,linear,3droad,99.999926,0.09931231918,3
+CES,linear,abalone,50,2.293793273,10
+Cohort,linear,abalone,1.769338145,2.293793273,10
+Exhaustive,linear,abalone,99.82283384,1987.792754,10
+IME,linear,abalone,97.87271654,0.1089873957,10
+KernelSHAP,linear,abalone,99.99677618,0.07874942765,10
+Linear (correlated),linear,abalone,99.8240892,1.56E-05,10
+Linear (independent),linear,abalone,94.90837375,8.93E-06,10
+MLE,linear,abalone,97.96974568,0.1729947618,10
+Non-parametric KernelSHAP,linear,abalone,50,0.035241,10
+Parametric KernelSHAP,linear,abalone,50,0.037409,10
+SGDShapley,linear,abalone,99.95734739,0.10391066,10
+CES,linear,admission,94.28198449,0.5733654284,7
+Cohort,linear,admission,92.22419794,0.5733654284,7
+Exhaustive,linear,admission,95.68547962,59.50695109,7
+IME,linear,admission,95.40167888,0.1040940545,7
+KernelSHAP,linear,admission,95.68547962,0.07774172118,7
+Linear (correlated),linear,admission,95.68547962,1.84E-05,7
+Linear (independent),linear,admission,99.72125104,1.10E-05,7
+MLE,linear,admission,95.68135653,0.1634516225,7
+Non-parametric KernelSHAP,linear,admission,95.68548058,0.008516,7
+Parametric KernelSHAP,linear,admission,95.6854806,0.007578,7
+SGDShapley,linear,admission,95.68547962,0.110070282,7
+CES,linear,adult,96.05652155,3.803092575,12
+Cohort,linear,adult,98.2424941,3.803092575,12
+Exhaustive,linear,adult,99.99863969,56111.61165,12
+IME,linear,adult,98.81068343,0.1140133222,12
+KernelSHAP,linear,adult,99.00816964,0.08290782192,12
+Linear (correlated),linear,adult,99.00816964,1.68E-05,12
+Linear (independent),linear,adult,94.34207439,8.18E-06,12
+MLE,linear,adult,98.89746192,0.1787207148,12
+Non-parametric KernelSHAP,linear,adult,99.88954076,0.141517,12
+Parametric KernelSHAP,linear,adult,99.88954076,0.141517,12
+SGDShapley,linear,adult,99.00816964,0.1091343952,12
+CES,linear,advertisements,97.40556743,0.0755409508,4
+Cohort,linear,advertisements,94.92950606,0.0755409508,4
+Exhaustive,linear,advertisements,97.40764444,0.8654003143,4
+IME,linear,advertisements,97.21827532,0.09589129144,4
+KernelSHAP,linear,advertisements,97.40764444,0.07614032427,4
+Linear (correlated),linear,advertisements,97.40764444,3.13E-05,4
+Linear (independent),linear,advertisements,99.0325738,1.92E-05,4
+MLE,linear,advertisements,97.35790567,0.1504407543,4
+Non-parametric KernelSHAP,linear,advertisements,97.40764448,0.007009,4
+Parametric KernelSHAP,linear,advertisements,97.40764436,0.010055,4
+SGDShapley,linear,advertisements,97.40764444,0.09843709252,4
+CES,linear,advertising,97.40205787,0.08129340952,4
+Cohort,linear,advertising,94.94299819,0.08129340952,4
+Exhaustive,linear,advertising,97.40764444,0.7378139496,4
+IME,linear,advertising,97.13554458,0.09688157024,4
+KernelSHAP,linear,advertising,97.40764444,0.07643213417,4
+Linear (correlated),linear,advertising,97.40764444,3.37E-05,4
+Linear (independent),linear,advertising,99.0325738,2.04E-05,4
+MLE,linear,advertising,97.31612325,0.1492686416,4
+Non-parametric KernelSHAP,linear,advertising,97.40764448,0.005296,4
+Parametric KernelSHAP,linear,advertising,97.40764436,0.009106,4
+SGDShapley,linear,advertising,97.40764444,0.1004882184,4
+CES,linear,airfoil,98.74540453,0.595255785,5
+Cohort,linear,airfoil,99.52847286,0.595255785,5
+Exhaustive,linear,airfoil,99.94470048,5.312796831,5
+IME,linear,airfoil,99.58286866,0.09896546927,5
+KernelSHAP,linear,airfoil,99.80375121,0.0759269606,5
+Linear (correlated),linear,airfoil,99.80375121,1.55E-05,5
+Linear (independent),linear,airfoil,92.8559575,7.52E-06,5
+MLE,linear,airfoil,99.68682187,0.1578229326,5
+Non-parametric KernelSHAP,linear,airfoil,99.86012352,0.009356,5
+Parametric KernelSHAP,linear,airfoil,99.8601235,0.00925,5
+SGDShapley,linear,airfoil,99.80375121,0.1013478416,5
+CES,linear,airfoil-self-noise,98.75881442,0.3132464242,5
+Cohort,linear,airfoil-self-noise,99.58267073,0.3132464242,5
+Exhaustive,linear,airfoil-self-noise,99.94470048,4.159085751,5
+IME,linear,airfoil-self-noise,99.49349394,0.1001641028,5
+KernelSHAP,linear,airfoil-self-noise,99.80375121,0.07794843226,5
+Linear (correlated),linear,airfoil-self-noise,99.80375121,1.97E-05,5
+Linear (independent),linear,airfoil-self-noise,92.8559575,8.18E-06,5
+MLE,linear,airfoil-self-noise,99.67236626,0.1526497711,5
+Non-parametric KernelSHAP,linear,airfoil-self-noise,99.86012352,0.00907,5
+Parametric KernelSHAP,linear,airfoil-self-noise,99.8601235,0.009497,5
+SGDShapley,linear,airfoil-self-noise,99.80375121,0.1002812783,5
+CES,linear,airline-costs,50,0.03363611698,9
+Cohort,linear,airline-costs,25,0.03363611698,9
+Exhaustive,linear,airline-costs,50,152.9502032,9
+IME,linear,airline-costs,50,0.1074694633,9
+KernelSHAP,linear,airline-costs,50,0.08607876301,9
+Linear (correlated),linear,airline-costs,50,0.0001226425171,9
+Linear (independent),linear,airline-costs,50,0.0001003026962,9
+MLE,linear,airline-costs,50,0.1727361202,9
+Non-parametric KernelSHAP,linear,airline-costs,50,0.011823,9
+Parametric KernelSHAP,linear,airline-costs,50,0.012249,9
+SGDShapley,linear,airline-costs,50,0.1055776596,9
+CES,linear,airquality,99.71230205,3.79156146,12
+Cohort,linear,airquality,82.23044587,3.79156146,12
+Exhaustive,linear,airquality,99.99128632,27131.25486,12
+IME,linear,airquality,99.71761765,0.1134793412,12
+KernelSHAP,linear,airquality,99.94403633,0.08345553225,12
+Linear (correlated),linear,airquality,99.94403633,1.68E-05,12
+Linear (independent),linear,airquality,97.05906972,7.10E-06,12
+MLE,linear,airquality,99.82600514,0.1777613033,12
+Non-parametric KernelSHAP,linear,airquality,99.99688514,0.153376,12
+Parametric KernelSHAP,linear,airquality,99.99688514,0.153376,12
+SGDShapley,linear,airquality,99.94403633,0.1119289225,12
+CES,linear,apartments,96.06405129,0.01064149233,3
+Cohort,linear,apartments,97.29097079,0.01064149233,3
+Exhaustive,linear,apartments,96.09081221,0.2217328548,3
+IME,linear,apartments,95.21576437,0.09898339785,3
+KernelSHAP,linear,apartments,96.09081221,0.07063083465,3
+Linear (correlated),linear,apartments,96.09081221,5.33E-05,3
+Linear (independent),linear,apartments,96.09081221,3.87E-05,3
+MLE,linear,apartments,96.23290187,0.1461419326,3
+Non-parametric KernelSHAP,linear,apartments,96.09081246,0.005356,3
+Parametric KernelSHAP,linear,apartments,96.09081211,0.009346,3
+SGDShapley,linear,apartments,96.09081221,0.09634617659,3
+CES,linear,asia_gdp,95.02934974,0.05532775606,10
+Cohort,linear,asia_gdp,97.02583143,0.05532775606,10
+Exhaustive,linear,asia_gdp,94.95467732,362.0499206,10
+IME,linear,asia_gdp,94.69045179,0.1083586046,10
+KernelSHAP,linear,asia_gdp,94.95467732,0.08247995377,10
+Linear (correlated),linear,asia_gdp,94.95467732,0.0001034736633,10
+Linear (independent),linear,asia_gdp,94.95467732,7.22E-05,10
+MLE,linear,asia_gdp,95.03801256,0.1718932731,10
+Non-parametric KernelSHAP,linear,asia_gdp,94.95467757,0.018771,10
+Parametric KernelSHAP,linear,asia_gdp,94.95467717,0.018529,10
+SGDShapley,linear,asia_gdp,94.95467732,0.1045162848,10
+CES,linear,auto-mpg,99.7914152,0.4579477119,7
+Cohort,linear,auto-mpg,98.8266733,0.4579477119,7
+Exhaustive,linear,auto-mpg,99.36880689,37.97460079,7
+IME,linear,auto-mpg,99.19665635,0.1032007969,7
+KernelSHAP,linear,auto-mpg,99.36880689,0.07408803793,7
+Linear (correlated),linear,auto-mpg,99.36880689,1.95E-05,7
+Linear (independent),linear,auto-mpg,99.84292636,1.15E-05,7
+MLE,linear,auto-mpg,99.25433739,0.1609941978,7
+Non-parametric KernelSHAP,linear,auto-mpg,99.36880706,0.00788,7
+Parametric KernelSHAP,linear,auto-mpg,99.36880706,0.007609,7
+SGDShapley,linear,auto-mpg,99.36880689,0.1068207576,7
+CES,linear,autompg,99.7931977,0.2362636089,7
+Cohort,linear,autompg,98.82727268,0.2362636089,7
+Exhaustive,linear,autompg,99.36880689,46.13597417,7
+IME,linear,autompg,99.20007994,0.1038827731,7
+KernelSHAP,linear,autompg,99.36880689,0.08123804056,7
+Linear (correlated),linear,autompg,99.36880689,2.36E-05,7
+Linear (independent),linear,autompg,99.84292636,1.26E-05,7
+MLE,linear,autompg,99.19725684,0.1604136119,7
+Non-parametric KernelSHAP,linear,autompg,99.36880706,0.00839,7
+Parametric KernelSHAP,linear,autompg,99.36880706,0.008803,7
+SGDShapley,linear,autompg,99.36880689,0.1036702486,7
+CES,linear,bike,98.25538468,2.535929935,14
+Cohort,linear,bike,98.25538468,2.535929935,14
+Exhaustive,linear,bike,99.9895803,185157.0502,14
+IME,linear,bike,99.29389537,0.1169137232,14
+KernelSHAP,linear,bike,99.46172039,0.0773370042,14
+Linear (correlated),linear,bike,99.46172039,1.56E-05,14
+Linear (independent),linear,bike,99.99950587,8.67E-06,14
+MLE,linear,bike,99.34589735,0.1854230491,14
+Non-parametric KernelSHAP,linear,bike,98.68488247,0.1165299734,14
+Parametric KernelSHAP,linear,bike,98.90633301,0.242937,14
+SGDShapley,linear,bike,99.46172039,0.1095188488,14
+CES,linear,bikedaily,99.38793877,0.6675223541,11
+Cohort,linear,bikedaily,99.42692873,0.6675223541,11
+Exhaustive,linear,bikedaily,99.96999496,3213.130295,11
+IME,linear,bikedaily,99.76196085,0.111590545,11
+KernelSHAP,linear,bikedaily,99.96999496,0.0776874822,11
+Linear (correlated),linear,bikedaily,99.96999496,1.69E-05,11
+Linear (independent),linear,bikedaily,99.53060154,9.06E-06,11
+MLE,linear,bikedaily,99.86711836,0.1739948663,11
+Non-parametric KernelSHAP,linear,bikedaily,99.96999496,0.047563,11
+Parametric KernelSHAP,linear,bikedaily,99.96999495,0.062108,11
+SGDShapley,linear,bikedaily,99.96999496,0.1057312223,11
+CES,linear,bikehourly,97.53095973,3.966112568,12
+Cohort,linear,bikehourly,99.74258142,3.966112568,12
+Exhaustive,linear,bikehourly,99.89400362,11125.79785,12
+IME,linear,bikehourly,99.16200558,0.1133599765,12
+KernelSHAP,linear,bikehourly,99.40121064,0.07626525055,12
+Linear (correlated),linear,bikehourly,99.40121064,1.60E-05,12
+Linear (independent),linear,bikehourly,99.9186024,7.48E-06,12
+MLE,linear,bikehourly,99.2807072,0.1791906191,12
+Non-parametric KernelSHAP,linear,bikehourly,93.16285335,0.161646,12
+Parametric KernelSHAP,linear,bikehourly,93.16285335,0.161646,12
+SGDShapley,linear,bikehourly,99.40121064,0.108577893,12
+CES,linear,blood,96.26119402,0.1537142634,4
+Cohort,linear,blood,80.83221154,0.1537142634,4
+Exhaustive,linear,blood,99.12669847,1.027111053,4
+IME,linear,blood,99.00413224,0.07644680734,4
+KernelSHAP,linear,blood,99.12669847,0.09423029471,4
+Linear (correlated),linear,blood,79.83300482,1.57E-05,4
+Linear (independent),linear,blood,95.93908637,9.14E-06,4
+MLE,linear,blood,99.02858685,0.1250754918,4
+Non-parametric KernelSHAP,linear,blood,99.12669851,0.007672,4
+Parametric KernelSHAP,linear,blood,99.12669852,0.009867,4
+SGDShapley,linear,blood,99.12669847,0.09801028904,4
+CES,linear,bodyfat,98.88526324,0.7498777026,14
+Cohort,linear,bodyfat,99.25886355,0.7498777026,14
+Exhaustive,linear,bodyfat,98.88212492,13845.39836,14
+IME,linear,bodyfat,98.6128066,0.1174088376,14
+KernelSHAP,linear,bodyfat,98.88212492,0.08190573397,14
+Linear (correlated),linear,bodyfat,98.88212492,2.39E-05,14
+Linear (independent),linear,bodyfat,97.40289174,1.80E-05,14
+MLE,linear,bodyfat,98.77583125,0.1870220275,14
+Non-parametric KernelSHAP,linear,bodyfat,98.68488247,0.1165299734,14
+Parametric KernelSHAP,linear,bodyfat,97.40289174,0.242937,14
+SGDShapley,linear,bodyfat,98.88212492,0.1134189339,14
+CES,linear,boston,98.35646523,2.149536126,13
+Cohort,linear,boston,98.30278442,2.149536126,13
+Exhaustive,linear,boston,97.58934498,1159.970582,13
+IME,linear,boston,97.20809393,0.1152642873,13
+KernelSHAP,linear,boston,97.58934498,0.08294603068,13
+Linear (correlated),linear,boston,97.58934498,2.80E-05,13
+Linear (independent),linear,boston,99.48248389,1.12E-05,13
+MLE,linear,boston,97.49725264,0.1867155472,13
+Non-parametric KernelSHAP,linear,boston,97.58934506,0.196888,13
+Parametric KernelSHAP,linear,boston,97.58934506,0.196888,13
+SGDShapley,linear,boston,97.58934498,0.1086745876,13
+CES,linear,brainweight,98.66519117,0.04070981545,3
+Cohort,linear,brainweight,99.93122335,0.04070981545,3
+Exhaustive,linear,brainweight,98.67176779,0.1477282047,3
+IME,linear,brainweight,98.60844543,0.07645410526,3
+KernelSHAP,linear,brainweight,98.67176779,0.07405936869,3
+Linear (correlated),linear,brainweight,98.67176779,2.11E-05,3
+Linear (independent),linear,brainweight,99.31680626,1.72E-05,3
+MLE,linear,brainweight,98.62691605,0.1178657707,3
+Non-parametric KernelSHAP,linear,brainweight,98.67176784,0.005309,3
+Parametric KernelSHAP,linear,brainweight,98.67176789,0.017371,3
+SGDShapley,linear,brainweight,98.67176779,0.09901911096,3
+CES,linear,californiahousing,99.30725704,1.682126744,8
+Cohort,linear,californiahousing,99.92199292,1.682126744,8
+Exhaustive,linear,californiahousing,99.99877963,284.8281517,8
+IME,linear,californiahousing,99.71332065,0.1044371677,8
+KernelSHAP,linear,californiahousing,99.87845902,0.1186035965,8
+Linear (correlated),linear,californiahousing,99.87845902,1.62E-05,8
+Linear (independent),linear,californiahousing,98.19254495,8.46E-06,8
+MLE,linear,californiahousing,99.77450945,0.1636684049,8
+Non-parametric KernelSHAP,linear,californiahousing,76.01280912,0.015541,8
+Parametric KernelSHAP,linear,californiahousing,76.01280858,0.017681,8
+SGDShapley,linear,californiahousing,99.87845902,0.1095859361,8
+CES,linear,cancer,99.6956481,1.754466748,9
+Cohort,linear,cancer,98.72773132,1.754466748,9
+Exhaustive,linear,cancer,99.4018776,419.8737288,9
+IME,linear,cancer,99.1168913,0.08801658491,9
+KernelSHAP,linear,cancer,99.4018776,0.07482112192,9
+Linear (correlated),linear,cancer,99.4018776,2.04E-05,9
+Linear (independent),linear,cancer,98.25743668,9.61E-06,9
+MLE,linear,cancer,99.33410303,0.1421913489,9
+Non-parametric KernelSHAP,linear,cancer,99.40187779,0.01905,9
+Parametric KernelSHAP,linear,cancer,99.40187768,0.034357,9
+SGDShapley,linear,cancer,99.4018776,0.1074728164,9
+CES,linear,casp,92.37527479,1.857214971,9
+Cohort,linear,casp,92.37527479,1.857214971,9
+Exhaustive,linear,casp,99.9934181,1903.724359,9
+IME,linear,casp,99.26407296,0.1060990435,9
+KernelSHAP,linear,casp,99.44008535,0.08198347525,9
+Linear (correlated),linear,casp,99.44008535,1.59E-05,9
+Linear (independent),linear,casp,99.14982393,7.86E-06,9
+MLE,linear,casp,99.38579439,0.1697483821,9
+Non-parametric KernelSHAP,linear,casp,99.89894267,0.021933,9
+Parametric KernelSHAP,linear,casp,99.89894267,0.037735,9
+SGDShapley,linear,casp,99.44008535,0.1038736278,9
+CES,linear,challenger,50,0.004478275776,4
+Cohort,linear,challenger,50,0.004478275776,4
+Exhaustive,linear,challenger,50,1.412717819,4
+IME,linear,challenger,50,0.08022719622,4
+KernelSHAP,linear,challenger,50,0.079333812,4
+Linear (correlated),linear,challenger,50,0.0001484155655,4
+Linear (independent),linear,challenger,50,0.0001141428947,4
+MLE,linear,challenger,50,0.1241592765,4
+Non-parametric KernelSHAP,linear,challenger,50,0.004454,4
+Parametric KernelSHAP,linear,challenger,50,0.025126,4
+SGDShapley,linear,challenger,50,0.09744998813,4
+CES,linear,chanceadmit,99.12935505,0.5239104152,7
+Cohort,linear,chanceadmit,97.07258414,0.5239104152,7
+Exhaustive,linear,chanceadmit,99.5250208,33.11942458,7
+IME,linear,chanceadmit,99.26505645,0.1076504841,7
+KernelSHAP,linear,chanceadmit,99.5250208,0.07759913712,7
+Linear (correlated),linear,chanceadmit,99.5250208,1.79E-05,7
+Linear (independent),linear,chanceadmit,99.09902015,1.24E-05,7
+MLE,linear,chanceadmit,99.46154938,0.1605400967,7
+Non-parametric KernelSHAP,linear,chanceadmit,99.52502095,0.008519,7
+Parametric KernelSHAP,linear,chanceadmit,99.52502095,0.006903,7
+SGDShapley,linear,chanceadmit,99.5250208,0.09901067344,7
+CES,linear,chickweight,99.6798881,0.07825739622,3
+Cohort,linear,chickweight,99.72968547,0.07825739622,3
+Exhaustive,linear,chickweight,99.42674258,0.08111071587,3
+IME,linear,chickweight,99.35266172,0.07649868321,3
+KernelSHAP,linear,chickweight,99.42674258,0.07277892397,3
+Linear (correlated),linear,chickweight,99.42674258,1.71E-05,3
+Linear (independent),linear,chickweight,99.49908837,1.09E-05,3
+MLE,linear,chickweight,99.32470801,0.1193813604,3
+Non-parametric KernelSHAP,linear,chickweight,99.42674257,0.007219,3
+Parametric KernelSHAP,linear,chickweight,99.4267426,0.011562,3
+SGDShapley,linear,chickweight,99.42674258,0.09903542409,3
+CES,linear,cms,97.29797678,1.68202934,8
+Cohort,linear,cms,98.91249779,1.68202934,8
+Exhaustive,linear,cms,99.48442203,203.2662868,8
+IME,linear,cms,99.712913,0.1039151156,8
+KernelSHAP,linear,cms,99.91037686,0.07799096613,8
+Linear (correlated),linear,cms,99.91037686,1.71E-05,8
+Linear (independent),linear,cms,99.86523804,8.65E-06,8
+MLE,linear,cms,99.81057659,0.1670967124,8
+Non-parametric KernelSHAP,linear,cms,99.86398106,0.014651,8
+Parametric KernelSHAP,linear,cms,99.86398106,0.017275,8
+SGDShapley,linear,cms,99.91037686,0.103681659,8
+CES,linear,computer,98.90979346,0.1929076789,7
+Cohort,linear,computer,97.22695462,0.1929076789,7
+Exhaustive,linear,computer,98.90821807,26.34597182,7
+IME,linear,computer,98.6520944,0.08271798189,7
+KernelSHAP,linear,computer,98.90821807,0.08444404257,7
+Linear (correlated),linear,computer,98.90821807,3.39E-05,7
+Linear (independent),linear,computer,96.56145357,2.01E-05,7
+MLE,linear,computer,98.79410046,0.1345616389,7
+Non-parametric KernelSHAP,linear,computer,98.90821829,0.007606,7
+Parametric KernelSHAP,linear,computer,98.90821823,0.007789,7
+SGDShapley,linear,computer,98.90821807,0.1037014118,7
+CES,linear,concrete,97.28401056,1.677779946,8
+Cohort,linear,concrete,98.91235234,1.677779946,8
+Exhaustive,linear,concrete,99.48442203,165.6758633,8
+IME,linear,concrete,99.71456354,0.1054005117,8
+KernelSHAP,linear,concrete,99.91037686,0.07428618272,8
+Linear (correlated),linear,concrete,99.91037686,1.57E-05,8
+Linear (independent),linear,concrete,99.86523804,8.45E-06,8
+MLE,linear,concrete,99.81842117,0.1665665822,8
+Non-parametric KernelSHAP,linear,concrete,99.86398106,0.01518,8
+Parametric KernelSHAP,linear,concrete,99.86398106,0.017464,8
+SGDShapley,linear,concrete,99.91037686,0.1040642406,8
+CES,linear,const-maint,99.74175589,0.007071733475,4
+Cohort,linear,const-maint,99.10262526,0.007071733475,4
+Exhaustive,linear,const-maint,99.74769497,1.072444916,4
+IME,linear,const-maint,99.7247137,0.1001270034,4
+KernelSHAP,linear,const-maint,99.74769497,0.09324739196,4
+Linear (correlated),linear,const-maint,99.74769497,0.0002233331854,4
+Linear (independent),linear,const-maint,99.74769497,0.0001123818484,4
+MLE,linear,const-maint,99.59563054,0.1515047984,4
+Non-parametric KernelSHAP,linear,const-maint,99.74769504,0.006069,4
+Parametric KernelSHAP,linear,const-maint,99.74769492,0.012585,4
+SGDShapley,linear,const-maint,99.74769497,0.105644096,4
+CES,linear,country-data,99.82173021,0.2773436308,9
+Cohort,linear,country-data,99.66280748,0.2773436308,9
+Exhaustive,linear,country-data,99.82472172,207.8308733,9
+IME,linear,country-data,99.55156405,0.1072663111,9
+KernelSHAP,linear,country-data,99.82472172,0.07973037873,9
+Linear (correlated),linear,country-data,99.82472172,5.08E-05,9
+Linear (independent),linear,country-data,99.99005482,2.44E-05,9
+MLE,linear,country-data,99.70571527,0.1697838094,9
+Non-parametric KernelSHAP,linear,country-data,99.82472179,0.013683,9
+Parametric KernelSHAP,linear,country-data,99.82472165,0.014666,9
+SGDShapley,linear,country-data,99.82472172,0.1044708363,9
+CES,linear,crab,93.62710131,1.940625956,8
+Cohort,linear,crab,98.25344357,1.940625956,8
+Exhaustive,linear,crab,99.93992002,111.1268463,8
+IME,linear,crab,99.40232126,0.1050264496,8
+KernelSHAP,linear,crab,99.55831763,0.08535374728,8
+Linear (correlated),linear,crab,99.55831763,4.67E-05,8
+Linear (independent),linear,crab,99.99922833,1.07E-05,8
+MLE,linear,crab,99.47702095,0.1656464129,8
+Non-parametric KernelSHAP,linear,crab,98.92038251,0.015608,8
+Parametric KernelSHAP,linear,crab,98.92038237,0.017822,8
+SGDShapley,linear,crab,99.55831763,0.1017621055,8
+CES,linear,cust,99.91137726,1.850837409,8
+Cohort,linear,cust,99.99271328,1.850837409,8
+Exhaustive,linear,cust,99.88433573,146.9007015,8
+IME,linear,cust,99.65679823,0.1056767274,8
+KernelSHAP,linear,cust,99.88433573,0.07597656776,8
+Linear (correlated),linear,cust,99.88433573,1.75E-05,8
+Linear (independent),linear,cust,99.74321033,9.43E-06,8
+MLE,linear,cust,99.78089488,0.1657288304,8
+Non-parametric KernelSHAP,linear,cust,99.88433573,0.014528,8
+Parametric KernelSHAP,linear,cust,99.88433578,0.016059,8
+SGDShapley,linear,cust,99.88433573,0.1027339531,8
+CES,linear,diabetes,98.00631017,1.508340499,8
+Cohort,linear,diabetes,99.98125945,1.508340499,8
+Exhaustive,linear,diabetes,99.73237655,170.3484573,8
+IME,linear,diabetes,99.45828204,0.1062671744,8
+KernelSHAP,linear,diabetes,99.73237655,0.08028721622,8
+Linear (correlated),linear,diabetes,99.73237655,1.71E-05,8
+Linear (independent),linear,diabetes,99.79678501,8.84E-06,8
+MLE,linear,diabetes,99.61218907,0.162536026,8
+Non-parametric KernelSHAP,linear,diabetes,99.73237654,0.014228,8
+Parametric KernelSHAP,linear,diabetes,99.73237646,0.01473,8
+SGDShapley,linear,diabetes,99.73237655,0.1070637468,8
+CES,linear,diamond,99.41938964,0.823694675,7
+Cohort,linear,diamond,99.14254102,0.823694675,7
+Exhaustive,linear,diamond,99.99952715,67.07364964,7
+IME,linear,diamond,99.61555517,0.1032217662,7
+KernelSHAP,linear,diamond,99.82254011,0.0768204848,7
+Linear (correlated),linear,diamond,99.82254011,1.50E-05,7
+Linear (independent),linear,diamond,99.99864284,8.54E-06,7
+MLE,linear,diamond,99.74378658,0.1613979029,7
+Non-parametric KernelSHAP,linear,diamond,99.86492757,0.012207,7
+Parametric KernelSHAP,linear,diamond,99.86492757,0.012569,7
+SGDShapley,linear,diamond,99.82254011,0.100786881,7
+CES,linear,diamonds_filter,99.99965918,0.1558445811,4
+Cohort,linear,diamonds_filter,96.92606876,0.1558445811,4
+Exhaustive,linear,diamonds_filter,99.57277156,1.010355949,4
+IME,linear,diamonds_filter,99.44030205,0.09635013402,4
+KernelSHAP,linear,diamonds_filter,99.57277156,0.08150134544,4
+Linear (correlated),linear,diamonds_filter,99.57277156,1.66E-05,4
+Linear (independent),linear,diamonds_filter,99.9961459,1.01E-05,4
+MLE,linear,diamonds_filter,99.44690321,0.1496273171,4
+Non-parametric KernelSHAP,linear,diamonds_filter,99.57277158,0.006951,4
+Parametric KernelSHAP,linear,diamonds_filter,99.57277152,0.014521,4
+SGDShapley,linear,diamonds_filter,99.57277156,0.0988093145,4
+CES,linear,diamonds_select,97.5333015,0.2510376167,4
+Cohort,linear,diamonds_select,98.50237646,0.2510376167,4
+Exhaustive,linear,diamonds_select,99.78048462,0.8696899414,4
+IME,linear,diamonds_select,99.5437605,0.09718980211,4
+KernelSHAP,linear,diamonds_select,99.78048462,0.07476992896,4
+Linear (correlated),linear,diamonds_select,99.78048462,1.41E-05,4
+Linear (independent),linear,diamonds_select,97.590545,7.65E-06,4
+MLE,linear,diamonds_select,99.60754462,0.1497878364,4
+Non-parametric KernelSHAP,linear,diamonds_select,99.78048462,0.008461,4
+Parametric KernelSHAP,linear,diamonds_select,99.78048461,0.009103,4
+SGDShapley,linear,diamonds_select,99.78048462,0.09934053277,4
+CES,linear,economics,99.72269595,0.1627203178,4
+Cohort,linear,economics,99.7278545,0.1627203178,4
+Exhaustive,linear,economics,97.25655172,0.9418287277,4
+IME,linear,economics,96.92296551,0.1016463744,4
+KernelSHAP,linear,economics,97.25655172,0.07538794593,4
+Linear (correlated),linear,economics,97.25655172,1.72E-05,4
+Linear (independent),linear,economics,98.31849857,1.12E-05,4
+MLE,linear,economics,96.99388726,0.1530258881,4
+Non-parametric KernelSHAP,linear,economics,97.25655208,0.006708,4
+Parametric KernelSHAP,linear,economics,97.25655216,0.00879,4
+SGDShapley,linear,economics,97.25655172,0.1013186831,4
+CES,linear,employee,97.42255446,1.868246627,9
+Cohort,linear,employee,90.52924612,1.868246627,9
+Exhaustive,linear,employee,99.86506868,579.6532116,9
+IME,linear,employee,97.81306474,0.1068437215,9
+KernelSHAP,linear,employee,97.97464455,0.07553654078,9
+Linear (correlated),linear,employee,97.97464455,1.75E-05,9
+Linear (independent),linear,employee,98.51838003,8.74E-06,9
+MLE,linear,employee,97.89177044,0.1677672083,9
+Non-parametric KernelSHAP,linear,employee,96.37629984,0.020062,9
+Parametric KernelSHAP,linear,employee,96.37629962,0.025549,9
+SGDShapley,linear,employee,97.97464455,0.1035310637,9
+CES,linear,energy,50,2.024577029,9
+Cohort,linear,energy,50,2.024577029,9
+Exhaustive,linear,energy,99.90519275,478.3772521,9
+IME,linear,energy,99.69143583,0.106030559,9
+KernelSHAP,linear,energy,99.91189798,0.0819874082,9
+Linear (correlated),linear,energy,99.9081315,1.61E-05,9
+Linear (independent),linear,energy,99.99848913,9.50E-06,9
+MLE,linear,energy,99.80237611,0.1671593762,9
+Non-parametric KernelSHAP,linear,energy,50,0.019948,9
+Parametric KernelSHAP,linear,energy,89.41100661,0.022386,9
+SGDShapley,linear,energy,99.91619902,0.1049590646,9
+CES,linear,energy_cool,50,1.843967626,8
+Cohort,linear,energy_cool,50,1.843967626,8
+Exhaustive,linear,energy_cool,99.88986762,78.57676125,8
+IME,linear,energy_cool,98.17667753,0.1043941824,8
+KernelSHAP,linear,energy_cool,99.84667096,0.07811205594,8
+Linear (correlated),linear,energy_cool,96.23558391,1.82E-05,8
+Linear (independent),linear,energy_cool,99.98910065,9.85E-06,8
+MLE,linear,energy_cool,98.35412493,0.1687220194,8
+Non-parametric KernelSHAP,linear,energy_cool,50,0.014546,8
+Parametric KernelSHAP,linear,energy_cool,50,0.016694,8
+SGDShapley,linear,energy_cool,99.77371234,0.1034505001,8
+CES,linear,energy_heat,50,1.885600255,8
+Cohort,linear,energy_heat,50,1.885600255,8
+Exhaustive,linear,energy_heat,99.8383614,124.8130016,8
+IME,linear,energy_heat,98.54179954,0.1062930222,8
+KernelSHAP,linear,energy_heat,99.93050806,0.08559451986,8
+Linear (correlated),linear,energy_heat,98.76379009,1.68E-05,8
+Linear (independent),linear,energy_heat,99.97418993,9.39E-06,8
+MLE,linear,energy_heat,98.64622856,0.163996994,8
+Non-parametric KernelSHAP,linear,energy_heat,50,0.014444,8
+Parametric KernelSHAP,linear,energy_heat,50,0.015161,8
+SGDShapley,linear,energy_heat,99.9638009,0.1026360773,8
+CES,linear,forest,99.95057541,1.166942294,12
+Cohort,linear,forest,91.32569105,1.166942294,12
+Exhaustive,linear,forest,99.98235385,7136.448629,12
+IME,linear,forest,99.75649216,0.1130288275,12
+KernelSHAP,linear,forest,99.98235385,0.07830340542,12
+Linear (correlated),linear,forest,99.98235385,1.98E-05,12
+Linear (independent),linear,forest,98.23494404,1.08E-05,12
+MLE,linear,forest,99.86187256,0.177490562,12
+Non-parametric KernelSHAP,linear,forest,99.98235385,0.107257,12
+Parametric KernelSHAP,linear,forest,99.98235385,0.107257,12
+SGDShapley,linear,forest,99.98235385,0.1126842067,12
+CES,linear,forestfire,98.86248426,2.471900067,12
+Cohort,linear,forestfire,97.72802303,2.471900067,12
+Exhaustive,linear,forestfire,99.9012473,7745.736843,12
+IME,linear,forestfire,99.71291673,0.1119848427,12
+KernelSHAP,linear,forestfire,99.9012473,0.08323917333,12
+Linear (correlated),linear,forestfire,99.9012473,2.29E-05,12
+Linear (independent),linear,forestfire,99.94091538,1.13E-05,12
+MLE,linear,forestfire,99.77427446,0.182265403,12
+Non-parametric KernelSHAP,linear,forestfire,99.90124729,0.105489,12
+Parametric KernelSHAP,linear,forestfire,99.90124729,0.105489,12
+SGDShapley,linear,forestfire,99.9012473,0.1101832209,12
+CES,linear,france,98.03935277,0.8250104403,7
+Cohort,linear,france,99.82971883,0.8250104403,7
+Exhaustive,linear,france,99.9942776,26.70787096,7
+IME,linear,france,99.18516196,0.1053486549,7
+KernelSHAP,linear,france,99.37240083,0.077286721,7
+Linear (correlated),linear,france,99.37240083,1.51E-05,7
+Linear (independent),linear,france,94.5303083,8.42E-06,7
+MLE,linear,france,99.28509727,0.1588220177,7
+Non-parametric KernelSHAP,linear,france,50,0.011699,7
+Parametric KernelSHAP,linear,france,50,0.012879,7
+SGDShapley,linear,france,99.37240083,0.1020600095,7
+CES,linear,friedman,99.2382952,1.867062125,9
+Cohort,linear,friedman,99.13259151,1.867062125,9
+Exhaustive,linear,friedman,99.94163763,595.5207267,9
+IME,linear,friedman,99.04165048,0.1073674787,9
+KernelSHAP,linear,friedman,99.29923624,0.08186521747,9
+Linear (correlated),linear,friedman,99.29923624,1.76E-05,9
+Linear (independent),linear,friedman,99.96792286,8.72E-06,9
+MLE,linear,friedman,99.2178818,0.1668679396,9
+Non-parametric KernelSHAP,linear,friedman,99.58530721,0.022334,9
+Parametric KernelSHAP,linear,friedman,99.58530722,0.027681,9
+SGDShapley,linear,friedman,99.29923624,0.1046082554,9
+CES,linear,germany,98.94899012,0.8162064147,7
+Cohort,linear,germany,97.882832,0.8162064147,7
+Exhaustive,linear,germany,99.97672434,67.81825781,7
+IME,linear,germany,99.71499654,0.1015366872,7
+KernelSHAP,linear,germany,99.88807314,0.07912335468,7
+Linear (correlated),linear,germany,99.88807314,1.48E-05,7
+Linear (independent),linear,germany,99.95360709,8.51E-06,7
+MLE,linear,germany,99.76245294,0.1605803598,7
+Non-parametric KernelSHAP,linear,germany,50,0.01217,7
+Parametric KernelSHAP,linear,germany,50,0.0128,7
+SGDShapley,linear,germany,99.88807314,0.10112987,7
+CES,linear,glass,99.95957959,0.5322605556,9
+Cohort,linear,glass,99.09267271,0.5322605556,9
+Exhaustive,linear,glass,99.95778628,227.8369188,9
+IME,linear,glass,99.77960933,0.1069353466,9
+KernelSHAP,linear,glass,99.95778628,0.08262095989,9
+Linear (correlated),linear,glass,99.95778628,2.72E-05,9
+Linear (independent),linear,glass,99.65094873,1.80E-05,9
+MLE,linear,glass,99.89535395,0.1691139718,9
+Non-parametric KernelSHAP,linear,glass,99.95778628,0.014276,9
+Parametric KernelSHAP,linear,glass,99.9577863,0.014013,9
+SGDShapley,linear,glass,99.95778628,0.1039872472,9
+CES,linear,heart,98.92034049,0.7857012424,15
+Cohort,linear,heart,98.92034049,0.7857012424,15
+Exhaustive,linear,heart,98.92520788,36476.22327,15
+IME,linear,heart,98.70770675,0.1000751835,15
+KernelSHAP,linear,heart,98.92520788,0.07299862125,15
+Linear (correlated),linear,heart,98.92520788,2.90E-05,15
+Linear (independent),linear,heart,97.67172353,1.92E-05,15
+MLE,linear,heart,98.89968619,0.1653218739,15
+Non-parametric KernelSHAP,linear,heart,98.68488247,0.3165299734,15
+Parametric KernelSHAP,linear,heart,97.40289174,0.442937,15
+SGDShapley,linear,heart,98.92520788,0.1119581389,15
+CES,linear,heart_disease,99.89776168,1.243695484,13
+Cohort,linear,heart_disease,99.89776168,1.243695484,13
+Exhaustive,linear,heart_disease,99.89648855,8687.792731,13
+IME,linear,heart_disease,99.67842313,0.1154777315,13
+KernelSHAP,linear,heart_disease,99.89648855,0.08050281737,13
+Linear (correlated),linear,heart_disease,99.89648855,2.75E-05,13
+Linear (independent),linear,heart_disease,99.99564117,1.68E-05,13
+MLE,linear,heart_disease,99.76266443,0.1837811602,13
+Non-parametric KernelSHAP,linear,heart_disease,99.89648856,0.183406,13
+Parametric KernelSHAP,linear,heart_disease,99.89648856,0.183406,13
+SGDShapley,linear,heart_disease,99.89648855,0.1081354751,13
+CES,linear,heartage,99.86056425,2.004231219,13
+Cohort,linear,heartage,99.86056425,2.004231219,13
+Exhaustive,linear,heartage,99.9963013,27343.56726,13
+IME,linear,heartage,99.8035859,0.1142389868,13
+KernelSHAP,linear,heartage,99.9773755,0.1391029661,13
+Linear (correlated),linear,heartage,99.9773755,1.62E-05,13
+Linear (independent),linear,heartage,98.99919126,8.88E-06,13
+MLE,linear,heartage,99.89922368,0.1833104444,13
+Non-parametric KernelSHAP,linear,heartage,99.74601032,0.266734,13
+Parametric KernelSHAP,linear,heartage,99.74601032,0.266734,13
+SGDShapley,linear,heartage,99.9773755,0.1089041248,13
+CES,linear,heartfailure,99.25243223,1.169500664,12
+Cohort,linear,heartfailure,96.22391821,1.169500664,12
+Exhaustive,linear,heartfailure,99.25044118,2992.099339,12
+IME,linear,heartfailure,99.09737127,0.1139157469,12
+KernelSHAP,linear,heartfailure,99.25044118,0.07642469743,12
+Linear (correlated),linear,heartfailure,99.25044118,2.65E-05,12
+Linear (independent),linear,heartfailure,97.09050964,1.48E-05,12
+MLE,linear,heartfailure,99.1155861,0.1797691933,12
+Non-parametric KernelSHAP,linear,heartfailure,99.25044118,0.083275,12
+Parametric KernelSHAP,linear,heartfailure,99.25044118,0.083275,12
+SGDShapley,linear,heartfailure,99.25044118,0.108088698,12
+CES,linear,housing,98.8263354,2.149377584,13
+Cohort,linear,housing,99.82764392,2.149377584,13
+Exhaustive,linear,housing,97.25571184,13854.6502,13
+IME,linear,housing,96.95311157,0.1147367155,13
+KernelSHAP,linear,housing,97.25571184,0.08849003929,13
+Linear (correlated),linear,housing,97.25571184,1.73E-05,13
+Linear (independent),linear,housing,99.39681649,1.03E-05,13
+MLE,linear,housing,97.0233616,0.1842390477,13
+Non-parametric KernelSHAP,linear,housing,96.95311157,0.1147367155,13
+Parametric KernelSHAP,linear,housing,97.25571174,0.214132,13
+SGDShapley,linear,housing,97.25571184,0.113255251,13
+CES,linear,htwtindex,99.80855309,0.08431248188,3
+Cohort,linear,htwtindex,97.42784007,0.08431248188,3
+Exhaustive,linear,htwtindex,99.7515125,0.03678560257,3
+IME,linear,htwtindex,99.64692659,0.07668511362,3
+KernelSHAP,linear,htwtindex,99.7515125,0.07613700809,3
+Linear (correlated),linear,htwtindex,99.7515125,1.76E-05,3
+Linear (independent),linear,htwtindex,98.58133198,1.16E-05,3
+MLE,linear,htwtindex,99.71037624,0.1219128175,3
+Non-parametric KernelSHAP,linear,htwtindex,99.7515125,0.006131,3
+Parametric KernelSHAP,linear,htwtindex,99.75151248,0.009059,3
+SGDShapley,linear,htwtindex,99.7515125,0.09831186352,3
+CES,linear,hybrid,91.97493345,0.1532201253,11
+Cohort,linear,hybrid,97.24260121,0.1532201253,11
+Exhaustive,linear,hybrid,92.01401386,902.222389,11
+IME,linear,hybrid,91.65147176,0.1116335485,11
+KernelSHAP,linear,hybrid,92.01401386,0.07617420776,11
+Linear (correlated),linear,hybrid,92.01401386,2.51E-05,11
+Linear (independent),linear,hybrid,93.12662227,2.08E-05,11
+MLE,linear,hybrid,92.26854739,0.1754017951,11
+Non-parametric KernelSHAP,linear,hybrid,92.01401437,0.034067,11
+Parametric KernelSHAP,linear,hybrid,92.01401399,0.035663,11
+SGDShapley,linear,hybrid,92.01401386,0.1069588474,11
+CES,linear,income,98.43905081,3.352508075,13
+Cohort,linear,income,90.46267944,3.352508075,13
+Exhaustive,linear,income,99.99982938,145606.5828,13
+IME,linear,income,99.44706872,0.09470340772,13
+KernelSHAP,linear,income,99.67782205,0.08119538264,13
+Linear (correlated),linear,income,99.67782205,1.73E-05,13
+Linear (independent),linear,income,98.36767481,8.69E-06,13
+MLE,linear,income,99.52523758,0.1555371458,13
+Non-parametric KernelSHAP,linear,income,99.44706872,0.267101,13
+Parametric KernelSHAP,linear,income,99.96833073,0.267101,13
+SGDShapley,linear,income,99.67782205,0.1114171556,13
+CES,linear,insurance,98.152862,0.7456109047,6
+Cohort,linear,insurance,98.50288341,0.7456109047,6
+Exhaustive,linear,insurance,99.98518477,14.78760338,6
+IME,linear,insurance,99.52017913,0.102301128,6
+KernelSHAP,linear,insurance,99.68539867,0.07679795424,6
+Linear (correlated),linear,insurance,99.68539867,1.62E-05,6
+Linear (independent),linear,insurance,99.9275479,7.69E-06,6
+MLE,linear,insurance,99.53636056,0.1600094167,6
+Non-parametric KernelSHAP,linear,insurance,99.62864801,0.010191,6
+Parametric KernelSHAP,linear,insurance,99.62864802,0.008781,6
+SGDShapley,linear,insurance,99.68539867,0.1002667774,6
+CES,linear,iris,99.87487193,0.04436823845,4
+Cohort,linear,iris,69.92899684,0.04436823845,4
+Exhaustive,linear,iris,99.87620285,0.8164634705,4
+IME,linear,iris,99.56268135,0.09810231686,4
+KernelSHAP,linear,iris,99.87620285,0.07771554947,4
+Linear (correlated),linear,iris,99.87620285,2.63E-05,4
+Linear (independent),linear,iris,99.87620285,2.47E-05,4
+MLE,linear,iris,99.78143784,0.1510207701,4
+Non-parametric KernelSHAP,linear,iris,99.8762028,0.008349,4
+Parametric KernelSHAP,linear,iris,99.87620284,0.009475,4
+SGDShapley,linear,iris,99.87620285,0.09923792362,4
+CES,linear,japanemg,71.35376837,0.02012637456,5
+Cohort,linear,japanemg,90.32879557,0.02012637456,5
+Exhaustive,linear,japanemg,71.06105323,2.202566862,5
+IME,linear,japanemg,69.28306999,0.1019148668,5
+KernelSHAP,linear,japanemg,71.06105323,0.07509202957,5
+Linear (correlated),linear,japanemg,71.06105323,6.25E-05,5
+Linear (independent),linear,japanemg,71.06105323,6.46E-05,5
+MLE,linear,japanemg,71.97695635,0.1616038164,5
+Non-parametric KernelSHAP,linear,japanemg,71.06105378,0.005126,5
+Parametric KernelSHAP,linear,japanemg,71.06105318,0.005667,5
+SGDShapley,linear,japanemg,71.06105323,0.1036786715,5
+CES,linear,jewellery,99.61780139,0.1052889395,3
+Cohort,linear,jewellery,99.7284855,0.1052889395,3
+Exhaustive,linear,jewellery,99.9231635,0.04038333893,3
+IME,linear,jewellery,99.6818015,0.09771234832,3
+KernelSHAP,linear,jewellery,99.9231635,0.07239120877,3
+Linear (correlated),linear,jewellery,99.9231635,1.63E-05,3
+Linear (independent),linear,jewellery,97.29785221,1.07E-05,3
+MLE,linear,jewellery,99.82225101,0.1461961783,3
+Non-parametric KernelSHAP,linear,jewellery,99.9231635,0.006379,3
+Parametric KernelSHAP,linear,jewellery,99.92316352,0.009184,3
+SGDShapley,linear,jewellery,99.9231635,0.09752593069,3
+CES,linear,kiva,95.19225104,0.6763020134,6
+Cohort,linear,kiva,99.52533349,0.6763020134,6
+Exhaustive,linear,kiva,99.9985242,5.051849842,6
+IME,linear,kiva,99.45822619,0.08238574592,6
+KernelSHAP,linear,kiva,99.5769571,0.07680174799,6
+Linear (correlated),linear,kiva,99.5769571,1.70E-05,6
+Linear (independent),linear,kiva,99.96605172,9.65E-06,6
+MLE,linear,kiva,99.49833324,0.1296608578,6
+Non-parametric KernelSHAP,linear,kiva,92.45025102,0.010212,6
+Parametric KernelSHAP,linear,kiva,92.45025086,0.008686,6
+SGDShapley,linear,kiva,99.5769571,0.1027561867,6
+CES,linear,linnerud,97.80866795,0.006354672568,5
+Cohort,linear,linnerud,99.26235736,0.006354672568,5
+Exhaustive,linear,linnerud,97.85854428,2.88649559,5
+IME,linear,linnerud,98.04124661,0.1027376311,5
+KernelSHAP,linear,linnerud,97.85854428,0.1567350796,5
+Linear (correlated),linear,linnerud,97.85854428,0.0001133169447,5
+Linear (independent),linear,linnerud,97.85854428,0.0001418590546,5
+MLE,linear,linnerud,97.53415672,0.158762455,5
+Non-parametric KernelSHAP,linear,linnerud,97.85854574,0.005886,5
+Parametric KernelSHAP,linear,linnerud,97.85854479,0.01211,5
+SGDShapley,linear,linnerud,97.85854428,0.1019135884,5
+CES,linear,mba,99.75239123,2.165174694,13
+Cohort,linear,mba,98.49252358,2.165174694,13
+Exhaustive,linear,mba,98.90633298,14475.68088,13
+IME,linear,mba,98.68488247,0.1165299734,13
+KernelSHAP,linear,mba,98.90633298,0.08491009208,13
+Linear (correlated),linear,mba,98.90633298,2.21E-05,13
+Linear (independent),linear,mba,99.96763622,1.33E-05,13
+MLE,linear,mba,98.70463092,0.1848295434,13
+Non-parametric KernelSHAP,linear,mba,98.68488247,0.1165299734,13
+Parametric KernelSHAP,linear,mba,98.90633301,0.242937,13
+SGDShapley,linear,mba,98.90633298,0.1087160004,13
+CES,linear,migration,93.901272,0.7089367006,11
+Cohort,linear,migration,99.07206665,0.7089367006,11
+Exhaustive,linear,migration,93.93130835,1145.728553,11
+IME,linear,migration,93.9806269,0.08932360736,11
+KernelSHAP,linear,migration,93.93130835,0.07383731124,11
+Linear (correlated),linear,migration,93.93130835,3.07E-05,11
+Linear (independent),linear,migration,92.68619567,1.60E-05,11
+MLE,linear,migration,93.76333972,0.1477794307,11
+Non-parametric KernelSHAP,linear,migration,93.93130931,0.037395,11
+Parametric KernelSHAP,linear,migration,93.93130936,0.039676,11
+SGDShapley,linear,migration,93.93130835,0.1057782669,11
+CES,linear,mtcars,87.39875879,0.0414918336,11
+Cohort,linear,mtcars,25,0.0414918336,11
+Exhaustive,linear,mtcars,87.42882377,120.0986161,11
+IME,linear,mtcars,87.63171627,0.1126172326,11
+KernelSHAP,linear,mtcars,87.42882377,0.08055667444,11
+Linear (correlated),linear,mtcars,87.42882377,0.0001357468692,11
+Linear (independent),linear,mtcars,87.42882377,9.04E-05,11
+MLE,linear,mtcars,88.12274837,0.1775849732,11
+Non-parametric KernelSHAP,linear,mtcars,87.42882733,0.060562,11
+Parametric KernelSHAP,linear,mtcars,87.42882733,0.060562,11
+SGDShapley,linear,mtcars,87.42882377,0.1073112921,11
+CES,linear,ozone,99.89064843,0.9556971415,12
+Cohort,linear,ozone,99.92908495,0.9556971415,12
+Exhaustive,linear,ozone,99.89467778,3334.730681,12
+IME,linear,ozone,99.72867578,0.1122639037,12
+KernelSHAP,linear,ozone,99.89467778,0.07863968522,12
+Linear (correlated),linear,ozone,99.89467778,2.93E-05,12
+Linear (independent),linear,ozone,99.7576978,2.01E-05,12
+MLE,linear,ozone,99.76829613,0.1791972473,12
+Non-parametric KernelSHAP,linear,ozone,99.89467781,0.080353,12
+Parametric KernelSHAP,linear,ozone,99.89467781,0.080353,12
+SGDShapley,linear,ozone,99.89467778,0.1073124871,12
+CES,linear,petrol,91.18080336,0.009606093168,4
+Cohort,linear,petrol,62.42088772,0.009606093168,4
+Exhaustive,linear,petrol,90.79490831,0.9672431946,4
+IME,linear,petrol,88.40287274,0.09978973866,4
+KernelSHAP,linear,petrol,90.79490831,0.09033949673,4
+Linear (correlated),linear,petrol,90.79490831,6.89E-05,4
+Linear (independent),linear,petrol,90.79490831,5.99E-05,4
+MLE,linear,petrol,91.96468744,0.1520196497,4
+Non-parametric KernelSHAP,linear,petrol,90.79491081,0.0051,4
+Parametric KernelSHAP,linear,petrol,90.79490826,0.007777,4
+SGDShapley,linear,petrol,90.79490831,0.1013195068,4
+CES,linear,poker,98.61535858,2.314940643,10
+Cohort,linear,poker,97.27933639,2.314940643,10
+Exhaustive,linear,poker,99.99989515,1312.219272,10
+IME,linear,poker,99.70562561,0.08747999451,10
+KernelSHAP,linear,poker,99.90906477,0.08490061543,10
+Linear (correlated),linear,poker,99.90906477,1.76E-05,10
+Linear (independent),linear,poker,97.70565809,8.37E-06,10
+MLE,linear,poker,99.79430405,0.1494642294,10
+Non-parametric KernelSHAP,linear,poker,52.16799131,0.031353,10
+Parametric KernelSHAP,linear,poker,52.16799103,0.046249,10
+SGDShapley,linear,poker,99.90906477,0.1073604829,10
+CES,linear,possumbelly,98.23852998,0.2291202205,10
+Cohort,linear,possumbelly,97.27225446,0.2291202205,10
+Exhaustive,linear,possumbelly,98.23564931,293.3491302,10
+IME,linear,possumbelly,97.92691551,0.1085305146,10
+KernelSHAP,linear,possumbelly,98.23564931,0.07427176067,10
+Linear (correlated),linear,possumbelly,98.23564931,5.18E-05,10
+Linear (independent),linear,possumbelly,98.23564931,2.78E-05,10
+MLE,linear,possumbelly,98.06647917,0.1723561559,10
+Non-parametric KernelSHAP,linear,possumbelly,98.23564955,0.020698,10
+Parametric KernelSHAP,linear,possumbelly,98.23564947,0.020171,10
+SGDShapley,linear,possumbelly,98.23564931,0.1053809711,10
+CES,linear,possumchest,99.58843544,0.2297284058,10
+Cohort,linear,possumchest,99.31272574,0.2297284058,10
+Exhaustive,linear,possumchest,99.58686397,319.5026946,10
+IME,linear,possumchest,99.26795843,0.1106582097,10
+KernelSHAP,linear,possumchest,99.58686397,0.08319138799,10
+Linear (correlated),linear,possumchest,99.58686397,4.35E-05,10
+Linear (independent),linear,possumchest,99.58686397,3.58E-05,10
+MLE,linear,possumchest,99.5644466,0.1719581059,10
+Non-parametric KernelSHAP,linear,possumchest,99.58686403,0.021785,10
+Parametric KernelSHAP,linear,possumchest,99.58686401,0.020188,10
+SGDShapley,linear,possumchest,99.58686397,0.1083304882,10
+CES,linear,power,96.86242711,0.2775675201,4
+Cohort,linear,power,94.76427909,0.2775675201,4
+Exhaustive,linear,power,99.99997584,97.5306139,4
+IME,linear,power,99.70471654,0.09694559213,4
+KernelSHAP,linear,power,99.87942847,0.07807392641,4
+Linear (correlated),linear,power,99.87942847,1.61E-05,4
+Linear (independent),linear,power,99.66287943,8.40E-06,4
+MLE,linear,power,99.77800016,0.1508625161,4
+Non-parametric KernelSHAP,linear,power,74.43799594,0.008816,4
+Parametric KernelSHAP,linear,power,74.43799633,0.008896,4
+SGDShapley,linear,power,99.87942847,0.09801926324,4
+CES,linear,powerlifting,99.84319872,0.7444298339,6
+Cohort,linear,powerlifting,99.21125836,0.7444298339,6
+Exhaustive,linear,powerlifting,99.91391496,31.02651501,6
+IME,linear,powerlifting,98.61083172,0.102548605,6
+KernelSHAP,linear,powerlifting,98.75547325,0.07595605706,6
+Linear (correlated),linear,powerlifting,98.75547325,2.23E-05,6
+Linear (independent),linear,powerlifting,99.23667049,8.00E-06,6
+MLE,linear,powerlifting,98.69344528,0.1587949095,6
+Non-parametric KernelSHAP,linear,powerlifting,99.27115357,0.009712,6
+Parametric KernelSHAP,linear,powerlifting,99.27115356,0.009141,6
+SGDShapley,linear,powerlifting,98.75547325,0.1017079079,6
+CES,linear,precip,50,1.645043852,9
+Cohort,linear,precip,99.97012688,1.645043852,9
+Exhaustive,linear,precip,99.98660744,4542.061301,9
+IME,linear,precip,99.28034282,0.1050583225,9
+KernelSHAP,linear,precip,99.52590749,0.08262002468,9
+Linear (correlated),linear,precip,50,2.31E-05,9
+Linear (independent),linear,precip,96.73416346,8.96E-06,9
+MLE,linear,precip,99.38980668,0.1680831599,9
+Non-parametric KernelSHAP,linear,precip,50,0.020505,9
+Parametric KernelSHAP,linear,precip,50,0.025627,9
+SGDShapley,linear,precip,99.52590067,0.1059291847,9
+CES,linear,prostate,96.38100978,0.1099478187,8
+Cohort,linear,prostate,93.26275763,0.1099478187,8
+Exhaustive,linear,prostate,96.40906575,55.47602272,8
+IME,linear,prostate,96.69382786,0.1049869855,8
+KernelSHAP,linear,prostate,96.40906575,0.08416011839,8
+Linear (correlated),linear,prostate,96.40906575,5.27E-05,8
+Linear (independent),linear,prostate,96.40906575,3.32E-05,8
+MLE,linear,prostate,96.58148104,0.1662770257,8
+Non-parametric KernelSHAP,linear,prostate,96.40906599,0.009983,8
+Parametric KernelSHAP,linear,prostate,96.40906594,0.008727,8
+SGDShapley,linear,prostate,96.40906575,0.1061038465,8
+CES,linear,pumpkinseed,99.99766319,3.800119886,12
+Cohort,linear,pumpkinseed,99.9972753,3.800119886,12
+Exhaustive,linear,pumpkinseed,99.44431974,14996.72615,12
+IME,linear,pumpkinseed,99.77927887,0.1138658892,12
+KernelSHAP,linear,pumpkinseed,99.98455716,0.0799467253,12
+Linear (correlated),linear,pumpkinseed,99.98455716,1.63E-05,12
+Linear (independent),linear,pumpkinseed,98.27414237,8.40E-06,12
+MLE,linear,pumpkinseed,99.87477244,0.1785316171,12
+Non-parametric KernelSHAP,linear,pumpkinseed,99.98491736,0.137672,12
+Parametric KernelSHAP,linear,pumpkinseed,99.98491736,0.137672,12
+SGDShapley,linear,pumpkinseed,99.98455716,0.1061596957,12
+CES,linear,questions,99.70516915,0.07597460985,3
+Cohort,linear,questions,99.76261944,0.07597460985,3
+Exhaustive,linear,questions,99.68637558,0.05564403534,3
+IME,linear,questions,99.45673789,0.09748946392,3
+KernelSHAP,linear,questions,99.68637558,0.07261297053,3
+Linear (correlated),linear,questions,99.68637558,2.03E-05,3
+Linear (independent),linear,questions,98.7695402,1.10E-05,3
+MLE,linear,questions,99.59490174,0.1461142034,3
+Non-parametric KernelSHAP,linear,questions,99.68637557,0.006242,3
+Parametric KernelSHAP,linear,questions,99.68637556,0.008708,3
+SGDShapley,linear,questions,99.68637558,0.09552383278,3
+CES,linear,raotbl6,99.72668472,0.1416886725,7
+Cohort,linear,raotbl6,46.25013033,0.1416886725,7
+Exhaustive,linear,raotbl6,99.96071071,25.31410241,7
+IME,linear,raotbl6,99.64258315,0.1042966785,7
+KernelSHAP,linear,raotbl6,99.96071071,0.08413842248,7
+Linear (correlated),linear,raotbl6,99.96071071,5.01E-05,7
+Linear (independent),linear,raotbl6,99.96071071,2.55E-05,7
+MLE,linear,raotbl6,99.81190213,0.163804345,7
+Non-parametric KernelSHAP,linear,raotbl6,99.96071073,0.00679,7
+Parametric KernelSHAP,linear,raotbl6,99.96071068,0.006152,7
+SGDShapley,linear,raotbl6,99.96071071,0.1019421845,7
+CES,linear,raotbl7,99.5365516,0.1286625048,7
+Cohort,linear,raotbl7,99.58225928,0.1286625048,7
+Exhaustive,linear,raotbl7,99.50773621,22.35453868,7
+IME,linear,raotbl7,99.38965936,0.101277113,7
+KernelSHAP,linear,raotbl7,99.50773621,0.07461357117,7
+Linear (correlated),linear,raotbl7,99.50773621,4.10E-05,7
+Linear (independent),linear,raotbl7,99.50773621,3.30E-05,7
+MLE,linear,raotbl7,99.35077626,0.1600126813,7
+Non-parametric KernelSHAP,linear,raotbl7,99.50773627,0.007437,7
+Parametric KernelSHAP,linear,raotbl7,99.50773618,0.007037,7
+SGDShapley,linear,raotbl7,99.50773621,0.1015926047,7
+CES,linear,realestate,99.88480781,0.5840948009,7
+Cohort,linear,realestate,99.72644472,0.5840948009,7
+Exhaustive,linear,realestate,99.89630119,8.782230377,7
+IME,linear,realestate,99.66682455,0.103038311,7
+KernelSHAP,linear,realestate,99.89630119,0.07881897905,7
+Linear (correlated),linear,realestate,99.89630119,1.81E-05,7
+Linear (independent),linear,realestate,99.99199536,1.34E-05,7
+MLE,linear,realestate,99.77710232,0.1638367228,7
+Non-parametric KernelSHAP,linear,realestate,99.89630123,0.008044,7
+Parametric KernelSHAP,linear,realestate,99.8963012,0.009753,7
+SGDShapley,linear,realestate,99.89630119,0.1038085231,7
+CES,linear,rentals,99.92881406,1.681314275,8
+Cohort,linear,rentals,99.92296736,1.681314275,8
+Exhaustive,linear,rentals,99.98323035,210.3854713,8
+IME,linear,rentals,99.71568403,0.1044837453,8
+KernelSHAP,linear,rentals,99.95631982,0.07623595469,8
+Linear (correlated),linear,rentals,99.95631982,1.55E-05,8
+Linear (independent),linear,rentals,99.33469758,8.60E-06,8
+MLE,linear,rentals,99.8573706,0.1645468755,8
+Non-parametric KernelSHAP,linear,rentals,99.9563198,0.015562,8
+Parametric KernelSHAP,linear,rentals,99.9563198,0.016912,8
+SGDShapley,linear,rentals,99.95631982,0.1041773666,8
+CES,linear,sacramento,99.96620983,0.6037814116,5
+Cohort,linear,sacramento,99.91275784,0.6037814116,5
+Exhaustive,linear,sacramento,99.41204982,4.332038164,5
+IME,linear,sacramento,99.27148478,0.09877961564,5
+KernelSHAP,linear,sacramento,99.41204982,0.08024251848,5
+Linear (correlated),linear,sacramento,99.41204982,2.04E-05,5
+Linear (independent),linear,sacramento,94.09951291,8.59E-06,5
+MLE,linear,sacramento,99.32499126,0.153765923,5
+Non-parametric KernelSHAP,linear,sacramento,99.41204981,0.008488,5
+Parametric KernelSHAP,linear,sacramento,99.41204984,0.009057,5
+SGDShapley,linear,sacramento,99.41204982,0.1004122155,5
+CES,linear,seeds,99.26576868,0.2062907253,6
+Cohort,linear,seeds,97.72671671,0.2062907253,6
+Exhaustive,linear,seeds,99.26813516,9.373326302,6
+IME,linear,seeds,98.86886392,0.1010057926,6
+KernelSHAP,linear,seeds,99.26813516,0.08215763603,6
+Linear (correlated),linear,seeds,99.26813516,3.39E-05,6
+Linear (independent),linear,seeds,99.80889724,1.73E-05,6
+MLE,linear,seeds,99.18413247,0.156793235,6
+Non-parametric KernelSHAP,linear,seeds,99.26813549,0.006893,6
+Parametric KernelSHAP,linear,seeds,99.26813541,0.005797,6
+SGDShapley,linear,seeds,99.26813516,0.1013703623,6
+CES,linear,seoulbike,99.53462408,3.80706214,12
+Cohort,linear,seoulbike,98.92822094,3.80706214,12
+Exhaustive,linear,seoulbike,99.99903924,20700.805,12
+IME,linear,seoulbike,99.44399228,0.1121910182,12
+KernelSHAP,linear,seoulbike,99.65157035,0.08373505491,12
+Linear (correlated),linear,seoulbike,99.65157035,1.72E-05,12
+Linear (independent),linear,seoulbike,98.88034124,8.17E-06,12
+MLE,linear,seoulbike,99.58035619,0.1800187992,12
+Non-parametric KernelSHAP,linear,seoulbike,97.47760561,0.157659,12
+Parametric KernelSHAP,linear,seoulbike,97.47760561,0.157659,12
+SGDShapley,linear,seoulbike,99.65157035,0.1111265919,12
+CES,linear,servo,97.7669376,0.6479534193,12
+Cohort,linear,servo,88.42940668,0.6479534193,12
+Exhaustive,linear,servo,97.76378394,2672.064912,12
+IME,linear,servo,97.49515825,0.1131355719,12
+KernelSHAP,linear,servo,97.76378394,0.0912131613,12
+Linear (correlated),linear,servo,97.76378394,3.95E-05,12
+Linear (independent),linear,servo,96.79216882,2.00E-05,12
+MLE,linear,servo,97.6873102,0.1820055571,12
+Non-parametric KernelSHAP,linear,servo,97.76378401,0.080504,12
+Parametric KernelSHAP,linear,servo,97.76378401,0.080504,12
+SGDShapley,linear,servo,97.76378394,0.1093039989,12
+CES,linear,slump,95.53426013,0.08767834832,7
+Cohort,linear,slump,90.07298033,0.08767834832,7
+Exhaustive,linear,slump,95.51155917,25.28952408,7
+IME,linear,slump,95.4363487,0.1018838462,7
+KernelSHAP,linear,slump,95.51155917,0.0759095234,7
+Linear (correlated),linear,slump,95.51155917,4.78E-05,7
+Linear (independent),linear,slump,95.51155917,3.97E-05,7
+MLE,linear,slump,95.13809637,0.1633014258,7
+Non-parametric KernelSHAP,linear,slump,95.51155922,0.008064,7
+Parametric KernelSHAP,linear,slump,95.51155891,0.007282,7
+SGDShapley,linear,slump,95.51155917,0.1042482011,7
+CES,linear,slump-flow,96.58668637,0.06284515297,7
+Cohort,linear,slump-flow,86.92133112,0.06284515297,7
+Exhaustive,linear,slump-flow,96.58291038,21.64876986,7
+IME,linear,slump-flow,95.97863221,0.1049683725,7
+KernelSHAP,linear,slump-flow,96.58291038,0.07671440349,7
+Linear (correlated),linear,slump-flow,96.58291038,4.56E-05,7
+Linear (independent),linear,slump-flow,96.58291038,3.23E-05,7
+MLE,linear,slump-flow,96.27390442,0.1647407518,7
+Non-parametric KernelSHAP,linear,slump-flow,96.58291044,0.008691,7
+Parametric KernelSHAP,linear,slump-flow,96.58291018,0.007344,7
+SGDShapley,linear,slump-flow,96.58291038,0.1067814476,7
+CES,linear,slump-mpa,99.44455317,0.1584163203,7
+Cohort,linear,slump-mpa,97.92191941,0.1584163203,7
+Exhaustive,linear,slump-mpa,99.49657015,17.54569364,7
+IME,linear,slump-mpa,99.46629731,0.1037065492,7
+KernelSHAP,linear,slump-mpa,99.49657015,0.07460868359,7
+Linear (correlated),linear,slump-mpa,99.49657015,4.07E-05,7
+Linear (independent),linear,slump-mpa,99.49657015,3.56E-05,7
+MLE,linear,slump-mpa,99.31175627,0.1608285623,7
+Non-parametric KernelSHAP,linear,slump-mpa,99.49657014,0.007474,7
+Parametric KernelSHAP,linear,slump-mpa,99.49657008,0.006127,7
+SGDShapley,linear,slump-mpa,99.49657015,0.1046033326,7
+CES,linear,spending,99.59140178,0.249997173,10
+Cohort,linear,spending,99.23079382,0.249997173,10
+Exhaustive,linear,spending,99.58686397,49.45343733,10
+IME,linear,spending,99.27996714,0.1096017224,10
+KernelSHAP,linear,spending,99.58686397,0.0861300809,10
+Linear (correlated),linear,spending,99.58686397,7.06E-05,10
+Linear (independent),linear,spending,99.58686397,3.30E-05,10
+MLE,linear,spending,99.49586383,0.1731899125,10
+Non-parametric KernelSHAP,linear,spending,99.58686403,0.020101,10
+Parametric KernelSHAP,linear,spending,99.58686401,0.018974,10
+SGDShapley,linear,spending,99.58686397,0.1045233318,10
+CES,linear,spx,98.42956723,0.1237021375,3
+Cohort,linear,spx,99.96259026,0.1237021375,3
+Exhaustive,linear,spx,99.95941365,0.08736634254,3
+IME,linear,spx,99.74708166,0.09493505501,3
+KernelSHAP,linear,spx,99.95941365,0.07980102734,3
+Linear (correlated),linear,spx,99.95941365,2.07E-05,3
+Linear (independent),linear,spx,99.6490622,8.76E-06,3
+MLE,linear,spx,99.83800135,0.1487808838,3
+Non-parametric KernelSHAP,linear,spx,99.95941365,0.007519,3
+Parametric KernelSHAP,linear,spx,99.95941366,0.010566,3
+SGDShapley,linear,spx,99.95941365,0.09672218871,3
+CES,linear,startups,86.87747311,0.01448697202,4
+Cohort,linear,startups,86.56292855,0.01448697202,4
+Exhaustive,linear,startups,86.92381449,1.193383217,4
+IME,linear,startups,86.73496156,0.1007813846,4
+KernelSHAP,linear,startups,86.92381449,0.0926860641,4
+Linear (correlated),linear,startups,86.92381449,8.30E-05,4
+Linear (independent),linear,startups,86.92381449,5.81E-05,4
+MLE,linear,startups,87.52958311,0.1489715997,4
+Non-parametric KernelSHAP,linear,startups,86.92381431,0.005234,4
+Parametric KernelSHAP,linear,startups,86.92381477,0.01375,4
+SGDShapley,linear,startups,86.92381449,0.101289118,4
+CES,linear,stockreturn,99.83075591,1.479086452,12
+Cohort,linear,stockreturn,99.49273641,1.479086452,12
+Exhaustive,linear,stockreturn,99.82336032,2864.244252,12
+IME,linear,stockreturn,99.57902282,0.1144258609,12
+KernelSHAP,linear,stockreturn,99.82336032,0.07663561748,12
+Linear (correlated),linear,stockreturn,99.82336032,2.03E-05,12
+Linear (independent),linear,stockreturn,99.92452166,1.41E-05,12
+MLE,linear,stockreturn,99.75896686,0.1802232151,12
+Non-parametric KernelSHAP,linear,stockreturn,99.8233603,0.082638,12
+Parametric KernelSHAP,linear,stockreturn,99.8233603,0.082638,12
+SGDShapley,linear,stockreturn,99.82336032,0.1096415566,12
+CES,linear,stockrisk,98.40994818,0.5123105502,12
+Cohort,linear,stockrisk,97.62426055,0.5123105502,12
+Exhaustive,linear,stockrisk,99.10327053,2643.461191,12
+IME,linear,stockrisk,98.89598416,0.1138775463,12
+KernelSHAP,linear,stockrisk,99.10327053,0.08279564518,12
+Linear (correlated),linear,stockrisk,99.10327053,2.32E-05,12
+Linear (independent),linear,stockrisk,99.43430635,1.41E-05,12
+MLE,linear,stockrisk,99.05758411,0.1789894035,12
+Non-parametric KernelSHAP,linear,stockrisk,99.10327051,0.081158,12
+Parametric KernelSHAP,linear,stockrisk,99.10327051,0.081158,12
+SGDShapley,linear,stockrisk,99.10327053,0.1095412947,12
+CES,linear,telecom,99.440885,2.59798234,11
+Cohort,linear,telecom,99.92512753,2.59798234,11
+Exhaustive,linear,telecom,99.9618336,4040.69152,11
+IME,linear,telecom,99.76439654,0.1121236505,11
+KernelSHAP,linear,telecom,99.9618336,0.07718240276,11
+Linear (correlated),linear,telecom,99.9618336,1.72E-05,11
+Linear (independent),linear,telecom,98.04130846,8.42E-06,11
+MLE,linear,telecom,99.87680822,0.1760089867,11
+Non-parametric KernelSHAP,linear,telecom,99.96183359,0.069122,11
+Parametric KernelSHAP,linear,telecom,99.96183359,0.069122,11
+SGDShapley,linear,telecom,99.9618336,0.1074354721,11
+CES,linear,telescope,99.63190023,2.279418955,10
+Cohort,linear,telescope,99.30248463,2.279418955,10
+Exhaustive,linear,telescope,99.99865096,3253.934789,10
+IME,linear,telescope,98.39665186,0.1089602694,10
+KernelSHAP,linear,telescope,98.65226918,0.07534579147,10
+Linear (correlated),linear,telescope,98.65226918,1.52E-05,10
+Linear (independent),linear,telescope,99.74781455,8.02E-06,10
+MLE,linear,telescope,98.51870053,0.1732336203,10
+Non-parametric KernelSHAP,linear,telescope,97.90038295,0.032196,10
+Parametric KernelSHAP,linear,telescope,97.90038281,0.036911,10
+SGDShapley,linear,telescope,98.65226918,0.1046371778,10
+CES,linear,uber,99.99950185,0.6491774726,5
+Cohort,linear,uber,37.27130699,0.6491774726,5
+Exhaustive,linear,uber,99.99888557,39.45030212,5
+IME,linear,uber,98.85825528,0.1007509,5
+KernelSHAP,linear,uber,99.16042374,0.08133946332,5
+Linear (correlated),linear,uber,99.16042374,2.27E-05,5
+Linear (independent),linear,uber,98.10224253,8.38E-06,5
+MLE,linear,uber,99.00309186,0.1581031994,5
+Non-parametric KernelSHAP,linear,uber,50,0.009739,5
+Parametric KernelSHAP,linear,uber,50,0.009395,5
+SGDShapley,linear,uber,99.16042374,0.09839255521,5
+CES,linear,unemploy,99.71094778,0.1638894224,4
+Cohort,linear,unemploy,99.72799626,0.1638894224,4
+Exhaustive,linear,unemploy,97.25655172,0.8570966721,4
+IME,linear,unemploy,97.07830237,0.09597370248,4
+KernelSHAP,linear,unemploy,97.25655172,0.07609983745,4
+Linear (correlated),linear,unemploy,97.25655172,3.11E-05,4
+Linear (independent),linear,unemploy,98.31849857,1.00E-05,4
+MLE,linear,unemploy,97.24955401,0.1519269742,4
+Non-parametric KernelSHAP,linear,unemploy,97.25655208,0.006603,4
+Parametric KernelSHAP,linear,unemploy,97.25655216,0.007816,4
+SGDShapley,linear,unemploy,97.25655172,0.09785381242,4
+CES,linear,wage,99.92554116,1.939657395,8
+Cohort,linear,wage,99.9281411,1.939657395,8
+Exhaustive,linear,wage,99.97866314,175.9207497,8
+IME,linear,wage,99.30773636,0.1038771311,8
+KernelSHAP,linear,wage,99.59161235,0.08441441204,8
+Linear (correlated),linear,wage,99.59161235,1.58E-05,8
+Linear (independent),linear,wage,98.38807632,7.01E-06,8
+MLE,linear,wage,99.46392833,0.1633394603,8
+Non-parametric KernelSHAP,linear,wage,99.92102378,0.015144,8
+Parametric KernelSHAP,linear,wage,99.9210238,0.01778,8
+SGDShapley,linear,wage,99.59161235,0.1043503205,8
+CES,linear,walmart,99.54049046,0.7459722972,6
+Cohort,linear,walmart,99.69290289,0.7459722972,6
+Exhaustive,linear,walmart,99.99923698,12.85625267,6
+IME,linear,walmart,99.76202008,0.1012908285,6
+KernelSHAP,linear,walmart,99.98137512,0.07739954284,6
+Linear (correlated),linear,walmart,99.98137512,1.48E-05,6
+Linear (independent),linear,walmart,98.40549134,8.40E-06,6
+MLE,linear,walmart,99.88424086,0.1583815156,6
+Non-parametric KernelSHAP,linear,walmart,88.56174615,0.010058,6
+Parametric KernelSHAP,linear,walmart,88.561746,0.008805,6
+SGDShapley,linear,walmart,99.98137512,0.1062495723,6
+CES,linear,wholesale,99.41268172,0.4344621539,7
+Cohort,linear,wholesale,99.13262102,0.4344621539,7
+Exhaustive,linear,wholesale,99.18731379,48.89033127,7
+IME,linear,wholesale,99.04462586,0.08297502341,7
+KernelSHAP,linear,wholesale,99.18731379,0.0770083078,7
+Linear (correlated),linear,wholesale,99.18731379,2.22E-05,7
+Linear (independent),linear,wholesale,98.09330364,1.21E-05,7
+MLE,linear,wholesale,99.02385001,0.1355277839,7
+Non-parametric KernelSHAP,linear,wholesale,99.18731367,0.008485,7
+Parametric KernelSHAP,linear,wholesale,99.18731375,0.009217,7
+SGDShapley,linear,wholesale,99.18731379,0.1040549393,7
+CES,linear,wine,99.38369185,3.808155885,12
+Cohort,linear,wine,99.72878929,3.808155885,12
+Exhaustive,linear,wine,99.62198262,10685.82343,12
+IME,linear,wine,99.72866038,0.1137228222,12
+KernelSHAP,linear,wine,99.97343838,0.07716365294,12
+Linear (correlated),linear,wine,99.97343838,1.47E-05,12
+Linear (independent),linear,wine,97.2929493,7.24E-06,12
+MLE,linear,wine,99.85330301,0.1847527742,12
+Non-parametric KernelSHAP,linear,wine,99.8959263,0.146689,12
+Parametric KernelSHAP,linear,wine,99.8959263,0.146689,12
+SGDShapley,linear,wine,99.97343838,0.1093711513,12
+CES,linear,winequality,99.20583839,1.861325674,11
+Cohort,linear,winequality,94.42961578,1.861325674,11
+Exhaustive,linear,winequality,99.9998105,4157.910454,11
+IME,linear,winequality,99.75018602,0.1120061571,11
+KernelSHAP,linear,winequality,99.98103227,0.07771473509,11
+Linear (correlated),linear,winequality,99.98103227,1.64E-05,11
+Linear (independent),linear,winequality,98.04128122,8.23E-06,11
+MLE,linear,winequality,99.84592265,0.1779459874,11
+Non-parametric KernelSHAP,linear,winequality,99.96039971,0.080039,11
+Parametric KernelSHAP,linear,winequality,99.96039971,0.080039,11
+SGDShapley,linear,winequality,99.98103227,0.1055843035,11
+CES,linear,winequality-red,99.57459138,2.595072663,11
+Cohort,linear,winequality-red,99.97295644,2.595072663,11
+Exhaustive,linear,winequality-red,98.82277383,3389.861372,11
+IME,linear,winequality-red,99.45198344,0.1093924342,11
+KernelSHAP,linear,winequality-red,99.64292933,0.0837266214,11
+Linear (correlated),linear,winequality-red,99.64292933,1.77E-05,11
+Linear (independent),linear,winequality-red,99.98556346,8.30E-06,11
+MLE,linear,winequality-red,99.54894592,0.1749836329,11
+Non-parametric KernelSHAP,linear,winequality-red,99.98739968,0.067981,11
+Parametric KernelSHAP,linear,winequality-red,99.98739968,0.067981,11
+SGDShapley,linear,winequality-red,99.64292933,0.1088390502,11
+CES,linear,winequality-white,99.99599911,1.86244498,11
+Cohort,linear,winequality-white,99.25166556,1.86244498,11
+Exhaustive,linear,winequality-white,99.99979816,4015.288216,11
+IME,linear,winequality-white,99.76594101,0.1117761655,11
+KernelSHAP,linear,winequality-white,99.96897277,0.08439968138,11
+Linear (correlated),linear,winequality-white,99.96897277,2.52E-05,11
+Linear (independent),linear,winequality-white,99.94878924,9.01E-06,11
+MLE,linear,winequality-white,99.86648418,0.1762010206,11
+Non-parametric KernelSHAP,linear,winequality-white,99.99940506,0.080136,11
+Parametric KernelSHAP,linear,winequality-white,99.99940506,0.080136,11
+SGDShapley,linear,winequality-white,99.96897277,0.1061628219,11
+CES,linear,yatch,99.05648085,0.2235081577,6
+Cohort,linear,yatch,98.27926963,0.2235081577,6
+Exhaustive,linear,yatch,98.97322333,9.12135601,6
+IME,linear,yatch,98.66378556,0.1002431453,6
+KernelSHAP,linear,yatch,98.97322333,0.07507117589,6
+Linear (correlated),linear,yatch,98.97322333,2.49E-05,6
+Linear (independent),linear,yatch,99.55588159,1.61E-05,6
+MLE,linear,yatch,98.88406856,0.1575537195,6
+Non-parametric KernelSHAP,linear,yatch,98.97322334,0.006262,6
+Parametric KernelSHAP,linear,yatch,98.97322331,0.006288,6
+SGDShapley,linear,yatch,98.97322333,0.1007412906,6
